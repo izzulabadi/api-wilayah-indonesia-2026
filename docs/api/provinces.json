@@ -1,0 +1,154 @@
+[
+    {
+        "id": "1",
+        "name": "Jawa Barat"
+    },
+    {
+        "id": "2",
+        "name": "Bali"
+    },
+    {
+        "id": "3",
+        "name": "Nusa Tenggara Barat"
+    },
+    {
+        "id": "4",
+        "name": "Jawa Tengah"
+    },
+    {
+        "id": "5",
+        "name": "Daerah Istimewa Yogyakarta"
+    },
+    {
+        "id": "6",
+        "name": "Jawa Timur"
+    },
+    {
+        "id": "7",
+        "name": "Sulawesi Selatan"
+    },
+    {
+        "id": "8",
+        "name": "Sumatera Barat"
+    },
+    {
+        "id": "9",
+        "name": "Jambi"
+    },
+    {
+        "id": "10",
+        "name": "Lampung"
+    },
+    {
+        "id": "11",
+        "name": "Sumatera Selatan"
+    },
+    {
+        "id": "12",
+        "name": "Bengkulu"
+    },
+    {
+        "id": "13",
+        "name": "Banten"
+    },
+    {
+        "id": "14",
+        "name": "Kepulauan Bangka Belitung"
+    },
+    {
+        "id": "15",
+        "name": "Dki Jakarta"
+    },
+    {
+        "id": "16",
+        "name": "Kalimantan Selatan"
+    },
+    {
+        "id": "17",
+        "name": "Kalimantan Barat"
+    },
+    {
+        "id": "18",
+        "name": "Kalimantan Tengah"
+    },
+    {
+        "id": "19",
+        "name": "Nusa Tenggara Timur"
+    },
+    {
+        "id": "20",
+        "name": "Maluku"
+    },
+    {
+        "id": "21",
+        "name": "Papua Selatan"
+    },
+    {
+        "id": "22",
+        "name": "Sulawesi Barat"
+    },
+    {
+        "id": "23",
+        "name": "Papua Tengah"
+    },
+    {
+        "id": "24",
+        "name": "Papua Pegunungan"
+    },
+    {
+        "id": "25",
+        "name": "Papua Barat"
+    },
+    {
+        "id": "26",
+        "name": "Papua"
+    },
+    {
+        "id": "27",
+        "name": "Sulawesi Tengah"
+    },
+    {
+        "id": "28",
+        "name": "Sulawesi Tenggara"
+    },
+    {
+        "id": "29",
+        "name": "Kepulauan Riau"
+    },
+    {
+        "id": "30",
+        "name": "Riau"
+    },
+    {
+        "id": "31",
+        "name": "Sumatera Utara"
+    },
+    {
+        "id": "32",
+        "name": "Kalimantan Timur"
+    },
+    {
+        "id": "33",
+        "name": "Kalimantan Utara"
+    },
+    {
+        "id": "34",
+        "name": "Sulawesi Utara"
+    },
+    {
+        "id": "35",
+        "name": "Aceh"
+    },
+    {
+        "id": "36",
+        "name": "Maluku Utara"
+    },
+    {
+        "id": "37",
+        "name": "Papua Barat Daya"
+    },
+    {
+        "id": "38",
+        "name": "Gorontalo"
+    }
+]

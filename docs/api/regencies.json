@@ -1,0 +1,1277 @@
+[
+    {
+        "id": "1",
+        "provinceId": "1",
+        "name": "Sukabumi"
+    },
+    {
+        "id": "2",
+        "provinceId": "1",
+        "name": "Garut"
+    },
+    {
+        "id": "3",
+        "provinceId": "1",
+        "name": "Tasikmalaya"
+    },
+    {
+        "id": "4",
+        "provinceId": "1",
+        "name": "Majalengka"
+    },
+    {
+        "id": "5",
+        "provinceId": "1",
+        "name": "Pangandaran"
+    },
+    {
+        "id": "6",
+        "provinceId": "1",
+        "name": "Kota Tasikmalaya"
+    },
+    {
+        "id": "7",
+        "provinceId": "1",
+        "name": "Bandung Barat"
+    },
+    {
+        "id": "8",
+        "provinceId": "1",
+        "name": "Sumedang"
+    },
+    {
+        "id": "9",
+        "provinceId": "1",
+        "name": "Kota Sukabumi"
+    },
+    {
+        "id": "10",
+        "provinceId": "1",
+        "name": "Kota Bandung"
+    },
+    {
+        "id": "11",
+        "provinceId": "1",
+        "name": "Kota Banjar"
+    },
+    {
+        "id": "50",
+        "provinceId": "1",
+        "name": "Kuningan"
+    },
+    {
+        "id": "51",
+        "provinceId": "1",
+        "name": "Cianjur"
+    },
+    {
+        "id": "52",
+        "provinceId": "1",
+        "name": "Bandung"
+    },
+    {
+        "id": "53",
+        "provinceId": "1",
+        "name": "Ciamis"
+    },
+    {
+        "id": "164",
+        "provinceId": "1",
+        "name": "Indramayu"
+    },
+    {
+        "id": "165",
+        "provinceId": "1",
+        "name": "Cirebon"
+    },
+    {
+        "id": "166",
+        "provinceId": "1",
+        "name": "Kota Cirebon"
+    },
+    {
+        "id": "167",
+        "provinceId": "1",
+        "name": "Kota Depok"
+    },
+    {
+        "id": "168",
+        "provinceId": "1",
+        "name": "Karawang"
+    },
+    {
+        "id": "169",
+        "provinceId": "1",
+        "name": "Purwakarta"
+    },
+    {
+        "id": "170",
+        "provinceId": "1",
+        "name": "Bogor"
+    },
+    {
+        "id": "171",
+        "provinceId": "1",
+        "name": "Kota Cimahi"
+    },
+    {
+        "id": "172",
+        "provinceId": "1",
+        "name": "Kota Bekasi"
+    },
+    {
+        "id": "173",
+        "provinceId": "1",
+        "name": "Kota Bogor"
+    },
+    {
+        "id": "174",
+        "provinceId": "1",
+        "name": "Subang"
+    },
+    {
+        "id": "175",
+        "provinceId": "1",
+        "name": "Bekasi"
+    },
+    {
+        "id": "12",
+        "provinceId": "2",
+        "name": "Klungkung"
+    },
+    {
+        "id": "13",
+        "provinceId": "2",
+        "name": "Karangasem"
+    },
+    {
+        "id": "14",
+        "provinceId": "2",
+        "name": "Bangli"
+    },
+    {
+        "id": "15",
+        "provinceId": "2",
+        "name": "Tabanan"
+    },
+    {
+        "id": "16",
+        "provinceId": "2",
+        "name": "Badung"
+    },
+    {
+        "id": "17",
+        "provinceId": "2",
+        "name": "Gianyar"
+    },
+    {
+        "id": "18",
+        "provinceId": "2",
+        "name": "Jembrana"
+    },
+    {
+        "id": "19",
+        "provinceId": "2",
+        "name": "Buleleng"
+    },
+    {
+        "id": "20",
+        "provinceId": "2",
+        "name": "Kota Denpasar"
+    },
+    {
+        "id": "21",
+        "provinceId": "3",
+        "name": "Kota Mataram"
+    },
+    {
+        "id": "22",
+        "provinceId": "3",
+        "name": "Sumbawa Barat"
+    },
+    {
+        "id": "23",
+        "provinceId": "3",
+        "name": "Sumbawa"
+    },
+    {
+        "id": "24",
+        "provinceId": "3",
+        "name": "Lombok Tengah"
+    },
+    {
+        "id": "25",
+        "provinceId": "3",
+        "name": "Lombok Timur"
+    },
+    {
+        "id": "26",
+        "provinceId": "3",
+        "name": "Lombok Utara"
+    },
+    {
+        "id": "27",
+        "provinceId": "3",
+        "name": "Lombok Barat"
+    },
+    {
+        "id": "28",
+        "provinceId": "3",
+        "name": "Dompu"
+    },
+    {
+        "id": "29",
+        "provinceId": "3",
+        "name": "Bima"
+    },
+    {
+        "id": "231",
+        "provinceId": "3",
+        "name": "Kota Bima"
+    },
+    {
+        "id": "30",
+        "provinceId": "4",
+        "name": "Banyumas"
+    },
+    {
+        "id": "31",
+        "provinceId": "4",
+        "name": "Magelang"
+    },
+    {
+        "id": "32",
+        "provinceId": "4",
+        "name": "Brebes"
+    },
+    {
+        "id": "33",
+        "provinceId": "4",
+        "name": "Klaten"
+    },
+    {
+        "id": "34",
+        "provinceId": "4",
+        "name": "Purworejo"
+    },
+    {
+        "id": "35",
+        "provinceId": "4",
+        "name": "Pekalongan"
+    },
+    {
+        "id": "36",
+        "provinceId": "4",
+        "name": "Semarang"
+    },
+    {
+        "id": "37",
+        "provinceId": "4",
+        "name": "Kebumen"
+    },
+    {
+        "id": "38",
+        "provinceId": "4",
+        "name": "Temanggung"
+    },
+    {
+        "id": "39",
+        "provinceId": "4",
+        "name": "Demak"
+    },
+    {
+        "id": "40",
+        "provinceId": "4",
+        "name": "Kendal"
+    },
+    {
+        "id": "41",
+        "provinceId": "4",
+        "name": "Banjarnegara"
+    },
+    {
+        "id": "42",
+        "provinceId": "4",
+        "name": "Cilacap"
+    },
+    {
+        "id": "43",
+        "provinceId": "4",
+        "name": "Kota Semarang"
+    },
+    {
+        "id": "44",
+        "provinceId": "4",
+        "name": "Boyolali"
+    },
+    {
+        "id": "45",
+        "provinceId": "4",
+        "name": "Tegal"
+    },
+    {
+        "id": "46",
+        "provinceId": "4",
+        "name": "Grobogan"
+    },
+    {
+        "id": "47",
+        "provinceId": "4",
+        "name": "Wonosobo"
+    },
+    {
+        "id": "48",
+        "provinceId": "4",
+        "name": "Kota Salatiga"
+    },
+    {
+        "id": "49",
+        "provinceId": "4",
+        "name": "Kota Magelang"
+    },
+    {
+        "id": "59",
+        "provinceId": "4",
+        "name": "Batang"
+    },
+    {
+        "id": "60",
+        "provinceId": "4",
+        "name": "Pemalang"
+    },
+    {
+        "id": "61",
+        "provinceId": "4",
+        "name": "Purbalingga"
+    },
+    {
+        "id": "100",
+        "provinceId": "4",
+        "name": "Blora"
+    },
+    {
+        "id": "101",
+        "provinceId": "4",
+        "name": "Sukoharjo"
+    },
+    {
+        "id": "102",
+        "provinceId": "4",
+        "name": "Karanganyar"
+    },
+    {
+        "id": "103",
+        "provinceId": "4",
+        "name": "Sragen"
+    },
+    {
+        "id": "104",
+        "provinceId": "4",
+        "name": "Wonogiri"
+    },
+    {
+        "id": "105",
+        "provinceId": "4",
+        "name": "Pati"
+    },
+    {
+        "id": "106",
+        "provinceId": "4",
+        "name": "Kota Surakarta"
+    },
+    {
+        "id": "182",
+        "provinceId": "4",
+        "name": "Kudus"
+    },
+    {
+        "id": "183",
+        "provinceId": "4",
+        "name": "Rembang"
+    },
+    {
+        "id": "184",
+        "provinceId": "4",
+        "name": "Jepara"
+    },
+    {
+        "id": "185",
+        "provinceId": "4",
+        "name": "Kota Pekalongan"
+    },
+    {
+        "id": "206",
+        "provinceId": "4",
+        "name": "Kota Tegal"
+    },
+    {
+        "id": "54",
+        "provinceId": "5",
+        "name": "Bantul"
+    },
+    {
+        "id": "55",
+        "provinceId": "5",
+        "name": "Kota Yogyakarta"
+    },
+    {
+        "id": "56",
+        "provinceId": "5",
+        "name": "Kulon Progo"
+    },
+    {
+        "id": "57",
+        "provinceId": "5",
+        "name": "Sleman"
+    },
+    {
+        "id": "58",
+        "provinceId": "5",
+        "name": "Gunungkidul"
+    },
+    {
+        "id": "62",
+        "provinceId": "6",
+        "name": "Gresik"
+    },
+    {
+        "id": "63",
+        "provinceId": "6",
+        "name": "Kediri"
+    },
+    {
+        "id": "64",
+        "provinceId": "6",
+        "name": "Sumenep"
+    },
+    {
+        "id": "65",
+        "provinceId": "6",
+        "name": "Sampang"
+    },
+    {
+        "id": "66",
+        "provinceId": "6",
+        "name": "Situbondo"
+    },
+    {
+        "id": "67",
+        "provinceId": "6",
+        "name": "Kota Surabaya"
+    },
+    {
+        "id": "68",
+        "provinceId": "6",
+        "name": "Jember"
+    },
+    {
+        "id": "69",
+        "provinceId": "6",
+        "name": "Pamekasan"
+    },
+    {
+        "id": "70",
+        "provinceId": "6",
+        "name": "Jombang"
+    },
+    {
+        "id": "71",
+        "provinceId": "6",
+        "name": "Bangkalan"
+    },
+    {
+        "id": "72",
+        "provinceId": "6",
+        "name": "Banyuwangi"
+    },
+    {
+        "id": "73",
+        "provinceId": "6",
+        "name": "Bondowoso"
+    },
+    {
+        "id": "74",
+        "provinceId": "6",
+        "name": "Pasuruan"
+    },
+    {
+        "id": "75",
+        "provinceId": "6",
+        "name": "Bojonegoro"
+    },
+    {
+        "id": "76",
+        "provinceId": "6",
+        "name": "Probolinggo"
+    },
+    {
+        "id": "77",
+        "provinceId": "6",
+        "name": "Magetan"
+    },
+    {
+        "id": "78",
+        "provinceId": "6",
+        "name": "Lumajang"
+    },
+    {
+        "id": "79",
+        "provinceId": "6",
+        "name": "Malang"
+    },
+    {
+        "id": "80",
+        "provinceId": "6",
+        "name": "Blitar"
+    },
+    {
+        "id": "81",
+        "provinceId": "6",
+        "name": "Sidoarjo"
+    },
+    {
+        "id": "82",
+        "provinceId": "6",
+        "name": "Lamongan"
+    },
+    {
+        "id": "83",
+        "provinceId": "6",
+        "name": "Tulungagung"
+    },
+    {
+        "id": "84",
+        "provinceId": "6",
+        "name": "Pacitan"
+    },
+    {
+        "id": "85",
+        "provinceId": "6",
+        "name": "Mojokerto"
+    },
+    {
+        "id": "86",
+        "provinceId": "6",
+        "name": "Nganjuk"
+    },
+    {
+        "id": "87",
+        "provinceId": "6",
+        "name": "Ponorogo"
+    },
+    {
+        "id": "88",
+        "provinceId": "6",
+        "name": "Ngawi"
+    },
+    {
+        "id": "89",
+        "provinceId": "6",
+        "name": "Madiun"
+    },
+    {
+        "id": "90",
+        "provinceId": "6",
+        "name": "Kota Pasuruan"
+    },
+    {
+        "id": "91",
+        "provinceId": "6",
+        "name": "Kota Mojokerto"
+    },
+    {
+        "id": "92",
+        "provinceId": "6",
+        "name": "Kota Kediri"
+    },
+    {
+        "id": "93",
+        "provinceId": "6",
+        "name": "Trenggalek"
+    },
+    {
+        "id": "94",
+        "provinceId": "6",
+        "name": "Tuban"
+    },
+    {
+        "id": "95",
+        "provinceId": "6",
+        "name": "Kota Madiun"
+    },
+    {
+        "id": "96",
+        "provinceId": "6",
+        "name": "Kota Batu"
+    },
+    {
+        "id": "97",
+        "provinceId": "6",
+        "name": "Kota Blitar"
+    },
+    {
+        "id": "98",
+        "provinceId": "6",
+        "name": "Kota Probolinggo"
+    },
+    {
+        "id": "99",
+        "provinceId": "6",
+        "name": "Kota Malang"
+    },
+    {
+        "id": "107",
+        "provinceId": "7",
+        "name": "Pangkajene Kepulauan"
+    },
+    {
+        "id": "232",
+        "provinceId": "7",
+        "name": "Pinrang"
+    },
+    {
+        "id": "233",
+        "provinceId": "7",
+        "name": "Wajo"
+    },
+    {
+        "id": "234",
+        "provinceId": "7",
+        "name": "Takalar"
+    },
+    {
+        "id": "235",
+        "provinceId": "7",
+        "name": "Sinjai"
+    },
+    {
+        "id": "236",
+        "provinceId": "7",
+        "name": "Kepulauan Selayar"
+    },
+    {
+        "id": "237",
+        "provinceId": "7",
+        "name": "Jeneponto"
+    },
+    {
+        "id": "238",
+        "provinceId": "7",
+        "name": "Gowa"
+    },
+    {
+        "id": "239",
+        "provinceId": "7",
+        "name": "Soppeng"
+    },
+    {
+        "id": "240",
+        "provinceId": "7",
+        "name": "Enrekang"
+    },
+    {
+        "id": "241",
+        "provinceId": "7",
+        "name": "Bulukumba"
+    },
+    {
+        "id": "242",
+        "provinceId": "7",
+        "name": "Luwu"
+    },
+    {
+        "id": "243",
+        "provinceId": "7",
+        "name": "Bantaeng"
+    },
+    {
+        "id": "244",
+        "provinceId": "7",
+        "name": "Maros"
+    },
+    {
+        "id": "245",
+        "provinceId": "7",
+        "name": "Luwu Timur"
+    },
+    {
+        "id": "246",
+        "provinceId": "7",
+        "name": "Luwu Utara"
+    },
+    {
+        "id": "247",
+        "provinceId": "7",
+        "name": "Tana Toraja"
+    },
+    {
+        "id": "248",
+        "provinceId": "7",
+        "name": "Barru"
+    },
+    {
+        "id": "249",
+        "provinceId": "7",
+        "name": "Sidenreng Rappang"
+    },
+    {
+        "id": "250",
+        "provinceId": "7",
+        "name": "Kota Makassar"
+    },
+    {
+        "id": "251",
+        "provinceId": "7",
+        "name": "Kota Pare Pare"
+    },
+    {
+        "id": "252",
+        "provinceId": "7",
+        "name": "Kota Palopo"
+    },
+    {
+        "id": "293",
+        "provinceId": "7",
+        "name": "Toraja Utara"
+    },
+    {
+        "id": "294",
+        "provinceId": "7",
+        "name": "Bone"
+    },
+    {
+        "id": "108",
+        "provinceId": "8",
+        "name": "Kepulauan Mentawai"
+    },
+    {
+        "id": "330",
+        "provinceId": "8",
+        "name": "Solok Selatan"
+    },
+    {
+        "id": "331",
+        "provinceId": "8",
+        "name": "Dharmasraya"
+    },
+    {
+        "id": "333",
+        "provinceId": "8",
+        "name": "Pasaman Barat"
+    },
+    {
+        "id": "334",
+        "provinceId": "8",
+        "name": "Pasaman"
+    },
+    {
+        "id": "335",
+        "provinceId": "8",
+        "name": "Sijunjung"
+    },
+    {
+        "id": "336",
+        "provinceId": "8",
+        "name": "Tanah Datar"
+    },
+    {
+        "id": "337",
+        "provinceId": "8",
+        "name": "Solok"
+    },
+    {
+        "id": "338",
+        "provinceId": "8",
+        "name": "Kota Padang"
+    },
+    {
+        "id": "339",
+        "provinceId": "8",
+        "name": "Padang Pariaman"
+    },
+    {
+        "id": "343",
+        "provinceId": "8",
+        "name": "Pesisir Selatan"
+    },
+    {
+        "id": "348",
+        "provinceId": "8",
+        "name": "Kota Pariaman"
+    },
+    {
+        "id": "351",
+        "provinceId": "8",
+        "name": "Lima Puluh Kota"
+    },
+    {
+        "id": "352",
+        "provinceId": "8",
+        "name": "Agam"
+    },
+    {
+        "id": "353",
+        "provinceId": "8",
+        "name": "Kota Solok"
+    },
+    {
+        "id": "354",
+        "provinceId": "8",
+        "name": "Kota Bukittinggi"
+    },
+    {
+        "id": "355",
+        "provinceId": "8",
+        "name": "Kota Sawahlunto"
+    },
+    {
+        "id": "357",
+        "provinceId": "8",
+        "name": "Kota Padang Panjang"
+    },
+    {
+        "id": "358",
+        "provinceId": "8",
+        "name": "Kota Payakumbuh"
+    },
+    {
+        "id": "109",
+        "provinceId": "9",
+        "name": "Sarolangun"
+    },
+    {
+        "id": "110",
+        "provinceId": "9",
+        "name": "Merangin"
+    },
+    {
+        "id": "317",
+        "provinceId": "9",
+        "name": "Kerinci"
+    },
+    {
+        "id": "318",
+        "provinceId": "9",
+        "name": "Tebo"
+    },
+    {
+        "id": "319",
+        "provinceId": "9",
+        "name": "Kota Sungai Penuh"
+    },
+    {
+        "id": "320",
+        "provinceId": "9",
+        "name": "Tanjung Jabung Barat"
+    },
+    {
+        "id": "321",
+        "provinceId": "9",
+        "name": "Muaro Jambi"
+    },
+    {
+        "id": "322",
+        "provinceId": "9",
+        "name": "Bungo"
+    },
+    {
+        "id": "323",
+        "provinceId": "9",
+        "name": "Kota Jambi"
+    },
+    {
+        "id": "326",
+        "provinceId": "9",
+        "name": "Batanghari"
+    },
+    {
+        "id": "327",
+        "provinceId": "9",
+        "name": "Tanjung Jabung Timur"
+    },
+    {
+        "id": "111",
+        "provinceId": "10",
+        "name": "Way Kanan"
+    },
+    {
+        "id": "112",
+        "provinceId": "10",
+        "name": "Kota Bandar Lampung"
+    },
+    {
+        "id": "113",
+        "provinceId": "10",
+        "name": "Pesisir Barat"
+    },
+    {
+        "id": "114",
+        "provinceId": "10",
+        "name": "Lampung Barat"
+    },
+    {
+        "id": "115",
+        "provinceId": "10",
+        "name": "Tanggamus"
+    },
+    {
+        "id": "116",
+        "provinceId": "10",
+        "name": "Mesuji"
+    },
+    {
+        "id": "117",
+        "provinceId": "10",
+        "name": "Kota Metro"
+    },
+    {
+        "id": "118",
+        "provinceId": "10",
+        "name": "Lampung Selatan"
+    },
+    {
+        "id": "119",
+        "provinceId": "10",
+        "name": "Lampung Tengah"
+    },
+    {
+        "id": "120",
+        "provinceId": "10",
+        "name": "Lampung Utara"
+    },
+    {
+        "id": "121",
+        "provinceId": "10",
+        "name": "Pesawaran"
+    },
+    {
+        "id": "122",
+        "provinceId": "10",
+        "name": "Tulang Bawang"
+    },
+    {
+        "id": "123",
+        "provinceId": "10",
+        "name": "Lampung Timur"
+    },
+    {
+        "id": "124",
+        "provinceId": "10",
+        "name": "Tulang Bawang Barat"
+    },
+    {
+        "id": "125",
+        "provinceId": "10",
+        "name": "Pringsewu"
+    },
+    {
+        "id": "126",
+        "provinceId": "11",
+        "name": "Kota Palembang"
+    },
+    {
+        "id": "127",
+        "provinceId": "11",
+        "name": "Lahat"
+    },
+    {
+        "id": "128",
+        "provinceId": "11",
+        "name": "Ogan Komering Ilir"
+    },
+    {
+        "id": "129",
+        "provinceId": "11",
+        "name": "Ogan Komering Ulu Timur"
+    },
+    {
+        "id": "130",
+        "provinceId": "11",
+        "name": "Kota Pagar Alam"
+    },
+    {
+        "id": "131",
+        "provinceId": "11",
+        "name": "Ogan Komering Ulu Selatan"
+    },
+    {
+        "id": "132",
+        "provinceId": "11",
+        "name": "Muara Enim"
+    },
+    {
+        "id": "133",
+        "provinceId": "11",
+        "name": "Musi Banyuasin"
+    },
+    {
+        "id": "134",
+        "provinceId": "11",
+        "name": "Banyuasin"
+    },
+    {
+        "id": "135",
+        "provinceId": "11",
+        "name": "Musi Rawas"
+    },
+    {
+        "id": "136",
+        "provinceId": "11",
+        "name": "Musi Rawas Utara"
+    },
+    {
+        "id": "137",
+        "provinceId": "11",
+        "name": "Ogan Komering Ulu"
+    },
+    {
+        "id": "138",
+        "provinceId": "11",
+        "name": "Penukal Abab Lematang Ilir"
+    },
+    {
+        "id": "139",
+        "provinceId": "11",
+        "name": "Empat Lawang"
+    },
+    {
+        "id": "140",
+        "provinceId": "11",
+        "name": "Kota Lubuk Linggau"
+    },
+    {
+        "id": "141",
+        "provinceId": "11",
+        "name": "Kota Prabumulih"
+    },
+    {
+        "id": "142",
+        "provinceId": "11",
+        "name": "Ogan Ilir"
+    },
+    {
+        "id": "143",
+        "provinceId": "12",
+        "name": "Muko Muko"
+    },
+    {
+        "id": "144",
+        "provinceId": "12",
+        "name": "Rejang Lebong"
+    },
+    {
+        "id": "145",
+        "provinceId": "12",
+        "name": "Kepahiang"
+    },
+    {
+        "id": "146",
+        "provinceId": "12",
+        "name": "Bengkulu Selatan"
+    },
+    {
+        "id": "147",
+        "provinceId": "12",
+        "name": "Bengkulu Utara"
+    },
+    {
+        "id": "148",
+        "provinceId": "12",
+        "name": "Kaur"
+    },
+    {
+        "id": "149",
+        "provinceId": "12",
+        "name": "Bengkulu Tengah"
+    },
+    {
+        "id": "150",
+        "provinceId": "12",
+        "name": "Seluma"
+    },
+    {
+        "id": "151",
+        "provinceId": "12",
+        "name": "Kota Bengkulu"
+    },
+    {
+        "id": "152",
+        "provinceId": "12",
+        "name": "Lebong"
+    },
+    {
+        "id": "153",
+        "provinceId": "13",
+        "name": "Pandeglang"
+    },
+    {
+        "id": "154",
+        "provinceId": "13",
+        "name": "Serang"
+    },
+    {
+        "id": "155",
+        "provinceId": "13",
+        "name": "Lebak"
+    },
+    {
+        "id": "160",
+        "provinceId": "13",
+        "name": "Tangerang"
+    },
+    {
+        "id": "161",
+        "provinceId": "13",
+        "name": "Kota Tangerang Selatan"
+    },
+    {
+        "id": "162",
+        "provinceId": "13",
+        "name": "Kota Cilegon"
+    },
+    {
+        "id": "163",
+        "provinceId": "13",
+        "name": "Kota Serang"
+    },
+    {
+        "id": "494",
+        "provinceId": "13",
+        "name": "Kota Tangerang"
+    },
+    {
+        "id": "156",
+        "provinceId": "14",
+        "name": "Belitung"
+    },
+    {
+        "id": "157",
+        "provinceId": "14",
+        "name": "Belitung Timur"
+    },
+    {
+        "id": "158",
+        "provinceId": "14",
+        "name": "Bangka Selatan"
+    },
+    {
+        "id": "159",
+        "provinceId": "14",
+        "name": "Bangka Tengah"
+    },
+    {
+        "id": "405",
+        "provinceId": "14",
+        "name": "Bangka"
+    },
+    {
+        "id": "406",
+        "provinceId": "14",
+        "name": "Bangka Barat"
+    },
+    {
+        "id": "407",
+        "provinceId": "14",
+        "name": "Kota Pangkal Pinang"
+    },
+    {
+        "id": "176",
+        "provinceId": "15",
+        "name": "Kota Administrasi Jakarta Utara"
+    },
+    {
+        "id": "177",
+        "provinceId": "15",
+        "name": "Kota Administrasi Jakarta Barat"
+    },
+    {
+        "id": "178",
+        "provinceId": "15",
+        "name": "Kota Administrasi Jakarta Timur"
+    },
+    {
+        "id": "179",
+        "provinceId": "15",
+        "name": "Kota Administrasi Jakarta Selatan"
+    },
+    {
+        "id": "180",
+        "provinceId": "15",
+        "name": "Kota Administrasi Jakarta Pusat"
+    },
+    {
+        "id": "181",
+        "provinceId": "15",
+        "name": "Administrasi Kepulauan Seribu"
+    },
+    {
+        "id": "197",
+        "provinceId": "18",
+        "name": "Kapuas"
+    },
+    {
+        "id": "198",
+        "provinceId": "18",
+        "name": "Pulang Pisau"
+    },
+    {
+        "id": "199",
+        "provinceId": "18",
+        "name": "Kotawaringin Timur"
+    },
+    {
+        "id": "200",
+        "provinceId": "18",
+        "name": "Kotawaringin Barat"
+    },
+    {
+        "id": "201",
+        "provinceId": "18",
+        "name": "Seruyan"
+    },
+    {
+        "id": "202",
+        "provinceId": "18",
+        "name": "Katingan"
+    },
+    {
+        "id": "205",
+        "provinceId": "18",
+        "name": "Sukamara"
+    },
+    {
+        "id": "229",
+        "provinceId": "18",
+        "name": "Barito Selatan"
+    },
+    {
+        "id": "384",
+        "provinceId": "18",
+        "name": "Barito Timur"
+    },
+    {
+        "id": "391",
+        "provinceId": "18",
+        "name": "Barito Utara"
+    },
+    {
+        "id": "399",
+        "provinceId": "18",
+        "name": "Lamandau"
+    },
+    {
+        "id": "401",
+        "provinceId": "18",
+        "name": "Gunung Mas"
+    },
+    {
+        "id": "402",
+        "provinceId": "18",
+        "name": "Murung Raya"
+    },
+    {
+        "id": "404",
+        "provinceId": "18",
+        "name": "Kota Palangkaraya"
+    }
+]

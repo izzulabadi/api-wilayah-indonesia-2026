@@ -1,0 +1,7567 @@
+[
+  {
+    "id": "23052",
+    "districtId": "2052",
+    "name": "Batu Ejung"
+  },
+  {
+    "id": "23094",
+    "districtId": "2052",
+    "name": "Brangan Mulya"
+  },
+  {
+    "id": "23122",
+    "districtId": "2052",
+    "name": "Bunga Tanjung"
+  },
+  {
+    "id": "23491",
+    "districtId": "2052",
+    "name": "Lubuk Selandak"
+  },
+  {
+    "id": "23514",
+    "districtId": "2052",
+    "name": "Mandi Angin Jaya"
+  },
+  {
+    "id": "23592",
+    "districtId": "2052",
+    "name": "Nelan Indah"
+  },
+  {
+    "id": "23593",
+    "districtId": "2052",
+    "name": "Nenggalo"
+  },
+  {
+    "id": "23702",
+    "districtId": "2052",
+    "name": "Pasar Bantal"
+  },
+  {
+    "id": "23787",
+    "districtId": "2052",
+    "name": "Pernyah"
+  },
+  {
+    "id": "23796",
+    "districtId": "2052",
+    "name": "Pondok Baru"
+  },
+  {
+    "id": "23928",
+    "districtId": "2052",
+    "name": "Sido Makmur"
+  },
+  {
+    "id": "24320",
+    "districtId": "2052",
+    "name": "Teramang Jaya"
+  },
+  {
+    "id": "26749",
+    "districtId": "2052",
+    "name": "Bandar Jaya"
+  },
+  {
+    "id": "23100",
+    "districtId": "2086",
+    "name": "Bukit Harapan"
+  },
+  {
+    "id": "23107",
+    "districtId": "2086",
+    "name": "Bukit Mulya"
+  },
+  {
+    "id": "23136",
+    "districtId": "2086",
+    "name": "Cinta Asih"
+  },
+  {
+    "id": "23191",
+    "districtId": "2086",
+    "name": "Dusun Pulau"
+  },
+  {
+    "id": "23508",
+    "districtId": "2086",
+    "name": "Makmur Jaya"
+  },
+  {
+    "id": "23525",
+    "districtId": "2086",
+    "name": "Marga Mulia"
+  },
+  {
+    "id": "23537",
+    "districtId": "2086",
+    "name": "Mekar Jaya"
+  },
+  {
+    "id": "23832",
+    "districtId": "2086",
+    "name": "Rami Mulya"
+  },
+  {
+    "id": "24172",
+    "districtId": "2086",
+    "name": "Talang Rio"
+  },
+  {
+    "id": "24335",
+    "districtId": "2086",
+    "name": "Tirta Kencana"
+  },
+  {
+    "id": "26698",
+    "districtId": "2086",
+    "name": "Air Rami"
+  },
+  {
+    "id": "26723",
+    "districtId": "2086",
+    "name": "Arga Jaya"
+  },
+  {
+    "id": "23105",
+    "districtId": "2089",
+    "name": "Bukit Makmur"
+  },
+  {
+    "id": "23117",
+    "districtId": "2089",
+    "name": "Bumi Mulya"
+  },
+  {
+    "id": "23476",
+    "districtId": "2089",
+    "name": "Lubuk Mukti"
+  },
+  {
+    "id": "23507",
+    "districtId": "2089",
+    "name": "Maju Makmur"
+  },
+  {
+    "id": "23524",
+    "districtId": "2089",
+    "name": "Marga Mukti"
+  },
+  {
+    "id": "23526",
+    "districtId": "2089",
+    "name": "Marga Mulya Sakti"
+  },
+  {
+    "id": "23538",
+    "districtId": "2089",
+    "name": "Mekar Mulya"
+  },
+  {
+    "id": "23765",
+    "districtId": "2089",
+    "name": "Penarik"
+  },
+  {
+    "id": "23909",
+    "districtId": "2089",
+    "name": "Sendang Mulyo"
+  },
+  {
+    "id": "23924",
+    "districtId": "2089",
+    "name": "Sido Dadi"
+  },
+  {
+    "id": "23933",
+    "districtId": "2089",
+    "name": "Sido Mulyo"
+  },
+  {
+    "id": "23984",
+    "districtId": "2089",
+    "name": "Suka Maju"
+  },
+  {
+    "id": "24041",
+    "districtId": "2089",
+    "name": "Sumber Mulya"
+  },
+  {
+    "id": "24379",
+    "districtId": "2089",
+    "name": "Wonosobo"
+  },
+  {
+    "id": "23116",
+    "districtId": "2095",
+    "name": "Bumi Mekar Jaya"
+  },
+  {
+    "id": "23337",
+    "districtId": "2095",
+    "name": "Karya Mulya"
+  },
+  {
+    "id": "23456",
+    "districtId": "2095",
+    "name": "Lubuk Bento"
+  },
+  {
+    "id": "23799",
+    "districtId": "2095",
+    "name": "Pondok Kandang"
+  },
+  {
+    "id": "23805",
+    "districtId": "2095",
+    "name": "Pondok Suguh"
+  },
+  {
+    "id": "23956",
+    "districtId": "2095",
+    "name": "Sinar Laut"
+  },
+  {
+    "id": "24310",
+    "districtId": "2095",
+    "name": "Teluk Bakung"
+  },
+  {
+    "id": "24347",
+    "districtId": "2095",
+    "name": "Tunggang"
+  },
+  {
+    "id": "26646",
+    "districtId": "2095",
+    "name": "Air Berau"
+  },
+  {
+    "id": "26647",
+    "districtId": "2095",
+    "name": "Air Bikuk"
+  },
+  {
+    "id": "26653",
+    "districtId": "2095",
+    "name": "Air Hitam"
+  },
+  {
+    "id": "23185",
+    "districtId": "2124",
+    "name": "Dusun Baru Pelokan"
+  },
+  {
+    "id": "23488",
+    "districtId": "2124",
+    "name": "Lubuk Sanai Ii"
+  },
+  {
+    "id": "23489",
+    "districtId": "2124",
+    "name": "Lubuk Sanai Iii"
+  },
+  {
+    "id": "23837",
+    "districtId": "2124",
+    "name": "Rawa Mulya"
+  },
+  {
+    "id": "72211",
+    "districtId": "2124",
+    "name": "Lubuk Sanai"
+  },
+  {
+    "id": "72213",
+    "districtId": "2124",
+    "name": "Pauh Tarenja"
+  },
+  {
+    "id": "72216",
+    "districtId": "2124",
+    "name": "Rawa Bangun"
+  },
+  {
+    "id": "72227",
+    "districtId": "2124",
+    "name": "Tanjung Mulya"
+  },
+  {
+    "id": "23186",
+    "districtId": "2125",
+    "name": "Dusun Baru V Koto"
+  },
+  {
+    "id": "23803",
+    "districtId": "2125",
+    "name": "Pondok Lunang"
+  },
+  {
+    "id": "23866",
+    "districtId": "2125",
+    "name": "Sari Bulan"
+  },
+  {
+    "id": "23867",
+    "districtId": "2125",
+    "name": "Sari Makmur"
+  },
+  {
+    "id": "24043",
+    "districtId": "2125",
+    "name": "Sumber Sari"
+  },
+  {
+    "id": "26649",
+    "districtId": "2125",
+    "name": "Air Dikit"
+  },
+  {
+    "id": "26656",
+    "districtId": "2125",
+    "name": "Air Kasai"
+  },
+  {
+    "id": "23204",
+    "districtId": "2129",
+    "name": "Gading Jaya"
+  },
+  {
+    "id": "23206",
+    "districtId": "2129",
+    "name": "Gajah Mati"
+  },
+  {
+    "id": "23540",
+    "districtId": "2129",
+    "name": "Mekar Sari"
+  },
+  {
+    "id": "23611",
+    "districtId": "2129",
+    "name": "Padang Gading"
+  },
+  {
+    "id": "23850",
+    "districtId": "2129",
+    "name": "Retak Mudik"
+  },
+  {
+    "id": "23925",
+    "districtId": "2129",
+    "name": "Sido Dadi"
+  },
+  {
+    "id": "24039",
+    "districtId": "2129",
+    "name": "Sumber Makmur"
+  },
+  {
+    "id": "24133",
+    "districtId": "2129",
+    "name": "Talang Gading"
+  },
+  {
+    "id": "26763",
+    "districtId": "2129",
+    "name": "Banjar Sari"
+  },
+  {
+    "id": "23205",
+    "districtId": "2130",
+    "name": "Gajah Makmur"
+  },
+  {
+    "id": "23496",
+    "districtId": "2130",
+    "name": "Lubuk Talang"
+  },
+  {
+    "id": "23897",
+    "districtId": "2130",
+    "name": "Semambang Makmur"
+  },
+  {
+    "id": "23916",
+    "districtId": "2130",
+    "name": "Serami Baru"
+  },
+  {
+    "id": "24107",
+    "districtId": "2130",
+    "name": "Talang Arah"
+  },
+  {
+    "id": "24110",
+    "districtId": "2130",
+    "name": "Talang Baru"
+  },
+  {
+    "id": "26676",
+    "districtId": "2130",
+    "name": "Air Merah"
+  },
+  {
+    "id": "23325",
+    "districtId": "2155",
+    "name": "Karang Jaya"
+  },
+  {
+    "id": "23536",
+    "districtId": "2155",
+    "name": "Mekar Jaya"
+  },
+  {
+    "id": "23801",
+    "districtId": "2155",
+    "name": "Pondok Kopi"
+  },
+  {
+    "id": "23921",
+    "districtId": "2155",
+    "name": "Setia Budi"
+  },
+  {
+    "id": "24147",
+    "districtId": "2155",
+    "name": "Talang Kuning"
+  },
+  {
+    "id": "24321",
+    "districtId": "2155",
+    "name": "Teras Terunjam"
+  },
+  {
+    "id": "24324",
+    "districtId": "2155",
+    "name": "Teruntung"
+  },
+  {
+    "id": "24346",
+    "districtId": "2155",
+    "name": "Tunggal Jaya"
+  },
+  {
+    "id": "23418",
+    "districtId": "2164",
+    "name": "Kota Praja"
+  },
+  {
+    "id": "23804",
+    "districtId": "2164",
+    "name": "Pondok Makmur"
+  },
+  {
+    "id": "23929",
+    "districtId": "2164",
+    "name": "Sido Makmur"
+  },
+  {
+    "id": "23955",
+    "districtId": "2164",
+    "name": "Sinar Jaya"
+  },
+  {
+    "id": "26638",
+    "districtId": "2164",
+    "name": "Agung Jaya"
+  },
+  {
+    "id": "72212",
+    "districtId": "2164",
+    "name": "Manjunto Jaya"
+  },
+  {
+    "id": "72228",
+    "districtId": "2164",
+    "name": "Tirta Makmur"
+  },
+  {
+    "id": "72229",
+    "districtId": "2164",
+    "name": "Tirta Mulya"
+  },
+  {
+    "id": "23420",
+    "districtId": "2165",
+    "name": "Koto Jaya"
+  },
+  {
+    "id": "23721",
+    "districtId": "2165",
+    "name": "Pasar Muko-Muko"
+  },
+  {
+    "id": "23729",
+    "districtId": "2165",
+    "name": "Pasar Sebelah"
+  },
+  {
+    "id": "23797",
+    "districtId": "2165",
+    "name": "Pondok Batu"
+  },
+  {
+    "id": "23885",
+    "districtId": "2165",
+    "name": "Selagan Jaya"
+  },
+  {
+    "id": "24192",
+    "districtId": "2165",
+    "name": "Tanah Harapan"
+  },
+  {
+    "id": "24195",
+    "districtId": "2165",
+    "name": "Tanah Rekah"
+  },
+  {
+    "id": "24359",
+    "districtId": "2165",
+    "name": "Ujung Padang"
+  },
+  {
+    "id": "26750",
+    "districtId": "2165",
+    "name": "Bandar Ratu"
+  },
+  {
+    "id": "23487",
+    "districtId": "2173",
+    "name": "Lubuk Sahung"
+  },
+  {
+    "id": "24051",
+    "districtId": "2173",
+    "name": "Sungai Jerinjing"
+  },
+  {
+    "id": "24060",
+    "districtId": "2173",
+    "name": "Surian Bungkal"
+  },
+  {
+    "id": "24153",
+    "districtId": "2173",
+    "name": "Talang Medan"
+  },
+  {
+    "id": "72207",
+    "districtId": "2173",
+    "name": "Aur Cina"
+  },
+  {
+    "id": "72209",
+    "districtId": "2173",
+    "name": "Lubuk Bangko"
+  },
+  {
+    "id": "72214",
+    "districtId": "2173",
+    "name": "Pondok Baru"
+  },
+  {
+    "id": "72218",
+    "districtId": "2173",
+    "name": "Sungai Gading"
+  },
+  {
+    "id": "72219",
+    "districtId": "2173",
+    "name": "Sungai Ipuh"
+  },
+  {
+    "id": "72220",
+    "districtId": "2173",
+    "name": "Sungai Ipuh Dua"
+  },
+  {
+    "id": "72221",
+    "districtId": "2173",
+    "name": "Sungai Ipuh Satu"
+  },
+  {
+    "id": "72223",
+    "districtId": "2173",
+    "name": "Talang Buai"
+  },
+  {
+    "id": "23517",
+    "districtId": "2176",
+    "name": "Manunggal Jaya"
+  },
+  {
+    "id": "23534",
+    "districtId": "2176",
+    "name": "Medan Jaya"
+  },
+  {
+    "id": "23571",
+    "districtId": "2176",
+    "name": "Mundam Marap"
+  },
+  {
+    "id": "23708",
+    "districtId": "2176",
+    "name": "Pasar Baru"
+  },
+  {
+    "id": "23713",
+    "districtId": "2176",
+    "name": "Pasar Ipuh"
+  },
+  {
+    "id": "23810",
+    "districtId": "2176",
+    "name": "Pulai Payung"
+  },
+  {
+    "id": "23811",
+    "districtId": "2176",
+    "name": "Pulau Baru"
+  },
+  {
+    "id": "23812",
+    "districtId": "2176",
+    "name": "Pulau Makmur"
+  },
+  {
+    "id": "23849",
+    "districtId": "2176",
+    "name": "Retak Ilir"
+  },
+  {
+    "id": "23905",
+    "districtId": "2176",
+    "name": "Semundam"
+  },
+  {
+    "id": "23922",
+    "districtId": "2176",
+    "name": "Sibak"
+  },
+  {
+    "id": "24253",
+    "districtId": "2176",
+    "name": "Tanjung Harapan"
+  },
+  {
+    "id": "24259",
+    "districtId": "2176",
+    "name": "Tanjung Jaya"
+  },
+  {
+    "id": "24269",
+    "districtId": "2176",
+    "name": "Tanjung Medan"
+  },
+  {
+    "id": "24336",
+    "districtId": "2176",
+    "name": "Tirta Mulya"
+  },
+  {
+    "id": "26648",
+    "districtId": "2176",
+    "name": "Air Buluh"
+  },
+  {
+    "id": "23806",
+    "districtId": "2178",
+    "name": "Pondok Tengah"
+  },
+  {
+    "id": "24053",
+    "districtId": "2178",
+    "name": "Sungai Lintang"
+  },
+  {
+    "id": "24173",
+    "districtId": "2178",
+    "name": "Talang Sakti"
+  },
+  {
+    "id": "72208",
+    "districtId": "2178",
+    "name": "Lalang Luas"
+  },
+  {
+    "id": "72210",
+    "districtId": "2178",
+    "name": "Lubuk Cabau"
+  },
+  {
+    "id": "72215",
+    "districtId": "2178",
+    "name": "Pondok Panjang"
+  },
+  {
+    "id": "72217",
+    "districtId": "2178",
+    "name": "Resno"
+  },
+  {
+    "id": "72222",
+    "districtId": "2178",
+    "name": "Sungai Rengas"
+  },
+  {
+    "id": "72224",
+    "districtId": "2178",
+    "name": "Talang Petai"
+  },
+  {
+    "id": "72225",
+    "districtId": "2178",
+    "name": "Talang Sepakat"
+  },
+  {
+    "id": "59301",
+    "districtId": "5627",
+    "name": "Arah Tiga"
+  },
+  {
+    "id": "59302",
+    "districtId": "5627",
+    "name": "Lubuk Gedang"
+  },
+  {
+    "id": "59303",
+    "districtId": "5627",
+    "name": "Lubuk Pinang"
+  },
+  {
+    "id": "59304",
+    "districtId": "5627",
+    "name": "Ranah Karya"
+  },
+  {
+    "id": "59305",
+    "districtId": "5627",
+    "name": "Suka Pindah"
+  },
+  {
+    "id": "59306",
+    "districtId": "5627",
+    "name": "Sumber Makmur"
+  },
+  {
+    "id": "72226",
+    "districtId": "5627",
+    "name": "Tanjung Alai"
+  },
+  {
+    "id": "23053",
+    "districtId": "2053",
+    "name": "Batu Galing"
+  },
+  {
+    "id": "23295",
+    "districtId": "2053",
+    "name": "Kampung Jawa"
+  },
+  {
+    "id": "23384",
+    "districtId": "2053",
+    "name": "Kepala Siring"
+  },
+  {
+    "id": "23742",
+    "districtId": "2053",
+    "name": "Pelabuhan Baru"
+  },
+  {
+    "id": "23923",
+    "districtId": "2053",
+    "name": "Siderejo"
+  },
+  {
+    "id": "24170",
+    "districtId": "2053",
+    "name": "Talang Rimbo Baru"
+  },
+  {
+    "id": "24171",
+    "districtId": "2053",
+    "name": "Talang Rimbo Lama"
+  },
+  {
+    "id": "26643",
+    "districtId": "2053",
+    "name": "Air Bang"
+  },
+  {
+    "id": "26674",
+    "districtId": "2053",
+    "name": "Air Merah"
+  },
+  {
+    "id": "26765",
+    "districtId": "2053",
+    "name": "Banyu Mas"
+  },
+  {
+    "id": "23061",
+    "districtId": "2059",
+    "name": "Batu Panco"
+  },
+  {
+    "id": "23188",
+    "districtId": "2059",
+    "name": "Dusun Curup"
+  },
+  {
+    "id": "23194",
+    "districtId": "2059",
+    "name": "Dusun Sawah"
+  },
+  {
+    "id": "23417",
+    "districtId": "2059",
+    "name": "Kota Pagu"
+  },
+  {
+    "id": "23468",
+    "districtId": "2059",
+    "name": "Lubuk Kembang"
+  },
+  {
+    "id": "23681",
+    "districtId": "2059",
+    "name": "Pahlawan"
+  },
+  {
+    "id": "23781",
+    "districtId": "2059",
+    "name": "Perbo"
+  },
+  {
+    "id": "23878",
+    "districtId": "2059",
+    "name": "Seguring"
+  },
+  {
+    "id": "23978",
+    "districtId": "2059",
+    "name": "Suka Datang"
+  },
+  {
+    "id": "24096",
+    "districtId": "2059",
+    "name": "Tabarenah"
+  },
+  {
+    "id": "24226",
+    "districtId": "2059",
+    "name": "Tanjung Beringin"
+  },
+  {
+    "id": "24288",
+    "districtId": "2059",
+    "name": "Tasik Malaya"
+  },
+  {
+    "id": "24345",
+    "districtId": "2059",
+    "name": "Tunas Harapan"
+  },
+  {
+    "id": "26778",
+    "districtId": "2059",
+    "name": "Batu Dewa"
+  },
+  {
+    "id": "23068",
+    "districtId": "2063",
+    "name": "Bedeng Ss."
+  },
+  {
+    "id": "23164",
+    "districtId": "2063",
+    "name": "Derati"
+  },
+  {
+    "id": "23175",
+    "districtId": "2063",
+    "name": "Durian Mas"
+  },
+  {
+    "id": "23180",
+    "districtId": "2063",
+    "name": "Dusun Baru"
+  },
+  {
+    "id": "23415",
+    "districtId": "2063",
+    "name": "Kota Padang"
+  },
+  {
+    "id": "23416",
+    "districtId": "2063",
+    "name": "Kota Padang Baru"
+  },
+  {
+    "id": "23477",
+    "districtId": "2063",
+    "name": "Lubuk Mumpo"
+  },
+  {
+    "id": "24002",
+    "districtId": "2063",
+    "name": "Suka Rami"
+  },
+  {
+    "id": "24069",
+    "districtId": "2063",
+    "name": "Taba Anyar"
+  },
+  {
+    "id": "24248",
+    "districtId": "2063",
+    "name": "Tanjung Gelang"
+  },
+  {
+    "id": "23071",
+    "districtId": "2065",
+    "name": "Belitar Muka"
+  },
+  {
+    "id": "23072",
+    "districtId": "2065",
+    "name": "Belitar Seberang"
+  },
+  {
+    "id": "23084",
+    "districtId": "2065",
+    "name": "Beringin Tiga"
+  },
+  {
+    "id": "23129",
+    "districtId": "2065",
+    "name": "Cahaya Negeri"
+  },
+  {
+    "id": "23345",
+    "districtId": "2065",
+    "name": "Kayu Manis"
+  },
+  {
+    "id": "23747",
+    "districtId": "2065",
+    "name": "Pelalo"
+  },
+  {
+    "id": "23961",
+    "districtId": "2065",
+    "name": "Sindang Jati"
+  },
+  {
+    "id": "23962",
+    "districtId": "2065",
+    "name": "Sindang Jaya"
+  },
+  {
+    "id": "24216",
+    "districtId": "2065",
+    "name": "Tanjung Aur"
+  },
+  {
+    "id": "26650",
+    "districtId": "2065",
+    "name": "Air Dingin"
+  },
+  {
+    "id": "23073",
+    "districtId": "2066",
+    "name": "Belumai I"
+  },
+  {
+    "id": "23074",
+    "districtId": "2066",
+    "name": "Belumai Ii"
+  },
+  {
+    "id": "23097",
+    "districtId": "2066",
+    "name": "Bukit Batu"
+  },
+  {
+    "id": "23256",
+    "districtId": "2066",
+    "name": "Guru Agung"
+  },
+  {
+    "id": "23316",
+    "districtId": "2066",
+    "name": "Karang Baru"
+  },
+  {
+    "id": "23339",
+    "districtId": "2066",
+    "name": "Kasie Kasubun"
+  },
+  {
+    "id": "23565",
+    "districtId": "2066",
+    "name": "Muara Telita"
+  },
+  {
+    "id": "23727",
+    "districtId": "2066",
+    "name": "Pasar Pu Tanding"
+  },
+  {
+    "id": "24095",
+    "districtId": "2066",
+    "name": "Taba Tinggi"
+  },
+  {
+    "id": "24102",
+    "districtId": "2066",
+    "name": "Taktoi"
+  },
+  {
+    "id": "24279",
+    "districtId": "2066",
+    "name": "Tanjung Sanai I"
+  },
+  {
+    "id": "24280",
+    "districtId": "2066",
+    "name": "Tanjung Sanai Ii"
+  },
+  {
+    "id": "24356",
+    "districtId": "2066",
+    "name": "Ujan Panas"
+  },
+  {
+    "id": "24369",
+    "districtId": "2066",
+    "name": "Ulak Tanding"
+  },
+  {
+    "id": "26657",
+    "districtId": "2066",
+    "name": "Air Kati"
+  },
+  {
+    "id": "23075",
+    "districtId": "2067",
+    "name": "Bengko"
+  },
+  {
+    "id": "23265",
+    "districtId": "2067",
+    "name": "Iv Suko Menanti"
+  },
+  {
+    "id": "23952",
+    "districtId": "2067",
+    "name": "Sinar Gunung"
+  },
+  {
+    "id": "24373",
+    "districtId": "2067",
+    "name": "Warung Pojok"
+  },
+  {
+    "id": "24571",
+    "districtId": "2067",
+    "name": "Talang Belitar"
+  },
+  {
+    "id": "26699",
+    "districtId": "2067",
+    "name": "Air Rusa"
+  },
+  {
+    "id": "23133",
+    "districtId": "2101",
+    "name": "Cawang Baru"
+  },
+  {
+    "id": "23134",
+    "districtId": "2101",
+    "name": "Cawang Lama"
+  },
+  {
+    "id": "23287",
+    "districtId": "2101",
+    "name": "Kali Padang"
+  },
+  {
+    "id": "23291",
+    "districtId": "2101",
+    "name": "Kampung Baru"
+  },
+  {
+    "id": "23324",
+    "districtId": "2101",
+    "name": "Karang Jaya"
+  },
+  {
+    "id": "23346",
+    "districtId": "2101",
+    "name": "Kayu Manis"
+  },
+  {
+    "id": "23551",
+    "districtId": "2101",
+    "name": "Mojorejo"
+  },
+  {
+    "id": "23865",
+    "districtId": "2101",
+    "name": "Sambirejo"
+  },
+  {
+    "id": "23945",
+    "districtId": "2101",
+    "name": "Simpang Nangka"
+  },
+  {
+    "id": "23969",
+    "districtId": "2101",
+    "name": "Suban Ayam"
+  },
+  {
+    "id": "24033",
+    "districtId": "2101",
+    "name": "Sumber Bening"
+  },
+  {
+    "id": "24045",
+    "districtId": "2101",
+    "name": "Sumber Urip"
+  },
+  {
+    "id": "24148",
+    "districtId": "2101",
+    "name": "Talang Lahat"
+  },
+  {
+    "id": "26652",
+    "districtId": "2101",
+    "name": "Air Duku"
+  },
+  {
+    "id": "26672",
+    "districtId": "2101",
+    "name": "Air Meles Atas"
+  },
+  {
+    "id": "26694",
+    "districtId": "2101",
+    "name": "Air Putih Kali Bandung"
+  },
+  {
+    "id": "23163",
+    "districtId": "2118",
+    "name": "Dataran Tapus"
+  },
+  {
+    "id": "23689",
+    "districtId": "2118",
+    "name": "Pal Seratus"
+  },
+  {
+    "id": "23690",
+    "districtId": "2118",
+    "name": "Pal Vii"
+  },
+  {
+    "id": "23691",
+    "districtId": "2118",
+    "name": "Pal Viii"
+  },
+  {
+    "id": "24046",
+    "districtId": "2118",
+    "name": "Sumberejo Transad"
+  },
+  {
+    "id": "24299",
+    "districtId": "2118",
+    "name": "Tebat Tenong Luar"
+  },
+  {
+    "id": "26645",
+    "districtId": "2118",
+    "name": "Air Bening"
+  },
+  {
+    "id": "26732",
+    "districtId": "2118",
+    "name": "Babakan Baru"
+  },
+  {
+    "id": "26757",
+    "districtId": "2118",
+    "name": "Bandung Marga"
+  },
+  {
+    "id": "26759",
+    "districtId": "2118",
+    "name": "Bangun Jaya"
+  },
+  {
+    "id": "23166",
+    "districtId": "2120",
+    "name": "Duku Ilir"
+  },
+  {
+    "id": "23167",
+    "districtId": "2120",
+    "name": "Duku Ulu"
+  },
+  {
+    "id": "23294",
+    "districtId": "2120",
+    "name": "Kampung Delima"
+  },
+  {
+    "id": "23309",
+    "districtId": "2120",
+    "name": "Karang Anyar"
+  },
+  {
+    "id": "23389",
+    "districtId": "2120",
+    "name": "Kesambe Baru"
+  },
+  {
+    "id": "23390",
+    "districtId": "2120",
+    "name": "Kesambe Lama"
+  },
+  {
+    "id": "24015",
+    "districtId": "2120",
+    "name": "Sukaraja"
+  },
+  {
+    "id": "24185",
+    "districtId": "2120",
+    "name": "Talang Ulu"
+  },
+  {
+    "id": "26673",
+    "districtId": "2120",
+    "name": "Air Meles Bawah"
+  },
+  {
+    "id": "23197",
+    "districtId": "2127",
+    "name": "Dwi Tunggal"
+  },
+  {
+    "id": "23269",
+    "districtId": "2127",
+    "name": "Jalan Baru"
+  },
+  {
+    "id": "23705",
+    "districtId": "2127",
+    "name": "Pasar Baru"
+  },
+  {
+    "id": "23736",
+    "districtId": "2127",
+    "name": "Pasar Tengah"
+  },
+  {
+    "id": "24114",
+    "districtId": "2127",
+    "name": "Talang Benih"
+  },
+  {
+    "id": "24332",
+    "districtId": "2127",
+    "name": "Timbul Rejo"
+  },
+  {
+    "id": "26637",
+    "districtId": "2127",
+    "name": "Adirejo"
+  },
+  {
+    "id": "26695",
+    "districtId": "2127",
+    "name": "Air Putih Lama"
+  },
+  {
+    "id": "26697",
+    "districtId": "2127",
+    "name": "Air Rambai"
+  },
+  {
+    "id": "23266",
+    "districtId": "2147",
+    "name": "Jabi"
+  },
+  {
+    "id": "23328",
+    "districtId": "2147",
+    "name": "Karang Pinang"
+  },
+  {
+    "id": "23434",
+    "districtId": "2147",
+    "name": "Lawang Agung"
+  },
+  {
+    "id": "23767",
+    "districtId": "2147",
+    "name": "Pengambang"
+  },
+  {
+    "id": "24203",
+    "districtId": "2147",
+    "name": "Tanjung Agung"
+  },
+  {
+    "id": "24255",
+    "districtId": "2147",
+    "name": "Tanjung Herang"
+  },
+  {
+    "id": "24572",
+    "districtId": "2147",
+    "name": "Lubuk Alai"
+  },
+  {
+    "id": "26681",
+    "districtId": "2147",
+    "name": "Air Nau"
+  },
+  {
+    "id": "26719",
+    "districtId": "2147",
+    "name": "Apur"
+  },
+  {
+    "id": "23297",
+    "districtId": "2151",
+    "name": "Kampung Jeruk"
+  },
+  {
+    "id": "23382",
+    "districtId": "2151",
+    "name": "Kepala Curup"
+  },
+  {
+    "id": "23942",
+    "districtId": "2151",
+    "name": "Simpang Beliti"
+  },
+  {
+    "id": "24081",
+    "districtId": "2151",
+    "name": "Taba Padang"
+  },
+  {
+    "id": "26639",
+    "districtId": "2151",
+    "name": "Air Apo"
+  },
+  {
+    "id": "23299",
+    "districtId": "2153",
+    "name": "Kampung Melayu"
+  },
+  {
+    "id": "23302",
+    "districtId": "2153",
+    "name": "Kampung Sajad"
+  },
+  {
+    "id": "23672",
+    "districtId": "2153",
+    "name": "Pagar Gunung"
+  },
+  {
+    "id": "23827",
+    "districtId": "2153",
+    "name": "Purwodadi"
+  },
+  {
+    "id": "23887",
+    "districtId": "2153",
+    "name": "Selamat Sudiarjo"
+  },
+  {
+    "id": "23914",
+    "districtId": "2153",
+    "name": "Sentral Baru"
+  },
+  {
+    "id": "24003",
+    "districtId": "2153",
+    "name": "Suka Rami"
+  },
+  {
+    "id": "24296",
+    "districtId": "2153",
+    "name": "Tebat Pulau"
+  },
+  {
+    "id": "24298",
+    "districtId": "2153",
+    "name": "Tebat Tenong Dalam"
+  },
+  {
+    "id": "26677",
+    "districtId": "2153",
+    "name": "Air Mundu"
+  },
+  {
+    "id": "26690",
+    "districtId": "2153",
+    "name": "Air Pikat"
+  },
+  {
+    "id": "26769",
+    "districtId": "2153",
+    "name": "Baru Manis"
+  },
+  {
+    "id": "23454",
+    "districtId": "2169",
+    "name": "Lb. Belimbing I"
+  },
+  {
+    "id": "23455",
+    "districtId": "2169",
+    "name": "Lb Belimbing Ii"
+  },
+  {
+    "id": "23458",
+    "districtId": "2169",
+    "name": "Lb. Bingin Baru"
+  },
+  {
+    "id": "23500",
+    "districtId": "2169",
+    "name": "Lubuktunjung"
+  },
+  {
+    "id": "23548",
+    "districtId": "2169",
+    "name": "Merantau"
+  },
+  {
+    "id": "23783",
+    "districtId": "2169",
+    "name": "Periang"
+  },
+  {
+    "id": "23869",
+    "districtId": "2169",
+    "name": "Sari Pulau"
+  },
+  {
+    "id": "23981",
+    "districtId": "2169",
+    "name": "Suka Karya"
+  },
+  {
+    "id": "23991",
+    "districtId": "2169",
+    "name": "Suka Merindu"
+  },
+  {
+    "id": "26745",
+    "districtId": "2169",
+    "name": "Balai Buntar"
+  },
+  {
+    "id": "23501",
+    "districtId": "2175",
+    "name": "Lubuk Ubar"
+  },
+  {
+    "id": "23821",
+    "districtId": "2175",
+    "name": "Pungguk Lalang"
+  },
+  {
+    "id": "23860",
+    "districtId": "2175",
+    "name": "Rimbo Recap"
+  },
+  {
+    "id": "23987",
+    "districtId": "2175",
+    "name": "Suka Marga"
+  },
+  {
+    "id": "24240",
+    "districtId": "2175",
+    "name": "Tanjung Dalam"
+  },
+  {
+    "id": "24305",
+    "districtId": "2175",
+    "name": "Teladan"
+  },
+  {
+    "id": "24315",
+    "districtId": "2175",
+    "name": "Tempel Rejo"
+  },
+  {
+    "id": "24351",
+    "districtId": "2175",
+    "name": "Turan Baru"
+  },
+  {
+    "id": "24375",
+    "districtId": "2175",
+    "name": "Watas Marga"
+  },
+  {
+    "id": "26666",
+    "districtId": "2175",
+    "name": "Air Lanang"
+  },
+  {
+    "id": "26693",
+    "districtId": "2175",
+    "name": "Air Putih Baru"
+  },
+  {
+    "id": "23054",
+    "districtId": "2054",
+    "name": "Batu Kalung"
+  },
+  {
+    "id": "23444",
+    "districtId": "2054",
+    "name": "Limbur Baru"
+  },
+  {
+    "id": "23846",
+    "districtId": "2054",
+    "name": "Renah Kurung"
+  },
+  {
+    "id": "23964",
+    "districtId": "2054",
+    "name": "Sosokan Baru"
+  },
+  {
+    "id": "23966",
+    "districtId": "2054",
+    "name": "Sosokan Taba"
+  },
+  {
+    "id": "24181",
+    "districtId": "2054",
+    "name": "Talang Tige"
+  },
+  {
+    "id": "24374",
+    "districtId": "2054",
+    "name": "Warung Pojok"
+  },
+  {
+    "id": "26775",
+    "districtId": "2054",
+    "name": "Batu Bandung"
+  },
+  {
+    "id": "23067",
+    "districtId": "2062",
+    "name": "Bayung"
+  },
+  {
+    "id": "23080",
+    "districtId": "2062",
+    "name": "Benuang Galing"
+  },
+  {
+    "id": "23142",
+    "districtId": "2062",
+    "name": "Cirebon Baru"
+  },
+  {
+    "id": "23304",
+    "districtId": "2062",
+    "name": "Kandang"
+  },
+  {
+    "id": "23490",
+    "districtId": "2062",
+    "name": "Lubuk Saung"
+  },
+  {
+    "id": "24052",
+    "districtId": "2062",
+    "name": "Sungai Jernih"
+  },
+  {
+    "id": "24082",
+    "districtId": "2062",
+    "name": "Taba Padang"
+  },
+  {
+    "id": "24108",
+    "districtId": "2062",
+    "name": "Talang Babatan"
+  },
+  {
+    "id": "24134",
+    "districtId": "2062",
+    "name": "Talang Gelompok"
+  },
+  {
+    "id": "24293",
+    "districtId": "2062",
+    "name": "Tebat Laut"
+  },
+  {
+    "id": "24313",
+    "districtId": "2062",
+    "name": "Temdak"
+  },
+  {
+    "id": "26687",
+    "districtId": "2062",
+    "name": "Air Pesi"
+  },
+  {
+    "id": "26703",
+    "districtId": "2062",
+    "name": "Air Selimang"
+  },
+  {
+    "id": "23093",
+    "districtId": "2081",
+    "name": "Bogor Baru"
+  },
+  {
+    "id": "23190",
+    "districtId": "2081",
+    "name": "Dusun Kepahiang"
+  },
+  {
+    "id": "23264",
+    "districtId": "2081",
+    "name": "Imigrasi Permu"
+  },
+  {
+    "id": "23292",
+    "districtId": "2081",
+    "name": "Kampung Bogor"
+  },
+  {
+    "id": "23301",
+    "districtId": "2081",
+    "name": "Kampung Pensiunan"
+  },
+  {
+    "id": "23312",
+    "districtId": "2081",
+    "name": "Karang Anyar"
+  },
+  {
+    "id": "23323",
+    "districtId": "2081",
+    "name": "Karang Endah"
+  },
+  {
+    "id": "23364",
+    "districtId": "2081",
+    "name": "Kelilik"
+  },
+  {
+    "id": "23367",
+    "districtId": "2081",
+    "name": "Kelobak"
+  },
+  {
+    "id": "23428",
+    "districtId": "2081",
+    "name": "Kuto Rejo"
+  },
+  {
+    "id": "23629",
+    "districtId": "2081",
+    "name": "Padang Lekat"
+  },
+  {
+    "id": "23674",
+    "districtId": "2081",
+    "name": "Pagar Gunung"
+  },
+  {
+    "id": "23715",
+    "districtId": "2081",
+    "name": "Pasar Kepahiangan"
+  },
+  {
+    "id": "23731",
+    "districtId": "2081",
+    "name": "Pasar Sejantung"
+  },
+  {
+    "id": "23737",
+    "districtId": "2081",
+    "name": "Pasar Ujung"
+  },
+  {
+    "id": "23748",
+    "districtId": "2081",
+    "name": "Pelangkian"
+  },
+  {
+    "id": "23773",
+    "districtId": "2081",
+    "name": "Pensiunan"
+  },
+  {
+    "id": "23785",
+    "districtId": "2081",
+    "name": "Permu"
+  },
+  {
+    "id": "23786",
+    "districtId": "2081",
+    "name": "Permu Bawah"
+  },
+  {
+    "id": "24010",
+    "districtId": "2081",
+    "name": "Sukamerindu"
+  },
+  {
+    "id": "24090",
+    "districtId": "2081",
+    "name": "Taba Tebelet"
+  },
+  {
+    "id": "24294",
+    "districtId": "2081",
+    "name": "Tebat Monok"
+  },
+  {
+    "id": "24377",
+    "districtId": "2081",
+    "name": "Westkust"
+  },
+  {
+    "id": "23096",
+    "districtId": "2083",
+    "name": "Bukit Barisan"
+  },
+  {
+    "id": "23173",
+    "districtId": "2083",
+    "name": "Durian Depun"
+  },
+  {
+    "id": "23816",
+    "districtId": "2083",
+    "name": "Pulo Geto"
+  },
+  {
+    "id": "23817",
+    "districtId": "2083",
+    "name": "Pulo Geto Baru"
+  },
+  {
+    "id": "23944",
+    "districtId": "2083",
+    "name": "Sp. Kota Bingin"
+  },
+  {
+    "id": "24573",
+    "districtId": "2083",
+    "name": "Taba Mulan"
+  },
+  {
+    "id": "24580",
+    "districtId": "2083",
+    "name": "Lubuk Penyamun"
+  },
+  {
+    "id": "26772",
+    "districtId": "2083",
+    "name": "Batu Ampar"
+  },
+  {
+    "id": "23106",
+    "districtId": "2090",
+    "name": "Bukit Menyan"
+  },
+  {
+    "id": "23138",
+    "districtId": "2090",
+    "name": "Cinta Mandi Baru"
+  },
+  {
+    "id": "23140",
+    "districtId": "2090",
+    "name": "Cinto Mandi"
+  },
+  {
+    "id": "23200",
+    "districtId": "2090",
+    "name": "Embong Ijuk"
+  },
+  {
+    "id": "23202",
+    "districtId": "2090",
+    "name": "Embong Sido"
+  },
+  {
+    "id": "23235",
+    "districtId": "2090",
+    "name": "Gunung Agung"
+  },
+  {
+    "id": "23348",
+    "districtId": "2090",
+    "name": "Keban Agung"
+  },
+  {
+    "id": "23377",
+    "districtId": "2090",
+    "name": "Kembang Seri"
+  },
+  {
+    "id": "23404",
+    "districtId": "2090",
+    "name": "Kota Agung"
+  },
+  {
+    "id": "23432",
+    "districtId": "2090",
+    "name": "Langgar Jaya"
+  },
+  {
+    "id": "23440",
+    "districtId": "2090",
+    "name": "Lembur Lama"
+  },
+  {
+    "id": "23558",
+    "districtId": "2090",
+    "name": "Muara Langkap"
+  },
+  {
+    "id": "23659",
+    "districtId": "2090",
+    "name": "Pagar Agung"
+  },
+  {
+    "id": "23965",
+    "districtId": "2090",
+    "name": "Sosokan Cinta Mandi"
+  },
+  {
+    "id": "24072",
+    "districtId": "2090",
+    "name": "Taba Baru"
+  },
+  {
+    "id": "24163",
+    "districtId": "2090",
+    "name": "Talang Pito"
+  },
+  {
+    "id": "24176",
+    "districtId": "2090",
+    "name": "Talang Sawah"
+  },
+  {
+    "id": "26696",
+    "districtId": "2090",
+    "name": "Air Raman"
+  },
+  {
+    "id": "26776",
+    "districtId": "2090",
+    "name": "Batu Belarik"
+  },
+  {
+    "id": "23112",
+    "districtId": "2093",
+    "name": "Bukit Sari"
+  },
+  {
+    "id": "23541",
+    "districtId": "2093",
+    "name": "Mekar Sari"
+  },
+  {
+    "id": "23750",
+    "districtId": "2093",
+    "name": "Pematang Donok"
+  },
+  {
+    "id": "23930",
+    "districtId": "2093",
+    "name": "Sido Makmur"
+  },
+  {
+    "id": "23934",
+    "districtId": "2093",
+    "name": "Sido Rejo"
+  },
+  {
+    "id": "24007",
+    "districtId": "2093",
+    "name": "Suka Sari"
+  },
+  {
+    "id": "24044",
+    "districtId": "2093",
+    "name": "Sumber Sari"
+  },
+  {
+    "id": "24199",
+    "districtId": "2093",
+    "name": "Tangsi Baru"
+  },
+  {
+    "id": "24200",
+    "districtId": "2093",
+    "name": "Tangsi Duren"
+  },
+  {
+    "id": "24340",
+    "districtId": "2093",
+    "name": "Tugu Rejo"
+  },
+  {
+    "id": "26704",
+    "districtId": "2093",
+    "name": "Air Sempiang"
+  },
+  {
+    "id": "26733",
+    "districtId": "2093",
+    "name": "Babakan Bogor"
+  },
+  {
+    "id": "26755",
+    "districtId": "2093",
+    "name": "Bandung Baru"
+  },
+  {
+    "id": "26756",
+    "districtId": "2093",
+    "name": "Bandung Jaya"
+  },
+  {
+    "id": "26768",
+    "districtId": "2093",
+    "name": "Barat Wetan"
+  },
+  {
+    "id": "23118",
+    "districtId": "2096",
+    "name": "Bumi Sari"
+  },
+  {
+    "id": "23146",
+    "districtId": "2096",
+    "name": "Cugung Lalang"
+  },
+  {
+    "id": "23154",
+    "districtId": "2096",
+    "name": "Daspeta"
+  },
+  {
+    "id": "23155",
+    "districtId": "2096",
+    "name": "Daspetah Ii"
+  },
+  {
+    "id": "23738",
+    "districtId": "2096",
+    "name": "Pekalongan"
+  },
+  {
+    "id": "23822",
+    "districtId": "2096",
+    "name": "Pungguk Meranti"
+  },
+  {
+    "id": "23823",
+    "districtId": "2096",
+    "name": "Pungguk Meringang"
+  },
+  {
+    "id": "24061",
+    "districtId": "2096",
+    "name": "Suro Bali"
+  },
+  {
+    "id": "24062",
+    "districtId": "2096",
+    "name": "Suro Baru"
+  },
+  {
+    "id": "24063",
+    "districtId": "2096",
+    "name": "Suro Ilir"
+  },
+  {
+    "id": "24064",
+    "districtId": "2096",
+    "name": "Suro Lembak"
+  },
+  {
+    "id": "24065",
+    "districtId": "2096",
+    "name": "Suro Muncar"
+  },
+  {
+    "id": "24354",
+    "districtId": "2096",
+    "name": "Ujan Mas Atas"
+  },
+  {
+    "id": "24355",
+    "districtId": "2096",
+    "name": "Ujan Mas Bawah"
+  },
+  {
+    "id": "24570",
+    "districtId": "2096",
+    "name": "Meranti Jaya"
+  },
+  {
+    "id": "24579",
+    "districtId": "2096",
+    "name": "Tanjung Alam"
+  },
+  {
+    "id": "26654",
+    "districtId": "2096",
+    "name": "Air Hitam"
+  },
+  {
+    "id": "23332",
+    "districtId": "2156",
+    "name": "Karang Tengah"
+  },
+  {
+    "id": "23584",
+    "districtId": "2156",
+    "name": "Nanti Agung"
+  },
+  {
+    "id": "23762",
+    "districtId": "2156",
+    "name": "Penanjung Panjang"
+  },
+  {
+    "id": "23763",
+    "districtId": "2156",
+    "name": "Penanjung Panjang Atas"
+  },
+  {
+    "id": "23780",
+    "districtId": "2156",
+    "name": "Peraduan Binjai"
+  },
+  {
+    "id": "23953",
+    "districtId": "2156",
+    "name": "Sinar Gunung"
+  },
+  {
+    "id": "24068",
+    "districtId": "2156",
+    "name": "Taba Air Pauh"
+  },
+  {
+    "id": "24088",
+    "districtId": "2156",
+    "name": "Taba Saling"
+  },
+  {
+    "id": "24089",
+    "districtId": "2156",
+    "name": "Taba Santing"
+  },
+  {
+    "id": "24143",
+    "districtId": "2156",
+    "name": "Talang Karet"
+  },
+  {
+    "id": "24287",
+    "districtId": "2156",
+    "name": "Tapak Gedung"
+  },
+  {
+    "id": "24291",
+    "districtId": "2156",
+    "name": "Tebat Karai"
+  },
+  {
+    "id": "24302",
+    "districtId": "2156",
+    "name": "Tebing Penyamun"
+  },
+  {
+    "id": "24322",
+    "districtId": "2156",
+    "name": "Tertik"
+  },
+  {
+    "id": "23055",
+    "districtId": "2055",
+    "name": "Batu Kuning"
+  },
+  {
+    "id": "23060",
+    "districtId": "2055",
+    "name": "Batu Panco"
+  },
+  {
+    "id": "23341",
+    "districtId": "2055",
+    "name": "Kayu Ajaran"
+  },
+  {
+    "id": "23353",
+    "districtId": "2055",
+    "name": "Keban Jati"
+  },
+  {
+    "id": "23498",
+    "districtId": "2055",
+    "name": "Lubuk Tapi"
+  },
+  {
+    "id": "23547",
+    "districtId": "2055",
+    "name": "Merambung"
+  },
+  {
+    "id": "23946",
+    "districtId": "2055",
+    "name": "Simpang Pino"
+  },
+  {
+    "id": "24182",
+    "districtId": "2055",
+    "name": "Talang Tinggi"
+  },
+  {
+    "id": "26707",
+    "districtId": "2055",
+    "name": "Air Tenam"
+  },
+  {
+    "id": "26747",
+    "districtId": "2055",
+    "name": "Bandar Agung"
+  },
+  {
+    "id": "23056",
+    "districtId": "2056",
+    "name": "Batu Kuning"
+  },
+  {
+    "id": "23057",
+    "districtId": "2056",
+    "name": "Batu Lambang"
+  },
+  {
+    "id": "23069",
+    "districtId": "2056",
+    "name": "Belakang Gedung"
+  },
+  {
+    "id": "23248",
+    "districtId": "2056",
+    "name": "Gunung Mesir"
+  },
+  {
+    "id": "23392",
+    "districtId": "2056",
+    "name": "Ketapang Besar"
+  },
+  {
+    "id": "23648",
+    "districtId": "2056",
+    "name": "Padang Sialang"
+  },
+  {
+    "id": "23710",
+    "districtId": "2056",
+    "name": "Pasar Bawah"
+  },
+  {
+    "id": "23722",
+    "districtId": "2056",
+    "name": "Pasar Mulia"
+  },
+  {
+    "id": "24272",
+    "districtId": "2056",
+    "name": "Tanjung Mulia"
+  },
+  {
+    "id": "23082",
+    "districtId": "2072",
+    "name": "Beringin Datar"
+  },
+  {
+    "id": "23211",
+    "districtId": "2072",
+    "name": "Ganjuh"
+  },
+  {
+    "id": "23214",
+    "districtId": "2072",
+    "name": "Gedung Agung"
+  },
+  {
+    "id": "23408",
+    "districtId": "2072",
+    "name": "Kota Bumi"
+  },
+  {
+    "id": "23531",
+    "districtId": "2072",
+    "name": "Masat"
+  },
+  {
+    "id": "23628",
+    "districtId": "2072",
+    "name": "Padang Lebar"
+  },
+  {
+    "id": "23633",
+    "districtId": "2072",
+    "name": "Padang Mumpo"
+  },
+  {
+    "id": "23651",
+    "districtId": "2072",
+    "name": "Padang Tambak"
+  },
+  {
+    "id": "23807",
+    "districtId": "2072",
+    "name": "Puding"
+  },
+  {
+    "id": "23877",
+    "districtId": "2072",
+    "name": "Sebilo"
+  },
+  {
+    "id": "24220",
+    "districtId": "2072",
+    "name": "Tanjung Aur I"
+  },
+  {
+    "id": "24244",
+    "districtId": "2072",
+    "name": "Tanjung Eran"
+  },
+  {
+    "id": "24365",
+    "districtId": "2072",
+    "name": "Ulak Lebar"
+  },
+  {
+    "id": "26710",
+    "districtId": "2072",
+    "name": "Air Umban"
+  },
+  {
+    "id": "26714",
+    "districtId": "2072",
+    "name": "Anggut"
+  },
+  {
+    "id": "26774",
+    "districtId": "2072",
+    "name": "Batu Bandung"
+  },
+  {
+    "id": "23086",
+    "districtId": "2074",
+    "name": "Betungan"
+  },
+  {
+    "id": "23317",
+    "districtId": "2074",
+    "name": "Karang Caya"
+  },
+  {
+    "id": "23445",
+    "districtId": "2074",
+    "name": "Limus"
+  },
+  {
+    "id": "23469",
+    "districtId": "2074",
+    "name": "Lubuk Ladung"
+  },
+  {
+    "id": "23579",
+    "districtId": "2074",
+    "name": "Nanjungan"
+  },
+  {
+    "id": "23605",
+    "districtId": "2074",
+    "name": "Padang Bindu"
+  },
+  {
+    "id": "23662",
+    "districtId": "2074",
+    "name": "Pagar Banyu"
+  },
+  {
+    "id": "23771",
+    "districtId": "2074",
+    "name": "Penindaian"
+  },
+  {
+    "id": "23979",
+    "districtId": "2074",
+    "name": "Suka Jaya"
+  },
+  {
+    "id": "24001",
+    "districtId": "2074",
+    "name": "Suka Rami"
+  },
+  {
+    "id": "24014",
+    "districtId": "2074",
+    "name": "Sukaraja"
+  },
+  {
+    "id": "26706",
+    "districtId": "2074",
+    "name": "Air Sulau"
+  },
+  {
+    "id": "23114",
+    "districtId": "2094",
+    "name": "Bumi Agung"
+  },
+  {
+    "id": "23176",
+    "districtId": "2094",
+    "name": "Durian Sebatang"
+  },
+  {
+    "id": "23308",
+    "districtId": "2094",
+    "name": "Karang Agung"
+  },
+  {
+    "id": "23349",
+    "districtId": "2094",
+    "name": "Keban Agung I"
+  },
+  {
+    "id": "23350",
+    "districtId": "2094",
+    "name": "Keban Agung Ii"
+  },
+  {
+    "id": "23351",
+    "districtId": "2094",
+    "name": "Keban Agung Iii"
+  },
+  {
+    "id": "23433",
+    "districtId": "2094",
+    "name": "Lawang Agung"
+  },
+  {
+    "id": "23483",
+    "districtId": "2094",
+    "name": "Lubuk Resam"
+  },
+  {
+    "id": "23567",
+    "districtId": "2094",
+    "name": "Muara Tiga"
+  },
+  {
+    "id": "23568",
+    "districtId": "2094",
+    "name": "Muara Tiga Ilir"
+  },
+  {
+    "id": "23581",
+    "districtId": "2094",
+    "name": "Nanti Agung"
+  },
+  {
+    "id": "23683",
+    "districtId": "2094",
+    "name": "Pajar Bulan"
+  },
+  {
+    "id": "23693",
+    "districtId": "2094",
+    "name": "Palak Siring"
+  },
+  {
+    "id": "23834",
+    "districtId": "2094",
+    "name": "Rantau Sialang"
+  },
+  {
+    "id": "23996",
+    "districtId": "2094",
+    "name": "Suka Nanti"
+  },
+  {
+    "id": "24212",
+    "districtId": "2094",
+    "name": "Tanjung Alam"
+  },
+  {
+    "id": "24229",
+    "districtId": "2094",
+    "name": "Tanjung Besar"
+  },
+  {
+    "id": "24273",
+    "districtId": "2094",
+    "name": "Tanjung Negara"
+  },
+  {
+    "id": "26771",
+    "districtId": "2094",
+    "name": "Batu Ampar"
+  },
+  {
+    "id": "23139",
+    "districtId": "2103",
+    "name": "Cinto Mandi"
+  },
+  {
+    "id": "23318",
+    "districtId": "2103",
+    "name": "Karang Cayo"
+  },
+  {
+    "id": "23368",
+    "districtId": "2103",
+    "name": "Kemang Manis"
+  },
+  {
+    "id": "23375",
+    "districtId": "2103",
+    "name": "Kembang Seri"
+  },
+  {
+    "id": "23578",
+    "districtId": "2103",
+    "name": "Nanjungan"
+  },
+  {
+    "id": "23587",
+    "districtId": "2103",
+    "name": "Napal Melintang"
+  },
+  {
+    "id": "23602",
+    "districtId": "2103",
+    "name": "Padang Beriang"
+  },
+  {
+    "id": "23646",
+    "districtId": "2103",
+    "name": "Padang Serasan"
+  },
+  {
+    "id": "23671",
+    "districtId": "2103",
+    "name": "Pagar Gading"
+  },
+  {
+    "id": "23726",
+    "districtId": "2103",
+    "name": "Pasar Pino"
+  },
+  {
+    "id": "23886",
+    "districtId": "2103",
+    "name": "Selali"
+  },
+  {
+    "id": "23917",
+    "districtId": "2103",
+    "name": "Serang Bulan"
+  },
+  {
+    "id": "23970",
+    "districtId": "2103",
+    "name": "Suka Bandung"
+  },
+  {
+    "id": "24154",
+    "districtId": "2103",
+    "name": "Talang Padang"
+  },
+  {
+    "id": "24198",
+    "districtId": "2103",
+    "name": "Tanggo Raso"
+  },
+  {
+    "id": "24221",
+    "districtId": "2103",
+    "name": "Tanjung Aur Ii"
+  },
+  {
+    "id": "24306",
+    "districtId": "2103",
+    "name": "Telaga Dalam"
+  },
+  {
+    "id": "24349",
+    "districtId": "2103",
+    "name": "Tungkal I"
+  },
+  {
+    "id": "24350",
+    "districtId": "2103",
+    "name": "Tungkal Ii"
+  },
+  {
+    "id": "26658",
+    "districtId": "2103",
+    "name": "Air Kemang"
+  },
+  {
+    "id": "26754",
+    "districtId": "2103",
+    "name": "Bandung Ayu"
+  },
+  {
+    "id": "23151",
+    "districtId": "2110",
+    "name": "Darat Sawah"
+  },
+  {
+    "id": "23153",
+    "districtId": "2110",
+    "name": "Darat Sawah Ulu"
+  },
+  {
+    "id": "23177",
+    "districtId": "2110",
+    "name": "Durian Seginim"
+  },
+  {
+    "id": "23179",
+    "districtId": "2110",
+    "name": "Dusun Baru"
+  },
+  {
+    "id": "23195",
+    "districtId": "2110",
+    "name": "Dusun Tengah"
+  },
+  {
+    "id": "23238",
+    "districtId": "2110",
+    "name": "Gunung Ayu"
+  },
+  {
+    "id": "23400",
+    "districtId": "2110",
+    "name": "Kota Agung"
+  },
+  {
+    "id": "23409",
+    "districtId": "2110",
+    "name": "Kota Bumi Baru"
+  },
+  {
+    "id": "23552",
+    "districtId": "2110",
+    "name": "Muara Danau"
+  },
+  {
+    "id": "23560",
+    "districtId": "2110",
+    "name": "Muara Payang"
+  },
+  {
+    "id": "23561",
+    "districtId": "2110",
+    "name": "Muara Pulutan"
+  },
+  {
+    "id": "23627",
+    "districtId": "2110",
+    "name": "Padang Lebar"
+  },
+  {
+    "id": "23649",
+    "districtId": "2110",
+    "name": "Padang Siring"
+  },
+  {
+    "id": "23684",
+    "districtId": "2110",
+    "name": "Pajar Bulan"
+  },
+  {
+    "id": "23703",
+    "districtId": "2110",
+    "name": "Pasar Baru"
+  },
+  {
+    "id": "23960",
+    "districtId": "2110",
+    "name": "Sindang Bulan"
+  },
+  {
+    "id": "24013",
+    "districtId": "2110",
+    "name": "Sukaraja"
+  },
+  {
+    "id": "24202",
+    "districtId": "2110",
+    "name": "Tanjung Agung"
+  },
+  {
+    "id": "24270",
+    "districtId": "2110",
+    "name": "Tanjung Menang"
+  },
+  {
+    "id": "26736",
+    "districtId": "2110",
+    "name": "Babatan Ilir"
+  },
+  {
+    "id": "26737",
+    "districtId": "2110",
+    "name": "Babatan Ulu"
+  },
+  {
+    "id": "26751",
+    "districtId": "2110",
+    "name": "Banding Agung"
+  },
+  {
+    "id": "23220",
+    "districtId": "2137",
+    "name": "Gelumbang"
+  },
+  {
+    "id": "23239",
+    "districtId": "2137",
+    "name": "Gunung Ayu"
+  },
+  {
+    "id": "23263",
+    "districtId": "2137",
+    "name": "Ibul"
+  },
+  {
+    "id": "23290",
+    "districtId": "2137",
+    "name": "Kampung Baru"
+  },
+  {
+    "id": "23412",
+    "districtId": "2137",
+    "name": "Kota Medan"
+  },
+  {
+    "id": "23601",
+    "districtId": "2137",
+    "name": "Padang Berangin"
+  },
+  {
+    "id": "23621",
+    "districtId": "2137",
+    "name": "Padang Kapuk"
+  },
+  {
+    "id": "23636",
+    "districtId": "2137",
+    "name": "Padang Niur"
+  },
+  {
+    "id": "23666",
+    "districtId": "2137",
+    "name": "Pagar Dewa"
+  },
+  {
+    "id": "23704",
+    "districtId": "2137",
+    "name": "Pasar Baru"
+  },
+  {
+    "id": "24292",
+    "districtId": "2137",
+    "name": "Tebat Kubu"
+  },
+  {
+    "id": "23227",
+    "districtId": "2141",
+    "name": "Gindo Suli"
+  },
+  {
+    "id": "23243",
+    "districtId": "2141",
+    "name": "Gunung Kayo"
+  },
+  {
+    "id": "23424",
+    "districtId": "2141",
+    "name": "Kuripan"
+  },
+  {
+    "id": "23607",
+    "districtId": "2141",
+    "name": "Padang Burnai"
+  },
+  {
+    "id": "23618",
+    "districtId": "2141",
+    "name": "Padang Jawi"
+  },
+  {
+    "id": "23635",
+    "districtId": "2141",
+    "name": "Padang Nibung"
+  },
+  {
+    "id": "24137",
+    "districtId": "2141",
+    "name": "Talang Indah"
+  },
+  {
+    "id": "24215",
+    "districtId": "2141",
+    "name": "Tanjung Aur"
+  },
+  {
+    "id": "24284",
+    "districtId": "2141",
+    "name": "Tanjung Tebat"
+  },
+  {
+    "id": "24342",
+    "districtId": "2141",
+    "name": "Tumbuk Tebing"
+  },
+  {
+    "id": "23244",
+    "districtId": "2146",
+    "name": "Gunung Kembang"
+  },
+  {
+    "id": "23251",
+    "districtId": "2146",
+    "name": "Gunung Sakti"
+  },
+  {
+    "id": "23278",
+    "districtId": "2146",
+    "name": "Jeranglah Rendah"
+  },
+  {
+    "id": "23279",
+    "districtId": "2146",
+    "name": "Jeranglah Tinggi"
+  },
+  {
+    "id": "23344",
+    "districtId": "2146",
+    "name": "Kayu Kunyit"
+  },
+  {
+    "id": "23371",
+    "districtId": "2146",
+    "name": "Kembang Ayun"
+  },
+  {
+    "id": "23394",
+    "districtId": "2146",
+    "name": "Ketaping"
+  },
+  {
+    "id": "23414",
+    "districtId": "2146",
+    "name": "Kota Padang"
+  },
+  {
+    "id": "23494",
+    "districtId": "2146",
+    "name": "Lubuk Sirih Ilir"
+  },
+  {
+    "id": "23495",
+    "districtId": "2146",
+    "name": "Lubuk Sirih Ulu"
+  },
+  {
+    "id": "23515",
+    "districtId": "2146",
+    "name": "Manggul"
+  },
+  {
+    "id": "23543",
+    "districtId": "2146",
+    "name": "Mela'O"
+  },
+  {
+    "id": "23630",
+    "districtId": "2146",
+    "name": "Padang Manis"
+  },
+  {
+    "id": "23637",
+    "districtId": "2146",
+    "name": "Padang Pandan"
+  },
+  {
+    "id": "24190",
+    "districtId": "2146",
+    "name": "Tambangan"
+  },
+  {
+    "id": "24230",
+    "districtId": "2146",
+    "name": "Tanjung Besar"
+  },
+  {
+    "id": "24276",
+    "districtId": "2146",
+    "name": "Tanjung Raman"
+  },
+  {
+    "id": "24323",
+    "districtId": "2146",
+    "name": "Terulung"
+  },
+  {
+    "id": "23352",
+    "districtId": "2158",
+    "name": "Keban Jati"
+  },
+  {
+    "id": "23518",
+    "districtId": "2158",
+    "name": "Maras"
+  },
+  {
+    "id": "23692",
+    "districtId": "2158",
+    "name": "Palak Bengkerung"
+  },
+  {
+    "id": "23760",
+    "districtId": "2158",
+    "name": "Penandingan"
+  },
+  {
+    "id": "23793",
+    "districtId": "2158",
+    "name": "Pino Baru"
+  },
+  {
+    "id": "23971",
+    "districtId": "2158",
+    "name": "Suka Bandung"
+  },
+  {
+    "id": "23998",
+    "districtId": "2158",
+    "name": "Suka Negeri"
+  },
+  {
+    "id": "24008",
+    "districtId": "2158",
+    "name": "Sukamaju"
+  },
+  {
+    "id": "24017",
+    "districtId": "2158",
+    "name": "Sukarami"
+  },
+  {
+    "id": "24225",
+    "districtId": "2158",
+    "name": "Tanjung Beringin"
+  },
+  {
+    "id": "23058",
+    "districtId": "2057",
+    "name": "Batu Layang"
+  },
+  {
+    "id": "23063",
+    "districtId": "2057",
+    "name": "Batu Raja Kol"
+  },
+  {
+    "id": "23064",
+    "districtId": "2057",
+    "name": "Batu Raja R"
+  },
+  {
+    "id": "23065",
+    "districtId": "2057",
+    "name": "Batu Roto"
+  },
+  {
+    "id": "23410",
+    "districtId": "2057",
+    "name": "Kota Lekat"
+  },
+  {
+    "id": "23411",
+    "districtId": "2057",
+    "name": "Kota Lekat Mudik"
+  },
+  {
+    "id": "23600",
+    "districtId": "2057",
+    "name": "Padang Bendar"
+  },
+  {
+    "id": "23749",
+    "districtId": "2057",
+    "name": "Pematang Balam"
+  },
+  {
+    "id": "24042",
+    "districtId": "2057",
+    "name": "Sumber Rejo"
+  },
+  {
+    "id": "24083",
+    "districtId": "2057",
+    "name": "Taba Padang Kol"
+  },
+  {
+    "id": "24084",
+    "districtId": "2057",
+    "name": "Taba Padang R"
+  },
+  {
+    "id": "24169",
+    "districtId": "2057",
+    "name": "Talang Rendah"
+  },
+  {
+    "id": "26640",
+    "districtId": "2057",
+    "name": "Air Ba'Us I"
+  },
+  {
+    "id": "26641",
+    "districtId": "2057",
+    "name": "Air Ba'Us Ii"
+  },
+  {
+    "id": "26642",
+    "districtId": "2057",
+    "name": "Air Banai"
+  },
+  {
+    "id": "23089",
+    "districtId": "2077",
+    "name": "Bintunan"
+  },
+  {
+    "id": "23168",
+    "districtId": "2077",
+    "name": "Durian Amparan"
+  },
+  {
+    "id": "23678",
+    "districtId": "2077",
+    "name": "Pagar Ruyung"
+  },
+  {
+    "id": "23772",
+    "districtId": "2077",
+    "name": "Peninjau"
+  },
+  {
+    "id": "23864",
+    "districtId": "2077",
+    "name": "Samban Jaya"
+  },
+  {
+    "id": "23876",
+    "districtId": "2077",
+    "name": "Seberang Tunggal"
+  },
+  {
+    "id": "23883",
+    "districtId": "2077",
+    "name": "Sekiau"
+  },
+  {
+    "id": "23895",
+    "districtId": "2077",
+    "name": "Selolong"
+  },
+  {
+    "id": "23918",
+    "districtId": "2077",
+    "name": "Serangai"
+  },
+  {
+    "id": "23988",
+    "districtId": "2077",
+    "name": "Suka Marga"
+  },
+  {
+    "id": "24077",
+    "districtId": "2077",
+    "name": "Taba Kulintang"
+  },
+  {
+    "id": "24370",
+    "districtId": "2077",
+    "name": "Ulak Tanding"
+  },
+  {
+    "id": "26665",
+    "districtId": "2077",
+    "name": "Air Lakok"
+  },
+  {
+    "id": "26670",
+    "districtId": "2077",
+    "name": "Air Manganyau"
+  },
+  {
+    "id": "26770",
+    "districtId": "2077",
+    "name": "Batik Nau"
+  },
+  {
+    "id": "23098",
+    "districtId": "2084",
+    "name": "Bukit Berlian"
+  },
+  {
+    "id": "23111",
+    "districtId": "2084",
+    "name": "Bukit Sari"
+  },
+  {
+    "id": "23680",
+    "districtId": "2084",
+    "name": "Pagardin"
+  },
+  {
+    "id": "23795",
+    "districtId": "2084",
+    "name": "Pondok Bakil"
+  },
+  {
+    "id": "24117",
+    "districtId": "2084",
+    "name": "Talang Berantai"
+  },
+  {
+    "id": "24241",
+    "districtId": "2084",
+    "name": "Tanjung Dalam"
+  },
+  {
+    "id": "24251",
+    "districtId": "2084",
+    "name": "Tanjung Harapan"
+  },
+  {
+    "id": "24281",
+    "districtId": "2084",
+    "name": "Tanjung Sari"
+  },
+  {
+    "id": "26668",
+    "districtId": "2084",
+    "name": "Air Lelangi"
+  },
+  {
+    "id": "26761",
+    "districtId": "2084",
+    "name": "Bangun Karya"
+  },
+  {
+    "id": "23099",
+    "districtId": "2085",
+    "name": "Bukit Harapan"
+  },
+  {
+    "id": "23103",
+    "districtId": "2085",
+    "name": "Bukit Makmur"
+  },
+  {
+    "id": "23115",
+    "districtId": "2085",
+    "name": "Bumi Harjo"
+  },
+  {
+    "id": "23250",
+    "districtId": "2085",
+    "name": "Gunung Payung"
+  },
+  {
+    "id": "23522",
+    "districtId": "2085",
+    "name": "Marga Bhakti"
+  },
+  {
+    "id": "24040",
+    "districtId": "2085",
+    "name": "Sumber Mulya"
+  },
+  {
+    "id": "24271",
+    "districtId": "2085",
+    "name": "Tanjung Muara"
+  },
+  {
+    "id": "26701",
+    "districtId": "2085",
+    "name": "Air Sebayur"
+  },
+  {
+    "id": "26702",
+    "districtId": "2085",
+    "name": "Air Sekamanak"
+  },
+  {
+    "id": "26705",
+    "districtId": "2085",
+    "name": "Air Simpang"
+  },
+  {
+    "id": "23101",
+    "districtId": "2087",
+    "name": "Bukit Indah"
+  },
+  {
+    "id": "23113",
+    "districtId": "2087",
+    "name": "Bukit Tinggi"
+  },
+  {
+    "id": "23193",
+    "districtId": "2087",
+    "name": "Dusun Raja"
+  },
+  {
+    "id": "23203",
+    "districtId": "2087",
+    "name": "Pajar Baru"
+  },
+  {
+    "id": "23228",
+    "districtId": "2087",
+    "name": "Giri Kencana"
+  },
+  {
+    "id": "23421",
+    "districtId": "2087",
+    "name": "Kuala Langi"
+  },
+  {
+    "id": "23475",
+    "districtId": "2087",
+    "name": "Lubuk Mindai"
+  },
+  {
+    "id": "23544",
+    "districtId": "2087",
+    "name": "Melati Harjo K.1"
+  },
+  {
+    "id": "24109",
+    "districtId": "2087",
+    "name": "Talang Baru"
+  },
+  {
+    "id": "24372",
+    "districtId": "2087",
+    "name": "Urai"
+  },
+  {
+    "id": "24401",
+    "districtId": "2087",
+    "name": "Pasar Ketahun"
+  },
+  {
+    "id": "23141",
+    "districtId": "2104",
+    "name": "Cipta Mulya"
+  },
+  {
+    "id": "23329",
+    "districtId": "2104",
+    "name": "Karang Pulau"
+  },
+  {
+    "id": "23331",
+    "districtId": "2104",
+    "name": "Karang Tengah"
+  },
+  {
+    "id": "23405",
+    "districtId": "2104",
+    "name": "Kota Bani"
+  },
+  {
+    "id": "23730",
+    "districtId": "2104",
+    "name": "Pasar Sebelat"
+  },
+  {
+    "id": "24106",
+    "districtId": "2104",
+    "name": "Talang Arah"
+  },
+  {
+    "id": "26678",
+    "districtId": "2104",
+    "name": "Air Muring"
+  },
+  {
+    "id": "26684",
+    "districtId": "2104",
+    "name": "Air Pandan"
+  },
+  {
+    "id": "26688",
+    "districtId": "2104",
+    "name": "Air Petai"
+  },
+  {
+    "id": "23156",
+    "districtId": "2112",
+    "name": "Datar Lebar"
+  },
+  {
+    "id": "23171",
+    "districtId": "2112",
+    "name": "Durian Daun"
+  },
+  {
+    "id": "23192",
+    "districtId": "2112",
+    "name": "Dusun Raja"
+  },
+  {
+    "id": "23268",
+    "districtId": "2112",
+    "name": "Jagobayo"
+  },
+  {
+    "id": "23285",
+    "districtId": "2112",
+    "name": "Kalbang"
+  },
+  {
+    "id": "23462",
+    "districtId": "2112",
+    "name": "Lubuk Gedang"
+  },
+  {
+    "id": "23473",
+    "districtId": "2112",
+    "name": "Lubuk Lesung"
+  },
+  {
+    "id": "23688",
+    "districtId": "2112",
+    "name": "Pal 30"
+  },
+  {
+    "id": "23717",
+    "districtId": "2112",
+    "name": "Pasar Lais"
+  },
+  {
+    "id": "23982",
+    "districtId": "2112",
+    "name": "Suka Langu"
+  },
+  {
+    "id": "24071",
+    "districtId": "2112",
+    "name": "Taba Baru"
+  },
+  {
+    "id": "24166",
+    "districtId": "2112",
+    "name": "Talang Rasau"
+  },
+  {
+    "id": "26682",
+    "districtId": "2112",
+    "name": "Air Padang"
+  },
+  {
+    "id": "23160",
+    "districtId": "2115",
+    "name": "Datar Macang"
+  },
+  {
+    "id": "23189",
+    "districtId": "2115",
+    "name": "Dusun Curup"
+  },
+  {
+    "id": "23225",
+    "districtId": "2115",
+    "name": "Genting Perangkap"
+  },
+  {
+    "id": "23387",
+    "districtId": "2115",
+    "name": "Kertapati"
+  },
+  {
+    "id": "23401",
+    "districtId": "2115",
+    "name": "Kota Agung"
+  },
+  {
+    "id": "23452",
+    "districtId": "2115",
+    "name": "Lubuk Balam"
+  },
+  {
+    "id": "23779",
+    "districtId": "2115",
+    "name": "Penyangkak"
+  },
+  {
+    "id": "24056",
+    "districtId": "2115",
+    "name": "Sungai Pura"
+  },
+  {
+    "id": "24111",
+    "districtId": "2115",
+    "name": "Talang Baru Ginting"
+  },
+  {
+    "id": "24135",
+    "districtId": "2115",
+    "name": "Talang Ginting"
+  },
+  {
+    "id": "24149",
+    "districtId": "2115",
+    "name": "Talang Lembak"
+  },
+  {
+    "id": "24164",
+    "districtId": "2115",
+    "name": "Talang Pungguk"
+  },
+  {
+    "id": "24168",
+    "districtId": "2115",
+    "name": "Talang Renah"
+  },
+  {
+    "id": "24249",
+    "districtId": "2115",
+    "name": "Tanjung Genting"
+  },
+  {
+    "id": "24261",
+    "districtId": "2115",
+    "name": "Tanjung Karet"
+  },
+  {
+    "id": "23162",
+    "districtId": "2117",
+    "name": "Datar Ruyung"
+  },
+  {
+    "id": "23232",
+    "districtId": "2117",
+    "name": "Gunung Agung"
+  },
+  {
+    "id": "23236",
+    "districtId": "2117",
+    "name": "Gunung Alam"
+  },
+  {
+    "id": "23252",
+    "districtId": "2117",
+    "name": "Gunung Selan"
+  },
+  {
+    "id": "23313",
+    "districtId": "2117",
+    "name": "Karang Anyar I"
+  },
+  {
+    "id": "23314",
+    "districtId": "2117",
+    "name": "Karang Anyar Ii"
+  },
+  {
+    "id": "23330",
+    "districtId": "2117",
+    "name": "Karang Suci"
+  },
+  {
+    "id": "23425",
+    "districtId": "2117",
+    "name": "Kuro Tidur"
+  },
+  {
+    "id": "23485",
+    "districtId": "2117",
+    "name": "Lubuk Saung"
+  },
+  {
+    "id": "23828",
+    "districtId": "2117",
+    "name": "Purwodadi"
+  },
+  {
+    "id": "23831",
+    "districtId": "2117",
+    "name": "Rama Agung"
+  },
+  {
+    "id": "23908",
+    "districtId": "2117",
+    "name": "Senali"
+  },
+  {
+    "id": "23936",
+    "districtId": "2117",
+    "name": "Sidourip"
+  },
+  {
+    "id": "24091",
+    "districtId": "2117",
+    "name": "Taba Tembilang"
+  },
+  {
+    "id": "24126",
+    "districtId": "2117",
+    "name": "Talang Denau"
+  },
+  {
+    "id": "24277",
+    "districtId": "2117",
+    "name": "Tanjung Raman"
+  },
+  {
+    "id": "23212",
+    "districtId": "2132",
+    "name": "Gardu"
+  },
+  {
+    "id": "23241",
+    "districtId": "2132",
+    "name": "Gunung Besar"
+  },
+  {
+    "id": "23284",
+    "districtId": "2132",
+    "name": "Kalai Duai"
+  },
+  {
+    "id": "23286",
+    "districtId": "2132",
+    "name": "Kali"
+  },
+  {
+    "id": "23379",
+    "districtId": "2132",
+    "name": "Kemumu"
+  },
+  {
+    "id": "23663",
+    "districtId": "2132",
+    "name": "Pagar Banyu"
+  },
+  {
+    "id": "23679",
+    "districtId": "2132",
+    "name": "Pagar Ruyung"
+  },
+  {
+    "id": "23753",
+    "districtId": "2132",
+    "name": "Pematang Sapang"
+  },
+  {
+    "id": "23937",
+    "districtId": "2132",
+    "name": "Sidodadi"
+  },
+  {
+    "id": "24031",
+    "districtId": "2132",
+    "name": "Sumber Agung"
+  },
+  {
+    "id": "24301",
+    "districtId": "2132",
+    "name": "Tebing Kaning"
+  },
+  {
+    "id": "26675",
+    "districtId": "2132",
+    "name": "Air Merah"
+  },
+  {
+    "id": "23221",
+    "districtId": "2138",
+    "name": "Gembung Raya"
+  },
+  {
+    "id": "23267",
+    "districtId": "2138",
+    "name": "Jabi"
+  },
+  {
+    "id": "23398",
+    "districtId": "2138",
+    "name": "Kinal Jaya"
+  },
+  {
+    "id": "23439",
+    "districtId": "2138",
+    "name": "Lebong Tandai"
+  },
+  {
+    "id": "23563",
+    "districtId": "2138",
+    "name": "Muara Santan"
+  },
+  {
+    "id": "23589",
+    "districtId": "2138",
+    "name": "Napal Putih"
+  },
+  {
+    "id": "24211",
+    "districtId": "2138",
+    "name": "Tanjung Alai"
+  },
+  {
+    "id": "24262",
+    "districtId": "2138",
+    "name": "Tanjung Kemayan"
+  },
+  {
+    "id": "24309",
+    "districtId": "2138",
+    "name": "Teluk Anggung"
+  },
+  {
+    "id": "26708",
+    "districtId": "2138",
+    "name": "Air Tenang"
+  },
+  {
+    "id": "23229",
+    "districtId": "2142",
+    "name": "Giri Mulya"
+  },
+  {
+    "id": "23840",
+    "districtId": "2142",
+    "name": "Rena Jaya"
+  },
+  {
+    "id": "23985",
+    "districtId": "2142",
+    "name": "Suka Makmur"
+  },
+  {
+    "id": "23995",
+    "districtId": "2142",
+    "name": "Suka Mulya"
+  },
+  {
+    "id": "24214",
+    "districtId": "2142",
+    "name": "Tanjung Anom"
+  },
+  {
+    "id": "24378",
+    "districtId": "2142",
+    "name": "Wono Harjo"
+  },
+  {
+    "id": "23282",
+    "districtId": "2150",
+    "name": "Kaana"
+  },
+  {
+    "id": "23283",
+    "districtId": "2150",
+    "name": "Kahyapu"
+  },
+  {
+    "id": "23510",
+    "districtId": "2150",
+    "name": "Malakoni"
+  },
+  {
+    "id": "23546",
+    "districtId": "2150",
+    "name": "Meok"
+  },
+  {
+    "id": "26718",
+    "districtId": "2150",
+    "name": "Apoho"
+  },
+  {
+    "id": "26762",
+    "districtId": "2150",
+    "name": "Banjar Sari"
+  },
+  {
+    "id": "23335",
+    "districtId": "2157",
+    "name": "Karya Bakti"
+  },
+  {
+    "id": "23336",
+    "districtId": "2157",
+    "name": "Karya Jaya"
+  },
+  {
+    "id": "23338",
+    "districtId": "2157",
+    "name": "Karya Pelita"
+  },
+  {
+    "id": "23974",
+    "districtId": "2157",
+    "name": "Suka Baru"
+  },
+  {
+    "id": "23983",
+    "districtId": "2157",
+    "name": "Suka Maju"
+  },
+  {
+    "id": "23986",
+    "districtId": "2157",
+    "name": "Suka Makmur"
+  },
+  {
+    "id": "23989",
+    "districtId": "2157",
+    "name": "Suka Medan"
+  },
+  {
+    "id": "23992",
+    "districtId": "2157",
+    "name": "Suka Merindu"
+  },
+  {
+    "id": "23997",
+    "districtId": "2157",
+    "name": "Suka Negara"
+  },
+  {
+    "id": "26691",
+    "districtId": "2157",
+    "name": "Air Putih"
+  },
+  {
+    "id": "23363",
+    "districtId": "2160",
+    "name": "Kedu Baru"
+  },
+  {
+    "id": "23459",
+    "districtId": "2160",
+    "name": "Lubuk Durian"
+  },
+  {
+    "id": "23466",
+    "districtId": "2160",
+    "name": "Lubuk Jale"
+  },
+  {
+    "id": "23505",
+    "districtId": "2160",
+    "name": "Magelang"
+  },
+  {
+    "id": "23778",
+    "districtId": "2160",
+    "name": "Penyangkak"
+  },
+  {
+    "id": "23782",
+    "districtId": "2160",
+    "name": "Perbo"
+  },
+  {
+    "id": "23863",
+    "districtId": "2160",
+    "name": "Salam Harjo"
+  },
+  {
+    "id": "23920",
+    "districtId": "2160",
+    "name": "Serumbung"
+  },
+  {
+    "id": "23943",
+    "districtId": "2160",
+    "name": "Simpang Ketenong"
+  },
+  {
+    "id": "24123",
+    "districtId": "2160",
+    "name": "Talang Curup"
+  },
+  {
+    "id": "24138",
+    "districtId": "2160",
+    "name": "Talang Jambu"
+  },
+  {
+    "id": "24160",
+    "districtId": "2160",
+    "name": "Talang Pasak"
+  },
+  {
+    "id": "24275",
+    "districtId": "2160",
+    "name": "Tanjung Putus"
+  },
+  {
+    "id": "24295",
+    "districtId": "2160",
+    "name": "Tebat Pacur"
+  },
+  {
+    "id": "24380",
+    "districtId": "2160",
+    "name": "Jogja Baru"
+  },
+  {
+    "id": "26728",
+    "districtId": "2160",
+    "name": "Aur Gading"
+  },
+  {
+    "id": "26766",
+    "districtId": "2160",
+    "name": "Banyu Mas Lama"
+  },
+  {
+    "id": "26767",
+    "districtId": "2160",
+    "name": "Banyu Mas Baru"
+  },
+  {
+    "id": "23373",
+    "districtId": "2162",
+    "name": "Kembang Manis"
+  },
+  {
+    "id": "23478",
+    "districtId": "2162",
+    "name": "Lubuk Mumpo"
+  },
+  {
+    "id": "23550",
+    "districtId": "2162",
+    "name": "Mesigit"
+  },
+  {
+    "id": "23620",
+    "districtId": "2162",
+    "name": "Padang Kala"
+  },
+  {
+    "id": "23851",
+    "districtId": "2162",
+    "name": "Retes"
+  },
+  {
+    "id": "24004",
+    "districtId": "2162",
+    "name": "Suka Rami"
+  },
+  {
+    "id": "24186",
+    "districtId": "2162",
+    "name": "Talang Ulu"
+  },
+  {
+    "id": "24217",
+    "districtId": "2162",
+    "name": "Tanjung Aur"
+  },
+  {
+    "id": "24308",
+    "districtId": "2162",
+    "name": "Teluk Ajang"
+  },
+  {
+    "id": "26746",
+    "districtId": "2162",
+    "name": "Balam"
+  },
+  {
+    "id": "23393",
+    "districtId": "2163",
+    "name": "Ketapi"
+  },
+  {
+    "id": "23460",
+    "districtId": "2163",
+    "name": "Lubuk Gading"
+  },
+  {
+    "id": "23480",
+    "districtId": "2163",
+    "name": "Lubuk Pendam"
+  },
+  {
+    "id": "23492",
+    "districtId": "2163",
+    "name": "Lubuk Semantung"
+  },
+  {
+    "id": "23644",
+    "districtId": "2163",
+    "name": "Padang Sepan"
+  },
+  {
+    "id": "23873",
+    "districtId": "2163",
+    "name": "Sawang Lebar"
+  },
+  {
+    "id": "23874",
+    "districtId": "2163",
+    "name": "Sawang Lebar Ilir"
+  },
+  {
+    "id": "23911",
+    "districtId": "2163",
+    "name": "Sengkuang"
+  },
+  {
+    "id": "24204",
+    "districtId": "2163",
+    "name": "Tanjung Agung"
+  },
+  {
+    "id": "26712",
+    "districtId": "2163",
+    "name": "Alun Dua"
+  },
+  {
+    "id": "23453",
+    "districtId": "2168",
+    "name": "Lubuk Banyau"
+  },
+  {
+    "id": "23523",
+    "districtId": "2168",
+    "name": "Marga Jaya"
+  },
+  {
+    "id": "23528",
+    "districtId": "2168",
+    "name": "Marga Sakti"
+  },
+  {
+    "id": "23619",
+    "districtId": "2168",
+    "name": "Padang Jaya"
+  },
+  {
+    "id": "23926",
+    "districtId": "2168",
+    "name": "Sido Luhur"
+  },
+  {
+    "id": "23931",
+    "districtId": "2168",
+    "name": "Sidomukti"
+  },
+  {
+    "id": "24184",
+    "districtId": "2168",
+    "name": "Talang Tua"
+  },
+  {
+    "id": "24188",
+    "districtId": "2168",
+    "name": "Tambak Rejo"
+  },
+  {
+    "id": "24193",
+    "districtId": "2168",
+    "name": "Tanah Hitam"
+  },
+  {
+    "id": "24196",
+    "districtId": "2168",
+    "name": "Tanah Tinggi"
+  },
+  {
+    "id": "24250",
+    "districtId": "2168",
+    "name": "Tanjung Harapan"
+  },
+  {
+    "id": "26724",
+    "districtId": "2168",
+    "name": "Arga Mulya"
+  },
+  {
+    "id": "23497",
+    "districtId": "2174",
+    "name": "Lubuk Tanjung"
+  },
+  {
+    "id": "23711",
+    "districtId": "2174",
+    "name": "Pasar Bembah"
+  },
+  {
+    "id": "23716",
+    "districtId": "2174",
+    "name": "Pasar Kerkap"
+  },
+  {
+    "id": "23724",
+    "districtId": "2174",
+    "name": "Pasar Palik"
+  },
+  {
+    "id": "23735",
+    "districtId": "2174",
+    "name": "Pasar Tebat"
+  },
+  {
+    "id": "23809",
+    "districtId": "2174",
+    "name": "Pukur"
+  },
+  {
+    "id": "23896",
+    "districtId": "2174",
+    "name": "Selubuk"
+  },
+  {
+    "id": "24139",
+    "districtId": "2174",
+    "name": "Talang Jarang"
+  },
+  {
+    "id": "24146",
+    "districtId": "2174",
+    "name": "Talang Kering"
+  },
+  {
+    "id": "24300",
+    "districtId": "2174",
+    "name": "Tebing Kandang"
+  },
+  {
+    "id": "24319",
+    "districtId": "2174",
+    "name": "Tepi Laut"
+  },
+  {
+    "id": "26679",
+    "districtId": "2174",
+    "name": "Air Napal"
+  },
+  {
+    "id": "23059",
+    "districtId": "2058",
+    "name": "Batu Lungun"
+  },
+  {
+    "id": "23102",
+    "districtId": "2058",
+    "name": "Bukit Indah"
+  },
+  {
+    "id": "23215",
+    "districtId": "2058",
+    "name": "Gedung Menung"
+  },
+  {
+    "id": "23549",
+    "districtId": "2058",
+    "name": "Merpas"
+  },
+  {
+    "id": "23554",
+    "districtId": "2058",
+    "name": "Muara Dua"
+  },
+  {
+    "id": "23707",
+    "districtId": "2058",
+    "name": "Pasar Baru"
+  },
+  {
+    "id": "23714",
+    "districtId": "2058",
+    "name": "Pasar Jum'At"
+  },
+  {
+    "id": "23950",
+    "districtId": "2058",
+    "name": "Sinar Banten"
+  },
+  {
+    "id": "23980",
+    "districtId": "2058",
+    "name": "Suka Jaya"
+  },
+  {
+    "id": "24029",
+    "districtId": "2058",
+    "name": "Suku Tiga"
+  },
+  {
+    "id": "24035",
+    "districtId": "2058",
+    "name": "Sumber Harapan"
+  },
+  {
+    "id": "24232",
+    "districtId": "2058",
+    "name": "Tanjung Betuah"
+  },
+  {
+    "id": "24303",
+    "districtId": "2058",
+    "name": "Tebing Rambutan"
+  },
+  {
+    "id": "24338",
+    "districtId": "2058",
+    "name": "Tri Jaya"
+  },
+  {
+    "id": "24368",
+    "districtId": "2058",
+    "name": "Ulak Pandan"
+  },
+  {
+    "id": "26644",
+    "districtId": "2058",
+    "name": "Air Batang"
+  },
+  {
+    "id": "26683",
+    "districtId": "2058",
+    "name": "Air Palawan"
+  },
+  {
+    "id": "23076",
+    "districtId": "2068",
+    "name": "Benteng Harapan"
+  },
+  {
+    "id": "23362",
+    "districtId": "2068",
+    "name": "Kedataran"
+  },
+  {
+    "id": "23446",
+    "districtId": "2068",
+    "name": "Linau"
+  },
+  {
+    "id": "23557",
+    "districtId": "2068",
+    "name": "Muara Jaya"
+  },
+  {
+    "id": "23701",
+    "districtId": "2068",
+    "name": "Parda Suka"
+  },
+  {
+    "id": "23777",
+    "districtId": "2068",
+    "name": "Penyandingan"
+  },
+  {
+    "id": "23957",
+    "districtId": "2068",
+    "name": "Sinar Mulya"
+  },
+  {
+    "id": "23990",
+    "districtId": "2068",
+    "name": "Suka Menanti"
+  },
+  {
+    "id": "24034",
+    "districtId": "2068",
+    "name": "Sumber Harapan"
+  },
+  {
+    "id": "24205",
+    "districtId": "2068",
+    "name": "Tanjung Agung"
+  },
+  {
+    "id": "24219",
+    "districtId": "2068",
+    "name": "Tanjung Aur"
+  },
+  {
+    "id": "24224",
+    "districtId": "2068",
+    "name": "Tanjung Baru"
+  },
+  {
+    "id": "24227",
+    "districtId": "2068",
+    "name": "Tanjung Beringin"
+  },
+  {
+    "id": "24245",
+    "districtId": "2068",
+    "name": "Tanjung Ganti"
+  },
+  {
+    "id": "24376",
+    "districtId": "2068",
+    "name": "Way Hawang"
+  },
+  {
+    "id": "26655",
+    "districtId": "2068",
+    "name": "Air Jelatang"
+  },
+  {
+    "id": "26669",
+    "districtId": "2068",
+    "name": "Air Long"
+  },
+  {
+    "id": "26725",
+    "districtId": "2068",
+    "name": "Arga Mulya"
+  },
+  {
+    "id": "26744",
+    "districtId": "2068",
+    "name": "Bakal Makmur"
+  },
+  {
+    "id": "23079",
+    "districtId": "2070",
+    "name": "Benua Ratu"
+  },
+  {
+    "id": "23130",
+    "districtId": "2070",
+    "name": "Cahaya Negeri"
+  },
+  {
+    "id": "23169",
+    "districtId": "2070",
+    "name": "Durian Besar"
+  },
+  {
+    "id": "23208",
+    "districtId": "2070",
+    "name": "Ganda Suli"
+  },
+  {
+    "id": "23380",
+    "districtId": "2070",
+    "name": "Kepahyang"
+  },
+  {
+    "id": "23616",
+    "districtId": "2070",
+    "name": "Padang Jati"
+  },
+  {
+    "id": "23813",
+    "districtId": "2070",
+    "name": "Pulau Panggung"
+  },
+  {
+    "id": "23919",
+    "districtId": "2070",
+    "name": "Serdang Indah"
+  },
+  {
+    "id": "24228",
+    "districtId": "2070",
+    "name": "Tanjung Beringin"
+  },
+  {
+    "id": "24341",
+    "districtId": "2070",
+    "name": "Tuguk"
+  },
+  {
+    "id": "24371",
+    "districtId": "2070",
+    "name": "Umbul"
+  },
+  {
+    "id": "26760",
+    "districtId": "2070",
+    "name": "Bangun Jiwa"
+  },
+  {
+    "id": "23081",
+    "districtId": "2071",
+    "name": "Beriang Tinggi"
+  },
+  {
+    "id": "23623",
+    "districtId": "2071",
+    "name": "Padang Kedondong"
+  },
+  {
+    "id": "23626",
+    "districtId": "2071",
+    "name": "Padang Leban"
+  },
+  {
+    "id": "23653",
+    "districtId": "2071",
+    "name": "Padang Tinggi"
+  },
+  {
+    "id": "23744",
+    "districtId": "2071",
+    "name": "Pelajaran"
+  },
+  {
+    "id": "23745",
+    "districtId": "2071",
+    "name": "Pelajaran Ii"
+  },
+  {
+    "id": "23891",
+    "districtId": "2071",
+    "name": "Selika"
+  },
+  {
+    "id": "23892",
+    "districtId": "2071",
+    "name": "Selika Ii"
+  },
+  {
+    "id": "23893",
+    "districtId": "2071",
+    "name": "Selika Iii"
+  },
+  {
+    "id": "24030",
+    "districtId": "2071",
+    "name": "Sulauwangi"
+  },
+  {
+    "id": "24218",
+    "districtId": "2071",
+    "name": "Tanjung Aur"
+  },
+  {
+    "id": "24222",
+    "districtId": "2071",
+    "name": "Tanjung Aur Ii"
+  },
+  {
+    "id": "24235",
+    "districtId": "2071",
+    "name": "Tanjung Bulan"
+  },
+  {
+    "id": "24256",
+    "districtId": "2071",
+    "name": "Tanjung Iman"
+  },
+  {
+    "id": "24258",
+    "districtId": "2071",
+    "name": "Tanjung Iman Ii"
+  },
+  {
+    "id": "24263",
+    "districtId": "2071",
+    "name": "Tanjung Kemuning"
+  },
+  {
+    "id": "24264",
+    "districtId": "2071",
+    "name": "Tanjung Kemuning Ii"
+  },
+  {
+    "id": "24265",
+    "districtId": "2071",
+    "name": "Tanjung Kemuning Iii"
+  },
+  {
+    "id": "24334",
+    "districtId": "2071",
+    "name": "Tinggi Ari"
+  },
+  {
+    "id": "26730",
+    "districtId": "2071",
+    "name": "Aur Ringit"
+  },
+  {
+    "id": "23104",
+    "districtId": "2088",
+    "name": "Bukit Makmur"
+  },
+  {
+    "id": "23137",
+    "districtId": "2088",
+    "name": "Cinta Makmur"
+  },
+  {
+    "id": "23562",
+    "districtId": "2088",
+    "name": "Muara Sahung"
+  },
+  {
+    "id": "24037",
+    "districtId": "2088",
+    "name": "Sumber Makmur"
+  },
+  {
+    "id": "24339",
+    "districtId": "2088",
+    "name": "Tri Tunggal Bakti"
+  },
+  {
+    "id": "24364",
+    "districtId": "2088",
+    "name": "Ulak Bandung"
+  },
+  {
+    "id": "24366",
+    "districtId": "2088",
+    "name": "Ulak Lebar"
+  },
+  {
+    "id": "23121",
+    "districtId": "2098",
+    "name": "Bunga Melur"
+  },
+  {
+    "id": "23128",
+    "districtId": "2098",
+    "name": "Cahaya Batin"
+  },
+  {
+    "id": "23254",
+    "districtId": "2098",
+    "name": "Gunung Tiga"
+  },
+  {
+    "id": "23255",
+    "districtId": "2098",
+    "name": "Gunung Tiga Ii"
+  },
+  {
+    "id": "23319",
+    "districtId": "2098",
+    "name": "Karang Dapo"
+  },
+  {
+    "id": "23465",
+    "districtId": "2098",
+    "name": "Lubuk Gung"
+  },
+  {
+    "id": "23533",
+    "districtId": "2098",
+    "name": "Masria Baru"
+  },
+  {
+    "id": "23545",
+    "districtId": "2098",
+    "name": "Mentiring"
+  },
+  {
+    "id": "23596",
+    "districtId": "2098",
+    "name": "Nusuk"
+  },
+  {
+    "id": "23638",
+    "districtId": "2098",
+    "name": "Padang Panjang"
+  },
+  {
+    "id": "23993",
+    "districtId": "2098",
+    "name": "Suka Merindu"
+  },
+  {
+    "id": "24252",
+    "districtId": "2098",
+    "name": "Tanjung Harapan"
+  },
+  {
+    "id": "26731",
+    "districtId": "2098",
+    "name": "Awat Mata"
+  },
+  {
+    "id": "23124",
+    "districtId": "2099",
+    "name": "Bungin Tambun"
+  },
+  {
+    "id": "23125",
+    "districtId": "2099",
+    "name": "Bungin Tambun Ii"
+  },
+  {
+    "id": "23126",
+    "districtId": "2099",
+    "name": "Bungin Tambun Iii"
+  },
+  {
+    "id": "23143",
+    "districtId": "2099",
+    "name": "Coko Betung"
+  },
+  {
+    "id": "23272",
+    "districtId": "2099",
+    "name": "Jati Mulyo"
+  },
+  {
+    "id": "23512",
+    "districtId": "2099",
+    "name": "Manau Ix"
+  },
+  {
+    "id": "23513",
+    "districtId": "2099",
+    "name": "Manau Ix Dua"
+  },
+  {
+    "id": "23527",
+    "districtId": "2099",
+    "name": "Marga Mulyo"
+  },
+  {
+    "id": "23573",
+    "districtId": "2099",
+    "name": "Naga Rantai"
+  },
+  {
+    "id": "23661",
+    "districtId": "2099",
+    "name": "Pagar Alam"
+  },
+  {
+    "id": "23673",
+    "districtId": "2099",
+    "name": "Pagar Gunung"
+  },
+  {
+    "id": "23144",
+    "districtId": "2105",
+    "name": "Coko Enau"
+  },
+  {
+    "id": "23233",
+    "districtId": "2105",
+    "name": "Gunung Agung"
+  },
+  {
+    "id": "23257",
+    "districtId": "2105",
+    "name": "Guru Agung"
+  },
+  {
+    "id": "23258",
+    "districtId": "2105",
+    "name": "Guru Agung Ii"
+  },
+  {
+    "id": "23631",
+    "districtId": "2105",
+    "name": "Padang Manis"
+  },
+  {
+    "id": "23696",
+    "districtId": "2105",
+    "name": "Pancur Negara"
+  },
+  {
+    "id": "23788",
+    "districtId": "2105",
+    "name": "Perugaian"
+  },
+  {
+    "id": "23947",
+    "districtId": "2105",
+    "name": "Simpang Tiga"
+  },
+  {
+    "id": "24233",
+    "districtId": "2105",
+    "name": "Tanjung Betung"
+  },
+  {
+    "id": "24234",
+    "districtId": "2105",
+    "name": "Tanjung Betung Ii"
+  },
+  {
+    "id": "26752",
+    "districtId": "2105",
+    "name": "Bandu Agung"
+  },
+  {
+    "id": "23145",
+    "districtId": "2106",
+    "name": "Cucupan"
+  },
+  {
+    "id": "23340",
+    "districtId": "2106",
+    "name": "Kasuk Baru"
+  },
+  {
+    "id": "23381",
+    "districtId": "2106",
+    "name": "Kepahyang"
+  },
+  {
+    "id": "23566",
+    "districtId": "2106",
+    "name": "Muara Tetap"
+  },
+  {
+    "id": "23606",
+    "districtId": "2106",
+    "name": "Padang Binjai"
+  },
+  {
+    "id": "23668",
+    "districtId": "2106",
+    "name": "Pagar Dewa"
+  },
+  {
+    "id": "23973",
+    "districtId": "2106",
+    "name": "Suka Banjar"
+  },
+  {
+    "id": "24000",
+    "districtId": "2106",
+    "name": "Suka Raja"
+  },
+  {
+    "id": "24206",
+    "districtId": "2106",
+    "name": "Tanjung Agung"
+  },
+  {
+    "id": "24236",
+    "districtId": "2106",
+    "name": "Tanjung Bunga"
+  },
+  {
+    "id": "24242",
+    "districtId": "2106",
+    "name": "Tanjung Dalam"
+  },
+  {
+    "id": "26734",
+    "districtId": "2106",
+    "name": "Babat"
+  },
+  {
+    "id": "23152",
+    "districtId": "2111",
+    "name": "Darat Sawah"
+  },
+  {
+    "id": "23667",
+    "districtId": "2111",
+    "name": "Pagar Dewa"
+  },
+  {
+    "id": "23764",
+    "districtId": "2111",
+    "name": "Penantian"
+  },
+  {
+    "id": "23854",
+    "districtId": "2111",
+    "name": "Rigangan I"
+  },
+  {
+    "id": "23855",
+    "districtId": "2111",
+    "name": "Rigangan Ii"
+  },
+  {
+    "id": "23856",
+    "districtId": "2111",
+    "name": "Rigangan Iii"
+  },
+  {
+    "id": "23963",
+    "districtId": "2111",
+    "name": "Siring Agung"
+  },
+  {
+    "id": "24005",
+    "districtId": "2111",
+    "name": "Suka Rami Ii"
+  },
+  {
+    "id": "24019",
+    "districtId": "2111",
+    "name": "Sukarami"
+  },
+  {
+    "id": "24152",
+    "districtId": "2111",
+    "name": "Talang Marap"
+  },
+  {
+    "id": "24178",
+    "districtId": "2111",
+    "name": "Talang Tais"
+  },
+  {
+    "id": "24246",
+    "districtId": "2111",
+    "name": "Tanjung Ganti I"
+  },
+  {
+    "id": "24247",
+    "districtId": "2111",
+    "name": "Tanjung Ganti Ii"
+  },
+  {
+    "id": "23157",
+    "districtId": "2113",
+    "name": "Datar Lebar"
+  },
+  {
+    "id": "23159",
+    "districtId": "2113",
+    "name": "Datar Lebar Ii"
+  },
+  {
+    "id": "23435",
+    "districtId": "2113",
+    "name": "Lawang Agung"
+  },
+  {
+    "id": "23907",
+    "districtId": "2113",
+    "name": "Senak"
+  },
+  {
+    "id": "23951",
+    "districtId": "2113",
+    "name": "Sinar Bulan"
+  },
+  {
+    "id": "24012",
+    "districtId": "2113",
+    "name": "Sukananti"
+  },
+  {
+    "id": "24239",
+    "districtId": "2113",
+    "name": "Tanjung Bunian"
+  },
+  {
+    "id": "24268",
+    "districtId": "2113",
+    "name": "Tanjung Kurung"
+  },
+  {
+    "id": "26729",
+    "districtId": "2113",
+    "name": "Aur Gading"
+  },
+  {
+    "id": "23216",
+    "districtId": "2134",
+    "name": "Gedung Sako"
+  },
+  {
+    "id": "23217",
+    "districtId": "2134",
+    "name": "Gedung Sako Ii"
+  },
+  {
+    "id": "23275",
+    "districtId": "2134",
+    "name": "Jembatan Dua"
+  },
+  {
+    "id": "23383",
+    "districtId": "2134",
+    "name": "Kepala Pasar"
+  },
+  {
+    "id": "23612",
+    "districtId": "2134",
+    "name": "Padang Genting"
+  },
+  {
+    "id": "23642",
+    "districtId": "2134",
+    "name": "Padang Petron"
+  },
+  {
+    "id": "23682",
+    "districtId": "2134",
+    "name": "Pahlawan Ratu"
+  },
+  {
+    "id": "23706",
+    "districtId": "2134",
+    "name": "Pasar Baru"
+  },
+  {
+    "id": "23718",
+    "districtId": "2134",
+    "name": "Pasar Lama"
+  },
+  {
+    "id": "23728",
+    "districtId": "2134",
+    "name": "Pasar Saoh"
+  },
+  {
+    "id": "23769",
+    "districtId": "2134",
+    "name": "Pengubaian"
+  },
+  {
+    "id": "23870",
+    "districtId": "2134",
+    "name": "Sawah Jangkung"
+  },
+  {
+    "id": "23884",
+    "districtId": "2134",
+    "name": "Sekunyit"
+  },
+  {
+    "id": "23888",
+    "districtId": "2134",
+    "name": "Selasih"
+  },
+  {
+    "id": "23958",
+    "districtId": "2134",
+    "name": "Sinar Pagi"
+  },
+  {
+    "id": "23972",
+    "districtId": "2134",
+    "name": "Suka Bandung"
+  },
+  {
+    "id": "24231",
+    "districtId": "2134",
+    "name": "Tanjung Besar"
+  },
+  {
+    "id": "26651",
+    "districtId": "2134",
+    "name": "Air Dingin"
+  },
+  {
+    "id": "26748",
+    "districtId": "2134",
+    "name": "Bandar Bintuhan"
+  },
+  {
+    "id": "23218",
+    "districtId": "2135",
+    "name": "Gedung Wani"
+  },
+  {
+    "id": "23226",
+    "districtId": "2135",
+    "name": "Geramat"
+  },
+  {
+    "id": "23246",
+    "districtId": "2135",
+    "name": "Gunung Megang"
+  },
+  {
+    "id": "23253",
+    "districtId": "2135",
+    "name": "Gunung Terang"
+  },
+  {
+    "id": "23273",
+    "districtId": "2135",
+    "name": "Jawi"
+  },
+  {
+    "id": "23700",
+    "districtId": "2135",
+    "name": "Papahan"
+  },
+  {
+    "id": "23761",
+    "districtId": "2135",
+    "name": "Penandingan"
+  },
+  {
+    "id": "23770",
+    "districtId": "2135",
+    "name": "Pengurung"
+  },
+  {
+    "id": "23790",
+    "districtId": "2135",
+    "name": "Pinang Jawa"
+  },
+  {
+    "id": "23791",
+    "districtId": "2135",
+    "name": "Pinang Jawa Ii"
+  },
+  {
+    "id": "24116",
+    "districtId": "2135",
+    "name": "Talang Berangin"
+  },
+  {
+    "id": "24155",
+    "districtId": "2135",
+    "name": "Talang Padang"
+  },
+  {
+    "id": "24213",
+    "districtId": "2135",
+    "name": "Tanjung Alam"
+  },
+  {
+    "id": "24223",
+    "districtId": "2135",
+    "name": "Tanjung Baru"
+  },
+  {
+    "id": "23242",
+    "districtId": "2145",
+    "name": "Gunung Kaya"
+  },
+  {
+    "id": "23814",
+    "districtId": "2145",
+    "name": "Pulau Panggung"
+  },
+  {
+    "id": "24120",
+    "districtId": "2145",
+    "name": "Talang Besar"
+  },
+  {
+    "id": "24140",
+    "districtId": "2145",
+    "name": "Talang Jawi I"
+  },
+  {
+    "id": "24141",
+    "districtId": "2145",
+    "name": "Talang Jawi Ii"
+  },
+  {
+    "id": "24156",
+    "districtId": "2145",
+    "name": "Talang Padang"
+  },
+  {
+    "id": "24363",
+    "districtId": "2145",
+    "name": "Ulak Agung"
+  },
+  {
+    "id": "26660",
+    "districtId": "2145",
+    "name": "Air Kering"
+  },
+  {
+    "id": "26661",
+    "districtId": "2145",
+    "name": "Air Kering Ii"
+  },
+  {
+    "id": "23369",
+    "districtId": "2161",
+    "name": "Kemang Manis"
+  },
+  {
+    "id": "23598",
+    "districtId": "2161",
+    "name": "Padang Baru"
+  },
+  {
+    "id": "23614",
+    "districtId": "2161",
+    "name": "Padang Hangat"
+  },
+  {
+    "id": "23685",
+    "districtId": "2161",
+    "name": "Pajar Bulan"
+  },
+  {
+    "id": "23776",
+    "districtId": "2161",
+    "name": "Penyandingan"
+  },
+  {
+    "id": "23954",
+    "districtId": "2161",
+    "name": "Sinar Jaya"
+  },
+  {
+    "id": "24018",
+    "districtId": "2161",
+    "name": "Sukarami"
+  },
+  {
+    "id": "24257",
+    "districtId": "2161",
+    "name": "Tanjung Iman"
+  },
+  {
+    "id": "24274",
+    "districtId": "2161",
+    "name": "Tanjung Pandan"
+  },
+  {
+    "id": "23062",
+    "districtId": "2060",
+    "name": "Batu Raja"
+  },
+  {
+    "id": "23178",
+    "districtId": "2060",
+    "name": "Dusun Anyar"
+  },
+  {
+    "id": "23183",
+    "districtId": "2060",
+    "name": "Dusun Baru I"
+  },
+  {
+    "id": "23260",
+    "districtId": "2060",
+    "name": "Harapan Makmur"
+  },
+  {
+    "id": "23447",
+    "districtId": "2060",
+    "name": "Linggar Galing"
+  },
+  {
+    "id": "23529",
+    "districtId": "2060",
+    "name": "Margo Mulyo"
+  },
+  {
+    "id": "23687",
+    "districtId": "2060",
+    "name": "Paku Haji"
+  },
+  {
+    "id": "23802",
+    "districtId": "2060",
+    "name": "Pondok Kubang"
+  },
+  {
+    "id": "24076",
+    "districtId": "2060",
+    "name": "Taba Jambu"
+  },
+  {
+    "id": "24179",
+    "districtId": "2060",
+    "name": "Talang Tengah I"
+  },
+  {
+    "id": "24243",
+    "districtId": "2060",
+    "name": "Tanjung Dalam"
+  },
+  {
+    "id": "24285",
+    "districtId": "2060",
+    "name": "Tanjung Terdana"
+  },
+  {
+    "id": "23088",
+    "districtId": "2076",
+    "name": "Bintang Selatan"
+  },
+  {
+    "id": "23259",
+    "districtId": "2076",
+    "name": "Harapan"
+  },
+  {
+    "id": "23372",
+    "districtId": "2076",
+    "name": "Kembang Ayun"
+  },
+  {
+    "id": "23604",
+    "districtId": "2076",
+    "name": "Padang Betuah"
+  },
+  {
+    "id": "23669",
+    "districtId": "2076",
+    "name": "Pagar Dewa"
+  },
+  {
+    "id": "23695",
+    "districtId": "2076",
+    "name": "Panca Mukti"
+  },
+  {
+    "id": "23725",
+    "districtId": "2076",
+    "name": "Pasar Pedati"
+  },
+  {
+    "id": "23740",
+    "districtId": "2076",
+    "name": "Pekik Nyaring"
+  },
+  {
+    "id": "23800",
+    "districtId": "2076",
+    "name": "Pondok Kelapa"
+  },
+  {
+    "id": "23938",
+    "districtId": "2076",
+    "name": "Sidodadi"
+  },
+  {
+    "id": "23940",
+    "districtId": "2076",
+    "name": "Sidorejo"
+  },
+  {
+    "id": "23967",
+    "districtId": "2076",
+    "name": "Sri Kuncoro"
+  },
+  {
+    "id": "23968",
+    "districtId": "2076",
+    "name": "Srikaton"
+  },
+  {
+    "id": "24049",
+    "districtId": "2076",
+    "name": "Sunda Kelapa"
+  },
+  {
+    "id": "24121",
+    "districtId": "2076",
+    "name": "Talang Boseng"
+  },
+  {
+    "id": "24161",
+    "districtId": "2076",
+    "name": "Talang Pauh"
+  },
+  {
+    "id": "26636",
+    "districtId": "2076",
+    "name": "Abu Sakim"
+  },
+  {
+    "id": "23095",
+    "districtId": "2082",
+    "name": "Bukit"
+  },
+  {
+    "id": "23207",
+    "districtId": "2082",
+    "name": "Gajah Mati"
+  },
+  {
+    "id": "23326",
+    "districtId": "2082",
+    "name": "Karang Nanding"
+  },
+  {
+    "id": "23413",
+    "districtId": "2082",
+    "name": "Kota Niur"
+  },
+  {
+    "id": "23430",
+    "districtId": "2082",
+    "name": "Lagan"
+  },
+  {
+    "id": "23431",
+    "districtId": "2082",
+    "name": "Lagan Bungin"
+  },
+  {
+    "id": "23650",
+    "districtId": "2082",
+    "name": "Padang Siring"
+  },
+  {
+    "id": "23675",
+    "districtId": "2082",
+    "name": "Pagar Gunung"
+  },
+  {
+    "id": "23677",
+    "districtId": "2082",
+    "name": "Pagar Jati"
+  },
+  {
+    "id": "23904",
+    "districtId": "2082",
+    "name": "Semidang"
+  },
+  {
+    "id": "24078",
+    "districtId": "2082",
+    "name": "Taba Lagan"
+  },
+  {
+    "id": "23148",
+    "districtId": "2108",
+    "name": "Curup"
+  },
+  {
+    "id": "23174",
+    "districtId": "2108",
+    "name": "Durian Lebar"
+  },
+  {
+    "id": "23327",
+    "districtId": "2108",
+    "name": "Karang Panggung"
+  },
+  {
+    "id": "23399",
+    "districtId": "2108",
+    "name": "Komering"
+  },
+  {
+    "id": "23481",
+    "districtId": "2108",
+    "name": "Lubuk Pendam"
+  },
+  {
+    "id": "23482",
+    "districtId": "2108",
+    "name": "Lubuk Puar"
+  },
+  {
+    "id": "23660",
+    "districtId": "2108",
+    "name": "Pagar Agung"
+  },
+  {
+    "id": "23665",
+    "districtId": "2108",
+    "name": "Pagar Besi"
+  },
+  {
+    "id": "23819",
+    "districtId": "2108",
+    "name": "Pungguk Jaya"
+  },
+  {
+    "id": "23825",
+    "districtId": "2108",
+    "name": "Punjung"
+  },
+  {
+    "id": "23830",
+    "districtId": "2108",
+    "name": "Rajak Besi"
+  },
+  {
+    "id": "24066",
+    "districtId": "2108",
+    "name": "Susup"
+  },
+  {
+    "id": "24075",
+    "districtId": "2108",
+    "name": "Taba Gemantung"
+  },
+  {
+    "id": "26722",
+    "districtId": "2108",
+    "name": "Arga Indah Ii"
+  },
+  {
+    "id": "26741",
+    "districtId": "2108",
+    "name": "Bajak Tiga"
+  },
+  {
+    "id": "23158",
+    "districtId": "2114",
+    "name": "Datar Lebar"
+  },
+  {
+    "id": "23333",
+    "districtId": "2114",
+    "name": "Karang Tengah"
+  },
+  {
+    "id": "23493",
+    "districtId": "2114",
+    "name": "Lubuk Sini"
+  },
+  {
+    "id": "23774",
+    "districtId": "2114",
+    "name": "Penum"
+  },
+  {
+    "id": "23861",
+    "districtId": "2114",
+    "name": "Rindu Hati"
+  },
+  {
+    "id": "24021",
+    "districtId": "2114",
+    "name": "Sukarami"
+  },
+  {
+    "id": "24059",
+    "districtId": "2114",
+    "name": "Surau"
+  },
+  {
+    "id": "24073",
+    "districtId": "2114",
+    "name": "Taba Baru"
+  },
+  {
+    "id": "24086",
+    "districtId": "2114",
+    "name": "Taba Penanjung"
+  },
+  {
+    "id": "24093",
+    "districtId": "2114",
+    "name": "Taba Teret"
+  },
+  {
+    "id": "24254",
+    "districtId": "2114",
+    "name": "Tanjung Heran"
+  },
+  {
+    "id": "24278",
+    "districtId": "2114",
+    "name": "Tanjung Raman"
+  },
+  {
+    "id": "26739",
+    "districtId": "2114",
+    "name": "Bajak I"
+  },
+  {
+    "id": "23161",
+    "districtId": "2116",
+    "name": "Datar Penokat"
+  },
+  {
+    "id": "23315",
+    "districtId": "2116",
+    "name": "Karang Are"
+  },
+  {
+    "id": "23385",
+    "districtId": "2116",
+    "name": "Keroya"
+  },
+  {
+    "id": "23386",
+    "districtId": "2116",
+    "name": "Kerta Pati"
+  },
+  {
+    "id": "23388",
+    "districtId": "2116",
+    "name": "Kertapati Mudik"
+  },
+  {
+    "id": "23437",
+    "districtId": "2116",
+    "name": "Layang Lekat"
+  },
+  {
+    "id": "23676",
+    "districtId": "2116",
+    "name": "Pagar Jati"
+  },
+  {
+    "id": "23841",
+    "districtId": "2116",
+    "name": "Rena Jaya"
+  },
+  {
+    "id": "23842",
+    "districtId": "2116",
+    "name": "Rena Kandis"
+  },
+  {
+    "id": "24087",
+    "districtId": "2116",
+    "name": "Taba Renah"
+  },
+  {
+    "id": "24124",
+    "districtId": "2116",
+    "name": "Talang Curup"
+  },
+  {
+    "id": "24314",
+    "districtId": "2116",
+    "name": "Temiang"
+  },
+  {
+    "id": "24344",
+    "districtId": "2116",
+    "name": "Tumbuk"
+  },
+  {
+    "id": "26721",
+    "districtId": "2116",
+    "name": "Arga Indah I"
+  },
+  {
+    "id": "23172",
+    "districtId": "2121",
+    "name": "Durian Demang"
+  },
+  {
+    "id": "23184",
+    "districtId": "2121",
+    "name": "Dusun Baru Ii"
+  },
+  {
+    "id": "23303",
+    "districtId": "2121",
+    "name": "Kancing"
+  },
+  {
+    "id": "23334",
+    "districtId": "2121",
+    "name": "Karang Tinggi"
+  },
+  {
+    "id": "23652",
+    "districtId": "2121",
+    "name": "Padang Tambak"
+  },
+  {
+    "id": "23746",
+    "districtId": "2121",
+    "name": "Pelajau"
+  },
+  {
+    "id": "23759",
+    "districtId": "2121",
+    "name": "Penanding"
+  },
+  {
+    "id": "23847",
+    "districtId": "2121",
+    "name": "Renah Lebar"
+  },
+  {
+    "id": "23848",
+    "districtId": "2121",
+    "name": "Renah Semanek"
+  },
+  {
+    "id": "24080",
+    "districtId": "2121",
+    "name": "Taba Mutung"
+  },
+  {
+    "id": "24094",
+    "districtId": "2121",
+    "name": "Taba Terunjam"
+  },
+  {
+    "id": "24132",
+    "districtId": "2121",
+    "name": "Talang Empat"
+  },
+  {
+    "id": "24357",
+    "districtId": "2121",
+    "name": "Ujung Karang"
+  },
+  {
+    "id": "23222",
+    "districtId": "2139",
+    "name": "Genting"
+  },
+  {
+    "id": "23472",
+    "districtId": "2139",
+    "name": "Lubuk Langkap"
+  },
+  {
+    "id": "23603",
+    "districtId": "2139",
+    "name": "Padang Berunai"
+  },
+  {
+    "id": "23880",
+    "districtId": "2139",
+    "name": "Sekayun"
+  },
+  {
+    "id": "23881",
+    "districtId": "2139",
+    "name": "Sekayun Hilir"
+  },
+  {
+    "id": "23882",
+    "districtId": "2139",
+    "name": "Sekayun Mudik"
+  },
+  {
+    "id": "24057",
+    "districtId": "2139",
+    "name": "Sungkai Berayun"
+  },
+  {
+    "id": "24092",
+    "districtId": "2139",
+    "name": "Taba Tengah"
+  },
+  {
+    "id": "24128",
+    "districtId": "2139",
+    "name": "Talang Donok"
+  },
+  {
+    "id": "24159",
+    "districtId": "2139",
+    "name": "Talang Panjang"
+  },
+  {
+    "id": "26680",
+    "districtId": "2139",
+    "name": "Air Napal"
+  },
+  {
+    "id": "26758",
+    "districtId": "2139",
+    "name": "Bang Haji"
+  },
+  {
+    "id": "23223",
+    "districtId": "2140",
+    "name": "Genting Dabuk"
+  },
+  {
+    "id": "23359",
+    "districtId": "2140",
+    "name": "Kebun Lebar"
+  },
+  {
+    "id": "23419",
+    "districtId": "2140",
+    "name": "Kota Titik"
+  },
+  {
+    "id": "23754",
+    "districtId": "2140",
+    "name": "Pematang Tiga"
+  },
+  {
+    "id": "23755",
+    "districtId": "2140",
+    "name": "Pematang Tiga Lama"
+  },
+  {
+    "id": "23906",
+    "districtId": "2140",
+    "name": "Senabah"
+  },
+  {
+    "id": "24180",
+    "districtId": "2140",
+    "name": "Talang Tengah Ii"
+  },
+  {
+    "id": "24266",
+    "districtId": "2140",
+    "name": "Tanjung Kepahyang"
+  },
+  {
+    "id": "24326",
+    "districtId": "2140",
+    "name": "Tiambang"
+  },
+  {
+    "id": "26664",
+    "districtId": "2140",
+    "name": "Air Kotok"
+  },
+  {
+    "id": "26726",
+    "districtId": "2140",
+    "name": "Aturan Mumpo"
+  },
+  {
+    "id": "26727",
+    "districtId": "2140",
+    "name": "Aturan Mumpo Ii"
+  },
+  {
+    "id": "26777",
+    "districtId": "2140",
+    "name": "Batu Beriang"
+  },
+  {
+    "id": "23271",
+    "districtId": "2148",
+    "name": "Jambu"
+  },
+  {
+    "id": "23365",
+    "districtId": "2148",
+    "name": "Kelindang"
+  },
+  {
+    "id": "23366",
+    "districtId": "2148",
+    "name": "Kelindang Atas"
+  },
+  {
+    "id": "23502",
+    "districtId": "2148",
+    "name": "Lubuk Unen"
+  },
+  {
+    "id": "23503",
+    "districtId": "2148",
+    "name": "Lubuk Unen Baru"
+  },
+  {
+    "id": "23622",
+    "districtId": "2148",
+    "name": "Padang Kedeper"
+  },
+  {
+    "id": "23766",
+    "districtId": "2148",
+    "name": "Penembang"
+  },
+  {
+    "id": "23818",
+    "districtId": "2148",
+    "name": "Pungguk Beringin"
+  },
+  {
+    "id": "23820",
+    "districtId": "2148",
+    "name": "Pungguk Ketupak"
+  },
+  {
+    "id": "24074",
+    "districtId": "2148",
+    "name": "Taba Durian Sebakul"
+  },
+  {
+    "id": "24105",
+    "districtId": "2148",
+    "name": "Talang Ambung"
+  },
+  {
+    "id": "24367",
+    "districtId": "2148",
+    "name": "Ulak Lebar"
+  },
+  {
+    "id": "26740",
+    "districtId": "2148",
+    "name": "Bajak Ii"
+  },
+  {
+    "id": "23274",
+    "districtId": "2149",
+    "name": "Jayakarta"
+  },
+  {
+    "id": "23281",
+    "districtId": "2149",
+    "name": "Jum'At"
+  },
+  {
+    "id": "23378",
+    "districtId": "2149",
+    "name": "Kembang Seri"
+  },
+  {
+    "id": "23574",
+    "districtId": "2149",
+    "name": "Nakau"
+  },
+  {
+    "id": "23654",
+    "districtId": "2149",
+    "name": "Padang Ulak Tanjung"
+  },
+  {
+    "id": "23815",
+    "districtId": "2149",
+    "name": "Pulau Panggung"
+  },
+  {
+    "id": "24085",
+    "districtId": "2149",
+    "name": "Taba Pasmah"
+  },
+  {
+    "id": "24317",
+    "districtId": "2149",
+    "name": "Tengah Padang"
+  },
+  {
+    "id": "26692",
+    "districtId": "2149",
+    "name": "Air Putih"
+  },
+  {
+    "id": "26700",
+    "districtId": "2149",
+    "name": "Air Sebakul"
+  },
+  {
+    "id": "23066",
+    "districtId": "2061",
+    "name": "Batu Tugu"
+  },
+  {
+    "id": "23127",
+    "districtId": "2061",
+    "name": "Bunut Tinggi"
+  },
+  {
+    "id": "23170",
+    "districtId": "2061",
+    "name": "Durian Bubur"
+  },
+  {
+    "id": "23261",
+    "districtId": "2061",
+    "name": "Harapan Mulya"
+  },
+  {
+    "id": "23288",
+    "districtId": "2061",
+    "name": "Kampai"
+  },
+  {
+    "id": "23376",
+    "districtId": "2061",
+    "name": "Kembang Seri"
+  },
+  {
+    "id": "23461",
+    "districtId": "2061",
+    "name": "Lubuk Gadis"
+  },
+  {
+    "id": "23464",
+    "districtId": "2061",
+    "name": "Lubuk Gio"
+  },
+  {
+    "id": "23479",
+    "districtId": "2061",
+    "name": "Lubuk Ngantungan"
+  },
+  {
+    "id": "23532",
+    "districtId": "2061",
+    "name": "Masmambang"
+  },
+  {
+    "id": "23553",
+    "districtId": "2061",
+    "name": "Muara Danau"
+  },
+  {
+    "id": "23588",
+    "districtId": "2061",
+    "name": "Napal Melintang"
+  },
+  {
+    "id": "23915",
+    "districtId": "2061",
+    "name": "Serambi Gunung"
+  },
+  {
+    "id": "23948",
+    "districtId": "2061",
+    "name": "Simpang Tiga Pagar Gasing"
+  },
+  {
+    "id": "26685",
+    "districtId": "2061",
+    "name": "Air Payangan"
+  },
+  {
+    "id": "26709",
+    "districtId": "2061",
+    "name": "Air Teras"
+  },
+  {
+    "id": "23109",
+    "districtId": "2092",
+    "name": "Bukit Peninjauan I"
+  },
+  {
+    "id": "23110",
+    "districtId": "2092",
+    "name": "Bukit Peninjauan Ii"
+  },
+  {
+    "id": "23131",
+    "districtId": "2092",
+    "name": "Cahaya Negeri"
+  },
+  {
+    "id": "23277",
+    "districtId": "2092",
+    "name": "Jenggalu"
+  },
+  {
+    "id": "23342",
+    "districtId": "2092",
+    "name": "Kayu Arang"
+  },
+  {
+    "id": "23427",
+    "districtId": "2092",
+    "name": "Kuti Agung"
+  },
+  {
+    "id": "23486",
+    "districtId": "2092",
+    "name": "Lubuk Sahung"
+  },
+  {
+    "id": "23594",
+    "districtId": "2092",
+    "name": "Niur"
+  },
+  {
+    "id": "23625",
+    "districtId": "2092",
+    "name": "Padang Kuas"
+  },
+  {
+    "id": "23640",
+    "districtId": "2092",
+    "name": "Padang Pelawi"
+  },
+  {
+    "id": "23852",
+    "districtId": "2092",
+    "name": "Riak Siabun"
+  },
+  {
+    "id": "23853",
+    "districtId": "2092",
+    "name": "Riak Siabun I"
+  },
+  {
+    "id": "23868",
+    "districtId": "2092",
+    "name": "Sari Mulyo"
+  },
+  {
+    "id": "23927",
+    "districtId": "2092",
+    "name": "Sido Luhur"
+  },
+  {
+    "id": "23935",
+    "districtId": "2092",
+    "name": "Sido Sari"
+  },
+  {
+    "id": "24016",
+    "districtId": "2092",
+    "name": "Sukaraja"
+  },
+  {
+    "id": "24032",
+    "districtId": "2092",
+    "name": "Sumber Arung"
+  },
+  {
+    "id": "24038",
+    "districtId": "2092",
+    "name": "Sumber Makmur"
+  },
+  {
+    "id": "26659",
+    "districtId": "2092",
+    "name": "Air Kemuning"
+  },
+  {
+    "id": "26689",
+    "districtId": "2092",
+    "name": "Air Petai"
+  },
+  {
+    "id": "26735",
+    "districtId": "2092",
+    "name": "Babatan"
+  },
+  {
+    "id": "23120",
+    "districtId": "2097",
+    "name": "Bunga Mas"
+  },
+  {
+    "id": "23402",
+    "districtId": "2097",
+    "name": "Kota Agung"
+  },
+  {
+    "id": "23422",
+    "districtId": "2097",
+    "name": "Kunduran"
+  },
+  {
+    "id": "23838",
+    "districtId": "2097",
+    "name": "Rawa Sari"
+  },
+  {
+    "id": "23889",
+    "districtId": "2097",
+    "name": "Selebar"
+  },
+  {
+    "id": "23899",
+    "districtId": "2097",
+    "name": "Sembayat"
+  },
+  {
+    "id": "24174",
+    "districtId": "2097",
+    "name": "Talang Sali"
+  },
+  {
+    "id": "24316",
+    "districtId": "2097",
+    "name": "Tenangan"
+  },
+  {
+    "id": "23132",
+    "districtId": "2100",
+    "name": "Cawang"
+  },
+  {
+    "id": "23196",
+    "districtId": "2100",
+    "name": "Dusun Tengah"
+  },
+  {
+    "id": "23234",
+    "districtId": "2100",
+    "name": "Gunung Agung"
+  },
+  {
+    "id": "23499",
+    "districtId": "2100",
+    "name": "Lubuk Terentang"
+  },
+  {
+    "id": "23586",
+    "districtId": "2100",
+    "name": "Napal Jungur"
+  },
+  {
+    "id": "23608",
+    "districtId": "2100",
+    "name": "Padang Capo Ilir"
+  },
+  {
+    "id": "23609",
+    "districtId": "2100",
+    "name": "Padang Capo Ulu"
+  },
+  {
+    "id": "23843",
+    "districtId": "2100",
+    "name": "Rena Panjang"
+  },
+  {
+    "id": "23862",
+    "districtId": "2100",
+    "name": "Sakaian"
+  },
+  {
+    "id": "24136",
+    "districtId": "2100",
+    "name": "Talang Giring"
+  },
+  {
+    "id": "24144",
+    "districtId": "2100",
+    "name": "Talang Kebun"
+  },
+  {
+    "id": "24267",
+    "districtId": "2100",
+    "name": "Tanjung Kuaw"
+  },
+  {
+    "id": "24343",
+    "districtId": "2100",
+    "name": "Tumbu'An"
+  },
+  {
+    "id": "26720",
+    "districtId": "2100",
+    "name": "Arang Sapat"
+  },
+  {
+    "id": "23147",
+    "districtId": "2107",
+    "name": "Cugung Langu"
+  },
+  {
+    "id": "23247",
+    "districtId": "2107",
+    "name": "Gunung Megang"
+  },
+  {
+    "id": "23249",
+    "districtId": "2107",
+    "name": "Gunung Mesir"
+  },
+  {
+    "id": "23343",
+    "districtId": "2107",
+    "name": "Kayu Elang"
+  },
+  {
+    "id": "23370",
+    "districtId": "2107",
+    "name": "Kemang Manis"
+  },
+  {
+    "id": "23520",
+    "districtId": "2107",
+    "name": "Maras Jauh"
+  },
+  {
+    "id": "23542",
+    "districtId": "2107",
+    "name": "Mekar Sari Mukti"
+  },
+  {
+    "id": "23555",
+    "districtId": "2107",
+    "name": "Muara Dua"
+  },
+  {
+    "id": "23580",
+    "districtId": "2107",
+    "name": "Nanjungan"
+  },
+  {
+    "id": "23582",
+    "districtId": "2107",
+    "name": "Nanti Agung"
+  },
+  {
+    "id": "23590",
+    "districtId": "2107",
+    "name": "Napalan"
+  },
+  {
+    "id": "23647",
+    "districtId": "2107",
+    "name": "Padang Serunaian"
+  },
+  {
+    "id": "23686",
+    "districtId": "2107",
+    "name": "Pajar Bulan"
+  },
+  {
+    "id": "23789",
+    "districtId": "2107",
+    "name": "Petai Kayu"
+  },
+  {
+    "id": "23792",
+    "districtId": "2107",
+    "name": "Pinju Layang"
+  },
+  {
+    "id": "23833",
+    "districtId": "2107",
+    "name": "Rantau Panjang"
+  },
+  {
+    "id": "23844",
+    "districtId": "2107",
+    "name": "Renah Gajah Mati I"
+  },
+  {
+    "id": "23845",
+    "districtId": "2107",
+    "name": "Renah Gajah Mati Ii"
+  },
+  {
+    "id": "24130",
+    "districtId": "2107",
+    "name": "Talang Durian"
+  },
+  {
+    "id": "24290",
+    "districtId": "2107",
+    "name": "Teba Gunung"
+  },
+  {
+    "id": "24307",
+    "districtId": "2107",
+    "name": "Telatan"
+  },
+  {
+    "id": "24384",
+    "districtId": "2107",
+    "name": "Suban"
+  },
+  {
+    "id": "26671",
+    "districtId": "2107",
+    "name": "Air Melancar"
+  },
+  {
+    "id": "26753",
+    "districtId": "2107",
+    "name": "Bandung Agung"
+  },
+  {
+    "id": "23165",
+    "districtId": "2119",
+    "name": "Dermayu"
+  },
+  {
+    "id": "23347",
+    "districtId": "2119",
+    "name": "Keban Agung"
+  },
+  {
+    "id": "23423",
+    "districtId": "2119",
+    "name": "Kungkai Baru"
+  },
+  {
+    "id": "23436",
+    "districtId": "2119",
+    "name": "Lawang Agung"
+  },
+  {
+    "id": "23451",
+    "districtId": "2119",
+    "name": "Lokasi Baru"
+  },
+  {
+    "id": "23463",
+    "districtId": "2119",
+    "name": "Lubuk Gilang"
+  },
+  {
+    "id": "23639",
+    "districtId": "2119",
+    "name": "Padang Pelasan"
+  },
+  {
+    "id": "23723",
+    "districtId": "2119",
+    "name": "Pasar Ngalam"
+  },
+  {
+    "id": "24009",
+    "districtId": "2119",
+    "name": "Sukamaju"
+  },
+  {
+    "id": "24023",
+    "districtId": "2119",
+    "name": "Sukasari"
+  },
+  {
+    "id": "24079",
+    "districtId": "2119",
+    "name": "Taba Lubuk Puding"
+  },
+  {
+    "id": "24104",
+    "districtId": "2119",
+    "name": "Talang Alai"
+  },
+  {
+    "id": "24115",
+    "districtId": "2119",
+    "name": "Talang Benuang"
+  },
+  {
+    "id": "24177",
+    "districtId": "2119",
+    "name": "Talang Sebaris"
+  },
+  {
+    "id": "24289",
+    "districtId": "2119",
+    "name": "Tawang Rejo"
+  },
+  {
+    "id": "26686",
+    "districtId": "2119",
+    "name": "Air Periukan"
+  },
+  {
+    "id": "23181",
+    "districtId": "2122",
+    "name": "Dusun Baru"
+  },
+  {
+    "id": "23467",
+    "districtId": "2122",
+    "name": "Lubuk Kebur"
+  },
+  {
+    "id": "23474",
+    "districtId": "2122",
+    "name": "Lubuk Lintang"
+  },
+  {
+    "id": "23585",
+    "districtId": "2122",
+    "name": "Napal"
+  },
+  {
+    "id": "23733",
+    "districtId": "2122",
+    "name": "Pasar Tais"
+  },
+  {
+    "id": "24125",
+    "districtId": "2122",
+    "name": "Talang Dantuk"
+  },
+  {
+    "id": "24175",
+    "districtId": "2122",
+    "name": "Talang Saling"
+  },
+  {
+    "id": "23182",
+    "districtId": "2123",
+    "name": "Dusun Baru"
+  },
+  {
+    "id": "23530",
+    "districtId": "2123",
+    "name": "Margo Sari"
+  },
+  {
+    "id": "23539",
+    "districtId": "2123",
+    "name": "Mekar Sari"
+  },
+  {
+    "id": "23583",
+    "districtId": "2123",
+    "name": "Nanti Agung"
+  },
+  {
+    "id": "23599",
+    "districtId": "2123",
+    "name": "Padang Batu"
+  },
+  {
+    "id": "23610",
+    "districtId": "2123",
+    "name": "Padang Cekur"
+  },
+  {
+    "id": "23694",
+    "districtId": "2123",
+    "name": "Paluah Terap"
+  },
+  {
+    "id": "23734",
+    "districtId": "2123",
+    "name": "Pasar Talo"
+  },
+  {
+    "id": "23756",
+    "districtId": "2123",
+    "name": "Penago Baru"
+  },
+  {
+    "id": "23757",
+    "districtId": "2123",
+    "name": "Penago I"
+  },
+  {
+    "id": "23758",
+    "districtId": "2123",
+    "name": "Penago Ii"
+  },
+  {
+    "id": "23839",
+    "districtId": "2123",
+    "name": "Rawah Indah"
+  },
+  {
+    "id": "24142",
+    "districtId": "2123",
+    "name": "Talang Kabu"
+  },
+  {
+    "id": "24158",
+    "districtId": "2123",
+    "name": "Talang Panjang"
+  },
+  {
+    "id": "24191",
+    "districtId": "2123",
+    "name": "Tanah Abang"
+  },
+  {
+    "id": "23219",
+    "districtId": "2136",
+    "name": "Gelombang"
+  },
+  {
+    "id": "23224",
+    "districtId": "2136",
+    "name": "Genting Juar"
+  },
+  {
+    "id": "23240",
+    "districtId": "2136",
+    "name": "Gunung Bantan"
+  },
+  {
+    "id": "23245",
+    "districtId": "2136",
+    "name": "Gunung Kembang"
+  },
+  {
+    "id": "23310",
+    "districtId": "2136",
+    "name": "Karang Anyar"
+  },
+  {
+    "id": "23320",
+    "districtId": "2136",
+    "name": "Karang Dapo"
+  },
+  {
+    "id": "23374",
+    "districtId": "2136",
+    "name": "Kembang Mumpo"
+  },
+  {
+    "id": "23391",
+    "districtId": "2136",
+    "name": "Ketapang Baru"
+  },
+  {
+    "id": "23457",
+    "districtId": "2136",
+    "name": "Lubuk Betung"
+  },
+  {
+    "id": "23519",
+    "districtId": "2136",
+    "name": "Maras Bantan"
+  },
+  {
+    "id": "23521",
+    "districtId": "2136",
+    "name": "Maras Tengah"
+  },
+  {
+    "id": "23569",
+    "districtId": "2136",
+    "name": "Muara Timput"
+  },
+  {
+    "id": "23597",
+    "districtId": "2136",
+    "name": "Padang Bakung"
+  },
+  {
+    "id": "23624",
+    "districtId": "2136",
+    "name": "Padang Kelapa"
+  },
+  {
+    "id": "23641",
+    "districtId": "2136",
+    "name": "Padang Peri"
+  },
+  {
+    "id": "23752",
+    "districtId": "2136",
+    "name": "Pematang Riding"
+  },
+  {
+    "id": "23857",
+    "districtId": "2136",
+    "name": "Rimbo Besak"
+  },
+  {
+    "id": "23910",
+    "districtId": "2136",
+    "name": "Sendawar"
+  },
+  {
+    "id": "24103",
+    "districtId": "2136",
+    "name": "Talang Alai"
+  },
+  {
+    "id": "24118",
+    "districtId": "2136",
+    "name": "Talang Beringin"
+  },
+  {
+    "id": "24304",
+    "districtId": "2136",
+    "name": "Tedunan"
+  },
+  {
+    "id": "24358",
+    "districtId": "2136",
+    "name": "Ujung Padang"
+  },
+  {
+    "id": "24381",
+    "districtId": "2136",
+    "name": "Jambat Akar"
+  },
+  {
+    "id": "24382",
+    "districtId": "2136",
+    "name": "Muara Maras"
+  },
+  {
+    "id": "24383",
+    "districtId": "2136",
+    "name": "Serian Bandung"
+  },
+  {
+    "id": "24385",
+    "districtId": "2136",
+    "name": "Talang Kemang"
+  },
+  {
+    "id": "23230",
+    "districtId": "2143",
+    "name": "Giri Mulya"
+  },
+  {
+    "id": "23231",
+    "districtId": "2143",
+    "name": "Giri Nanto"
+  },
+  {
+    "id": "23262",
+    "districtId": "2143",
+    "name": "Hargo Binangun"
+  },
+  {
+    "id": "23535",
+    "districtId": "2143",
+    "name": "Mekar Jaya"
+  },
+  {
+    "id": "23559",
+    "districtId": "2143",
+    "name": "Muara Nibung"
+  },
+  {
+    "id": "23564",
+    "districtId": "2143",
+    "name": "Muara Simpur"
+  },
+  {
+    "id": "23655",
+    "districtId": "2143",
+    "name": "Pagar"
+  },
+  {
+    "id": "23657",
+    "districtId": "2143",
+    "name": "Pagar Agung"
+  },
+  {
+    "id": "23664",
+    "districtId": "2143",
+    "name": "Pagar Banyu"
+  },
+  {
+    "id": "23949",
+    "districtId": "2143",
+    "name": "Simpur Ijang"
+  },
+  {
+    "id": "24208",
+    "districtId": "2143",
+    "name": "Tanjung Agung"
+  },
+  {
+    "id": "26662",
+    "districtId": "2143",
+    "name": "Air Keruh"
+  },
+  {
+    "id": "26764",
+    "districtId": "2143",
+    "name": "Banyu Kencana"
+  },
+  {
+    "id": "23470",
+    "districtId": "2170",
+    "name": "Lubuk Lagan"
+  },
+  {
+    "id": "23504",
+    "districtId": "2170",
+    "name": "Lunjuk"
+  },
+  {
+    "id": "23656",
+    "districtId": "2170",
+    "name": "Pagar Agung"
+  },
+  {
+    "id": "23826",
+    "districtId": "2170",
+    "name": "Purbosari"
+  },
+  {
+    "id": "23913",
+    "districtId": "2170",
+    "name": "Sengkuang Jaya"
+  },
+  {
+    "id": "24162",
+    "districtId": "2170",
+    "name": "Talang Perapat"
+  },
+  {
+    "id": "24183",
+    "districtId": "2170",
+    "name": "Talang Tinggi"
+  },
+  {
+    "id": "24207",
+    "districtId": "2170",
+    "name": "Tanjung Agung"
+  },
+  {
+    "id": "26667",
+    "districtId": "2170",
+    "name": "Air Latak"
+  },
+  {
+    "id": "23471",
+    "districtId": "2171",
+    "name": "Lubuk Lagan"
+  },
+  {
+    "id": "23591",
+    "districtId": "2171",
+    "name": "Napalan"
+  },
+  {
+    "id": "23784",
+    "districtId": "2171",
+    "name": "Pering Baru"
+  },
+  {
+    "id": "23975",
+    "districtId": "2171",
+    "name": "Suka Bulan"
+  },
+  {
+    "id": "23994",
+    "districtId": "2171",
+    "name": "Suka Merindu"
+  },
+  {
+    "id": "24055",
+    "districtId": "2171",
+    "name": "Sungai Petai"
+  },
+  {
+    "id": "24067",
+    "districtId": "2171",
+    "name": "Taba"
+  },
+  {
+    "id": "24157",
+    "districtId": "2171",
+    "name": "Talang Padang"
+  },
+  {
+    "id": "24297",
+    "districtId": "2171",
+    "name": "Tebat Sibun"
+  },
+  {
+    "id": "26743",
+    "districtId": "2171",
+    "name": "Bakal Dalam"
+  },
+  {
+    "id": "26773",
+    "districtId": "2171",
+    "name": "Batu Balai"
+  },
+  {
+    "id": "23484",
+    "districtId": "2172",
+    "name": "Lubuk Resam"
+  },
+  {
+    "id": "23697",
+    "districtId": "2172",
+    "name": "Pandan"
+  },
+  {
+    "id": "23808",
+    "districtId": "2172",
+    "name": "Puguk"
+  },
+  {
+    "id": "23879",
+    "districtId": "2172",
+    "name": "Sekalak"
+  },
+  {
+    "id": "23894",
+    "districtId": "2172",
+    "name": "Selingsingan"
+  },
+  {
+    "id": "23941",
+    "districtId": "2172",
+    "name": "Simpang"
+  },
+  {
+    "id": "23959",
+    "districtId": "2172",
+    "name": "Sinar Pagi"
+  },
+  {
+    "id": "24119",
+    "districtId": "2172",
+    "name": "Talang Beringin"
+  },
+  {
+    "id": "24131",
+    "districtId": "2172",
+    "name": "Talang Empat"
+  },
+  {
+    "id": "24165",
+    "districtId": "2172",
+    "name": "Talang Rami"
+  },
+  {
+    "id": "23613",
+    "districtId": "2177",
+    "name": "Padang Genting"
+  },
+  {
+    "id": "23632",
+    "districtId": "2177",
+    "name": "Padang Merbau"
+  },
+  {
+    "id": "23643",
+    "districtId": "2177",
+    "name": "Padang Rambun"
+  },
+  {
+    "id": "23732",
+    "districtId": "2177",
+    "name": "Pasar Seluma"
+  },
+  {
+    "id": "23858",
+    "districtId": "2177",
+    "name": "Rimbo Kedui"
+  },
+  {
+    "id": "23912",
+    "districtId": "2177",
+    "name": "Sengkuang"
+  },
+  {
+    "id": "23932",
+    "districtId": "2177",
+    "name": "Sido Mulyo"
+  },
+  {
+    "id": "24020",
+    "districtId": "2177",
+    "name": "Sukarami"
+  },
+  {
+    "id": "24197",
+    "districtId": "2177",
+    "name": "Tangga Batu"
+  },
+  {
+    "id": "24282",
+    "districtId": "2177",
+    "name": "Tanjung Seluai"
+  },
+  {
+    "id": "24283",
+    "districtId": "2177",
+    "name": "Tanjung Seru"
+  },
+  {
+    "id": "24286",
+    "districtId": "2177",
+    "name": "Tanjungan"
+  },
+  {
+    "id": "23070",
+    "districtId": "2064",
+    "name": "Belakang Pondok"
+  },
+  {
+    "id": "23355",
+    "districtId": "2064",
+    "name": "Kebun Dahri"
+  },
+  {
+    "id": "23356",
+    "districtId": "2064",
+    "name": "Kebun Geran"
+  },
+  {
+    "id": "23617",
+    "districtId": "2064",
+    "name": "Padang Jati"
+  },
+  {
+    "id": "23768",
+    "districtId": "2064",
+    "name": "Pengantungan"
+  },
+  {
+    "id": "23775",
+    "districtId": "2064",
+    "name": "Penurunan"
+  },
+  {
+    "id": "26715",
+    "districtId": "2064",
+    "name": "Anggut Atas"
+  },
+  {
+    "id": "26716",
+    "districtId": "2064",
+    "name": "Anggut Bawah"
+  },
+  {
+    "id": "26717",
+    "districtId": "2064",
+    "name": "Anggut Dalam"
+  },
+  {
+    "id": "23077",
+    "districtId": "2069",
+    "name": "Bentiring"
+  },
+  {
+    "id": "23078",
+    "districtId": "2069",
+    "name": "Bentiring Permai"
+  },
+  {
+    "id": "23083",
+    "districtId": "2069",
+    "name": "Beringin Raya"
+  },
+  {
+    "id": "23306",
+    "districtId": "2069",
+    "name": "Kandang Limun"
+  },
+  {
+    "id": "23751",
+    "districtId": "2069",
+    "name": "Pematang Gubernur"
+  },
+  {
+    "id": "23835",
+    "districtId": "2069",
+    "name": "Rawa Makmur"
+  },
+  {
+    "id": "23836",
+    "districtId": "2069",
+    "name": "Rawa Makmur Permai"
+  },
+  {
+    "id": "23085",
+    "districtId": "2073",
+    "name": "Berkas"
+  },
+  {
+    "id": "23280",
+    "districtId": "2073",
+    "name": "Jitra"
+  },
+  {
+    "id": "23289",
+    "districtId": "2073",
+    "name": "Kampung Bali"
+  },
+  {
+    "id": "23357",
+    "districtId": "2073",
+    "name": "Kebun Keling"
+  },
+  {
+    "id": "23360",
+    "districtId": "2073",
+    "name": "Kebun Roos"
+  },
+  {
+    "id": "23509",
+    "districtId": "2073",
+    "name": "Malabero"
+  },
+  {
+    "id": "23709",
+    "districtId": "2073",
+    "name": "Pasar Baru"
+  },
+  {
+    "id": "23719",
+    "districtId": "2073",
+    "name": "Pasar Melintang"
+  },
+  {
+    "id": "23794",
+    "districtId": "2073",
+    "name": "Pintu Batu"
+  },
+  {
+    "id": "23798",
+    "districtId": "2073",
+    "name": "Pondok Besi"
+  },
+  {
+    "id": "24048",
+    "districtId": "2073",
+    "name": "Sumur Meleleh"
+  },
+  {
+    "id": "24318",
+    "districtId": "2073",
+    "name": "Tengah Padang"
+  },
+  {
+    "id": "26738",
+    "districtId": "2073",
+    "name": "Bajak"
+  },
+  {
+    "id": "23087",
+    "districtId": "2075",
+    "name": "Betungan"
+  },
+  {
+    "id": "23119",
+    "districtId": "2075",
+    "name": "Bumu Ayu"
+  },
+  {
+    "id": "23670",
+    "districtId": "2075",
+    "name": "Pagar Dewa"
+  },
+  {
+    "id": "23739",
+    "districtId": "2075",
+    "name": "Pekan Sabtu"
+  },
+  {
+    "id": "24022",
+    "districtId": "2075",
+    "name": "Sukarami"
+  },
+  {
+    "id": "24047",
+    "districtId": "2075",
+    "name": "Sumur Dewa"
+  },
+  {
+    "id": "23135",
+    "districtId": "2102",
+    "name": "Cempaka Permai"
+  },
+  {
+    "id": "23270",
+    "districtId": "2102",
+    "name": "Jalan Gedang"
+  },
+  {
+    "id": "23448",
+    "districtId": "2102",
+    "name": "Lingkar Barat"
+  },
+  {
+    "id": "23615",
+    "districtId": "2102",
+    "name": "Padang Harapan"
+  },
+  {
+    "id": "23939",
+    "districtId": "2102",
+    "name": "Sidomulyo"
+  },
+  {
+    "id": "23187",
+    "districtId": "2126",
+    "name": "Dusun Besar"
+  },
+  {
+    "id": "23276",
+    "districtId": "2126",
+    "name": "Jembatan Kecil"
+  },
+  {
+    "id": "23449",
+    "districtId": "2126",
+    "name": "Lingkar Timur"
+  },
+  {
+    "id": "23634",
+    "districtId": "2126",
+    "name": "Padang Nangka"
+  },
+  {
+    "id": "23699",
+    "districtId": "2126",
+    "name": "Panorama"
+  },
+  {
+    "id": "24333",
+    "districtId": "2126",
+    "name": "Timur Indah"
+  },
+  {
+    "id": "23298",
+    "districtId": "2152",
+    "name": "Kampung Kelawi"
+  },
+  {
+    "id": "23712",
+    "districtId": "2152",
+    "name": "Pasar Bengkulu"
+  },
+  {
+    "id": "23898",
+    "districtId": "2152",
+    "name": "Semarang"
+  },
+  {
+    "id": "24011",
+    "districtId": "2152",
+    "name": "Sukamerindu"
+  },
+  {
+    "id": "24058",
+    "districtId": "2152",
+    "name": "Surabaya"
+  },
+  {
+    "id": "24210",
+    "districtId": "2152",
+    "name": "Tanjung Agung"
+  },
+  {
+    "id": "24260",
+    "districtId": "2152",
+    "name": "Tanjung Jaya"
+  },
+  {
+    "id": "23305",
+    "districtId": "2154",
+    "name": "Kandang"
+  },
+  {
+    "id": "23307",
+    "districtId": "2154",
+    "name": "Kandang Mas"
+  },
+  {
+    "id": "23556",
+    "districtId": "2154",
+    "name": "Muara Dua"
+  },
+  {
+    "id": "23645",
+    "districtId": "2154",
+    "name": "Padang Serai"
+  },
+  {
+    "id": "24036",
+    "districtId": "2154",
+    "name": "Sumber Jaya"
+  },
+  {
+    "id": "24312",
+    "districtId": "2154",
+    "name": "Teluk Sepang"
+  },
+  {
+    "id": "23354",
+    "districtId": "2159",
+    "name": "Kebun Beler"
+  },
+  {
+    "id": "23358",
+    "districtId": "2159",
+    "name": "Kebun Kenanga"
+  },
+  {
+    "id": "23361",
+    "districtId": "2159",
+    "name": "Kebun Tebeng"
+  },
+  {
+    "id": "23443",
+    "districtId": "2159",
+    "name": "Lempuing"
+  },
+  {
+    "id": "23595",
+    "districtId": "2159",
+    "name": "Nusa Indah"
+  },
+  {
+    "id": "23871",
+    "districtId": "2159",
+    "name": "Sawah Lebar"
+  },
+  {
+    "id": "23872",
+    "districtId": "2159",
+    "name": "Sawah Lebar Baru"
+  },
+  {
+    "id": "24194",
+    "districtId": "2159",
+    "name": "Tanah Patah"
+  },
+  {
+    "id": "23090",
+    "districtId": "2078",
+    "name": "Bioa Putiak"
+  },
+  {
+    "id": "23395",
+    "districtId": "2078",
+    "name": "Ketenong I"
+  },
+  {
+    "id": "23396",
+    "districtId": "2078",
+    "name": "Ketenong Ii"
+  },
+  {
+    "id": "23397",
+    "districtId": "2078",
+    "name": "Ketenong Jaya"
+  },
+  {
+    "id": "23875",
+    "districtId": "2078",
+    "name": "Sebelat"
+  },
+  {
+    "id": "24054",
+    "districtId": "2078",
+    "name": "Sungai Lisai"
+  },
+  {
+    "id": "24189",
+    "districtId": "2078",
+    "name": "Tambang Saweak"
+  },
+  {
+    "id": "26663",
+    "districtId": "2078",
+    "name": "Air Kopras"
+  },
+  {
+    "id": "23091",
+    "districtId": "2079",
+    "name": "Bioa Sengok"
+  },
+  {
+    "id": "23859",
+    "districtId": "2079",
+    "name": "Rimbo Pengadang"
+  },
+  {
+    "id": "24167",
+    "districtId": "2079",
+    "name": "Talang Ratau"
+  },
+  {
+    "id": "24311",
+    "districtId": "2079",
+    "name": "Teluk Dien"
+  },
+  {
+    "id": "24328",
+    "districtId": "2079",
+    "name": "Tik Kuto"
+  },
+  {
+    "id": "26742",
+    "districtId": "2079",
+    "name": "Bajok"
+  },
+  {
+    "id": "23092",
+    "districtId": "2080",
+    "name": "Blau"
+  },
+  {
+    "id": "23150",
+    "districtId": "2080",
+    "name": "Daneu"
+  },
+  {
+    "id": "24026",
+    "districtId": "2080",
+    "name": "Sukau Kayo"
+  },
+  {
+    "id": "24097",
+    "districtId": "2080",
+    "name": "Tabeak Blau"
+  },
+  {
+    "id": "24098",
+    "districtId": "2080",
+    "name": "Tabeak Blau I"
+  },
+  {
+    "id": "24330",
+    "districtId": "2080",
+    "name": "Tik Tebing"
+  },
+  {
+    "id": "23108",
+    "districtId": "2091",
+    "name": "Bukit Nibung"
+  },
+  {
+    "id": "23123",
+    "districtId": "2091",
+    "name": "Bungin"
+  },
+  {
+    "id": "23321",
+    "districtId": "2091",
+    "name": "Karang Dapo Atas"
+  },
+  {
+    "id": "23322",
+    "districtId": "2091",
+    "name": "Karang Dapo Bawah"
+  },
+  {
+    "id": "23743",
+    "districtId": "2091",
+    "name": "Pelabuhan Talang Liak"
+  },
+  {
+    "id": "23824",
+    "districtId": "2091",
+    "name": "Pungguk Pedaro"
+  },
+  {
+    "id": "24145",
+    "districtId": "2091",
+    "name": "Talang Kerinci"
+  },
+  {
+    "id": "24150",
+    "districtId": "2091",
+    "name": "Talang Liak I"
+  },
+  {
+    "id": "24151",
+    "districtId": "2091",
+    "name": "Talang Liak Ii"
+  },
+  {
+    "id": "23149",
+    "districtId": "2109",
+    "name": "Danau Liang"
+  },
+  {
+    "id": "23201",
+    "districtId": "2109",
+    "name": "Embong Panjang"
+  },
+  {
+    "id": "23311",
+    "districtId": "2109",
+    "name": "Karang Anyar"
+  },
+  {
+    "id": "23658",
+    "districtId": "2109",
+    "name": "Pagar Agung"
+  },
+  {
+    "id": "23900",
+    "districtId": "2109",
+    "name": "Semelako Atas"
+  },
+  {
+    "id": "23901",
+    "districtId": "2109",
+    "name": "Semelako I"
+  },
+  {
+    "id": "23902",
+    "districtId": "2109",
+    "name": "Semelako Ii"
+  },
+  {
+    "id": "23903",
+    "districtId": "2109",
+    "name": "Semelako Iii"
+  },
+  {
+    "id": "23977",
+    "districtId": "2109",
+    "name": "Suka Damai"
+  },
+  {
+    "id": "24237",
+    "districtId": "2109",
+    "name": "Tanjung Bungai I"
+  },
+  {
+    "id": "24238",
+    "districtId": "2109",
+    "name": "Tanjung Bungai Ii"
+  },
+  {
+    "id": "23198",
+    "districtId": "2128",
+    "name": "Embong"
+  },
+  {
+    "id": "23199",
+    "districtId": "2128",
+    "name": "Embong I"
+  },
+  {
+    "id": "23403",
+    "districtId": "2128",
+    "name": "Kota Agung"
+  },
+  {
+    "id": "23406",
+    "districtId": "2128",
+    "name": "Kota Baru"
+  },
+  {
+    "id": "23441",
+    "districtId": "2128",
+    "name": "Lemeu"
+  },
+  {
+    "id": "23698",
+    "districtId": "2128",
+    "name": "Pangkalan"
+  },
+  {
+    "id": "24201",
+    "districtId": "2128",
+    "name": "Tangua"
+  },
+  {
+    "id": "23209",
+    "districtId": "2131",
+    "name": "Gandung"
+  },
+  {
+    "id": "23210",
+    "districtId": "2131",
+    "name": "Gandung Baru"
+  },
+  {
+    "id": "23293",
+    "districtId": "2131",
+    "name": "Kampung Dalam"
+  },
+  {
+    "id": "23296",
+    "districtId": "2131",
+    "name": "Kampung Jawa"
+  },
+  {
+    "id": "23300",
+    "districtId": "2131",
+    "name": "Kampung Muara Aman"
+  },
+  {
+    "id": "23429",
+    "districtId": "2131",
+    "name": "Ladang Palembang"
+  },
+  {
+    "id": "23438",
+    "districtId": "2131",
+    "name": "Lebong Tambang"
+  },
+  {
+    "id": "23450",
+    "districtId": "2131",
+    "name": "Lokasari"
+  },
+  {
+    "id": "23575",
+    "districtId": "2131",
+    "name": "Nangai Amen"
+  },
+  {
+    "id": "23720",
+    "districtId": "2131",
+    "name": "Pasar Muara Aman"
+  },
+  {
+    "id": "24187",
+    "districtId": "2131",
+    "name": "Talang Ulu"
+  },
+  {
+    "id": "24348",
+    "districtId": "2131",
+    "name": "Tunggang"
+  },
+  {
+    "id": "23213",
+    "districtId": "2133",
+    "name": "Garut"
+  },
+  {
+    "id": "23576",
+    "districtId": "2133",
+    "name": "Nangai Tayau"
+  },
+  {
+    "id": "23577",
+    "districtId": "2133",
+    "name": "Nangai Tayau I"
+  },
+  {
+    "id": "23829",
+    "districtId": "2133",
+    "name": "Pyang Mbik"
+  },
+  {
+    "id": "23890",
+    "districtId": "2133",
+    "name": "Selebar Jaya"
+  },
+  {
+    "id": "24027",
+    "districtId": "2133",
+    "name": "Sukau Mergo"
+  },
+  {
+    "id": "24028",
+    "districtId": "2133",
+    "name": "Sukau Rajo"
+  },
+  {
+    "id": "24050",
+    "districtId": "2133",
+    "name": "Sungai Gerong"
+  },
+  {
+    "id": "24122",
+    "districtId": "2133",
+    "name": "Talang Bunut"
+  },
+  {
+    "id": "26713",
+    "districtId": "2133",
+    "name": "Amen"
+  },
+  {
+    "id": "23237",
+    "districtId": "2144",
+    "name": "Gunung Alam"
+  },
+  {
+    "id": "23407",
+    "districtId": "2144",
+    "name": "Kota Baru Santan"
+  },
+  {
+    "id": "23741",
+    "districtId": "2144",
+    "name": "Pelabai"
+  },
+  {
+    "id": "24024",
+    "districtId": "2144",
+    "name": "Sukau Datang"
+  },
+  {
+    "id": "24025",
+    "districtId": "2144",
+    "name": "Sukau Datang I"
+  },
+  {
+    "id": "24099",
+    "districtId": "2144",
+    "name": "Tabeak Blau Ii"
+  },
+  {
+    "id": "24209",
+    "districtId": "2144",
+    "name": "Tanjung Agung"
+  },
+  {
+    "id": "24331",
+    "districtId": "2144",
+    "name": "Tik Teleu"
+  },
+  {
+    "id": "23426",
+    "districtId": "2166",
+    "name": "Kutai Donok"
+  },
+  {
+    "id": "23511",
+    "districtId": "2166",
+    "name": "Manai Blau"
+  },
+  {
+    "id": "23516",
+    "districtId": "2166",
+    "name": "Mangkurajo"
+  },
+  {
+    "id": "23570",
+    "districtId": "2166",
+    "name": "Mubai"
+  },
+  {
+    "id": "24006",
+    "districtId": "2166",
+    "name": "Suka Sari"
+  },
+  {
+    "id": "24070",
+    "districtId": "2166",
+    "name": "Taba Anyar"
+  },
+  {
+    "id": "24325",
+    "districtId": "2166",
+    "name": "Tes"
+  },
+  {
+    "id": "24327",
+    "districtId": "2166",
+    "name": "Tik Jeniak"
+  },
+  {
+    "id": "24352",
+    "districtId": "2166",
+    "name": "Turan Lalang"
+  },
+  {
+    "id": "24353",
+    "districtId": "2166",
+    "name": "Turan Tiging"
+  },
+  {
+    "id": "23442",
+    "districtId": "2167",
+    "name": "Lemeu Pit"
+  },
+  {
+    "id": "23506",
+    "districtId": "2167",
+    "name": "Magelang Baru"
+  },
+  {
+    "id": "23572",
+    "districtId": "2167",
+    "name": "Muning Agung"
+  },
+  {
+    "id": "23976",
+    "districtId": "2167",
+    "name": "Suka Bumi"
+  },
+  {
+    "id": "24100",
+    "districtId": "2167",
+    "name": "Tabeak Dipoa"
+  },
+  {
+    "id": "24101",
+    "districtId": "2167",
+    "name": "Tabeak Kauk"
+  },
+  {
+    "id": "24360",
+    "districtId": "2167",
+    "name": "Ujung Tanjung I"
+  },
+  {
+    "id": "24361",
+    "districtId": "2167",
+    "name": "Ujung Tanjung Ii"
+  },
+  {
+    "id": "24362",
+    "districtId": "2167",
+    "name": "Ujung Tanjung Iii"
+  },
+  {
+    "id": "23999",
+    "districtId": "2179",
+    "name": "Suka Negeri"
+  },
+  {
+    "id": "24112",
+    "districtId": "2179",
+    "name": "Talang Baru I"
+  },
+  {
+    "id": "24113",
+    "districtId": "2179",
+    "name": "Talang Baru Ii"
+  },
+  {
+    "id": "24127",
+    "districtId": "2179",
+    "name": "Talang Donok"
+  },
+  {
+    "id": "24129",
+    "districtId": "2179",
+    "name": "Talang Donok I"
+  },
+  {
+    "id": "24329",
+    "districtId": "2179",
+    "name": "Tik Sirong"
+  },
+  {
+    "id": "24337",
+    "districtId": "2179",
+    "name": "Topos"
+  },
+  {
+    "id": "26711",
+    "districtId": "2179",
+    "name": "Ajai Siang"
+  }
+]

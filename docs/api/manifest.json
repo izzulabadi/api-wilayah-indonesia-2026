@@ -1,0 +1,105 @@
+{
+  "generatedAt": "2026-01-04T08:56:35.565Z",
+  "files": [
+    {
+      "name": "districts.json",
+      "sizeBytes": 318184,
+      "sha256": "b842b1e36e48195a5228f40d06f83bad4fb7d37445ce8354e8a4af5d193abe13"
+    },
+    {
+      "name": "provinces.json",
+      "sizeBytes": 2456,
+      "sha256": "bd3f7ff400fd09e3915073fc6a3129601c64b980201efc291bb373cf292b471f"
+    },
+    {
+      "name": "regencies.json",
+      "sizeBytes": 23120,
+      "sha256": "3920b9a0a37982dc148f1e17be108684cc7c044e8011f3cd560ef0066beb9b68"
+    },
+    {
+      "name": "villages/1.json",
+      "sizeBytes": 460464,
+      "sha256": "6dde88377928910b060954b63f7d7f1b7aff730a9346292215beb0b54f61478f"
+    },
+    {
+      "name": "villages/10.json",
+      "sizeBytes": 211458,
+      "sha256": "962a1597a0fcee591be4b68c4bdedc02e1dabf5624b1b335076fc009766e9680"
+    },
+    {
+      "name": "villages/11.json",
+      "sizeBytes": 259620,
+      "sha256": "7e7e15c9f27c7ef97f184b91a4b427c2ef06192e125814a32f718da6e416d724"
+    },
+    {
+      "name": "villages/12.json",
+      "sizeBytes": 121375,
+      "sha256": "f45fbbd53f957fe83fc939ccac194fd51d6bf9e5fc08d9155362debe6a8e299f"
+    },
+    {
+      "name": "villages/13.json",
+      "sizeBytes": 121418,
+      "sha256": "db02601c2837861faafa963b143548dbd8a1bdf3226c68569425e7d72b3d9898"
+    },
+    {
+      "name": "villages/14.json",
+      "sizeBytes": 28833,
+      "sha256": "bc681a95d533a635439ec78e124381126491684dc816991898d80c958efad32a"
+    },
+    {
+      "name": "villages/15.json",
+      "sizeBytes": 20831,
+      "sha256": "b37c1a77d9a93eff38fa1da0a367904cc693ec062963071bf1a8444c6506d9d1"
+    },
+    {
+      "name": "villages/18.json",
+      "sizeBytes": 34300,
+      "sha256": "3ae627dce22408f8c5ddd314b3cf2738385d0e47f263305e34c62a04e6696997"
+    },
+    {
+      "name": "villages/2.json",
+      "sizeBytes": 53719,
+      "sha256": "ab3950bc46389738a90bd3efaa31abb28fbd155289e04382fd304e184ab3ef79"
+    },
+    {
+      "name": "villages/3.json",
+      "sizeBytes": 87470,
+      "sha256": "f81b41c7ad3988853997d218d170adddffdf25254fedfc63ee3a9c560f9956d4"
+    },
+    {
+      "name": "villages/4.json",
+      "sizeBytes": 655050,
+      "sha256": "5e90354966ee22162b96b59e6bd2ebc44ea913e84d41dc21c3c5bea842ee3096"
+    },
+    {
+      "name": "villages/5.json",
+      "sizeBytes": 33678,
+      "sha256": "b557d68d48fd694d1fcb1ea0ab9b98d749123f9a1c3dc26d75db4a63a1eed5c1"
+    },
+    {
+      "name": "villages/6.json",
+      "sizeBytes": 654923,
+      "sha256": "befac8d894e348f27a85bcdb948e5cbc3617859a27425d01d29ac281e1d0e2d4"
+    },
+    {
+      "name": "villages/7.json",
+      "sizeBytes": 237715,
+      "sha256": "eb549b044ef3e89a3e19368f4283cee99873f82c16ff47b9bc3e5d827b709983"
+    },
+    {
+      "name": "villages/8.json",
+      "sizeBytes": 94909,
+      "sha256": "16edc6f1f4c3eeea1bc79c1194bcd2e9710855190219e4452641860fd9fe8c0c"
+    },
+    {
+      "name": "villages/9.json",
+      "sizeBytes": 125734,
+      "sha256": "98678ae84dd04edd2986ca611517b90f2e4386eaa190ab85b188f4945ab71c08"
+    },
+    {
+      "name": "villages.json",
+      "sizeBytes": 3858962,
+      "sha256": "f5e7b1a0a2c341875a04c3a3d5183730235deeaa28b3e9633e23ac31dbf6488d"
+    }
+  ]
+}

@@ -1,0 +1,2192 @@
+[
+  {
+    "id": "4363",
+    "districtId": "624",
+    "name": "Argodadi"
+  },
+  {
+    "id": "4364",
+    "districtId": "624",
+    "name": "Argomulyo"
+  },
+  {
+    "id": "4365",
+    "districtId": "624",
+    "name": "Argorejo"
+  },
+  {
+    "id": "4366",
+    "districtId": "624",
+    "name": "Argosari"
+  },
+  {
+    "id": "4370",
+    "districtId": "628",
+    "name": "Bangunharjo"
+  },
+  {
+    "id": "4480",
+    "districtId": "628",
+    "name": "Panggungharjo"
+  },
+  {
+    "id": "4487",
+    "districtId": "628",
+    "name": "Pendowoharjo"
+  },
+  {
+    "id": "4547",
+    "districtId": "628",
+    "name": "Timbulharjo"
+  },
+  {
+    "id": "4371",
+    "districtId": "629",
+    "name": "Bangunjiwo"
+  },
+  {
+    "id": "4469",
+    "districtId": "629",
+    "name": "Ngestiharjo"
+  },
+  {
+    "id": "4536",
+    "districtId": "629",
+    "name": "Tamantirto"
+  },
+  {
+    "id": "4550",
+    "districtId": "629",
+    "name": "Tirtonirmolo"
+  },
+  {
+    "id": "4372",
+    "districtId": "630",
+    "name": "Banguntapan"
+  },
+  {
+    "id": "4380",
+    "districtId": "630",
+    "name": "Baturetno"
+  },
+  {
+    "id": "4423",
+    "districtId": "630",
+    "name": "Jagalan"
+  },
+  {
+    "id": "4424",
+    "districtId": "630",
+    "name": "Jambidan"
+  },
+  {
+    "id": "4494",
+    "districtId": "630",
+    "name": "Potorono"
+  },
+  {
+    "id": "4518",
+    "districtId": "630",
+    "name": "Singosaren"
+  },
+  {
+    "id": "4535",
+    "districtId": "630",
+    "name": "Tamanan"
+  },
+  {
+    "id": "4567",
+    "districtId": "630",
+    "name": "Wirokerten"
+  },
+  {
+    "id": "4378",
+    "districtId": "633",
+    "name": "Bantul"
+  },
+  {
+    "id": "4475",
+    "districtId": "633",
+    "name": "Palbapang"
+  },
+  {
+    "id": "4503",
+    "districtId": "633",
+    "name": "Ringinharjo"
+  },
+  {
+    "id": "4504",
+    "districtId": "633",
+    "name": "Sabdodadi"
+  },
+  {
+    "id": "4557",
+    "districtId": "633",
+    "name": "Trirenggo"
+  },
+  {
+    "id": "4382",
+    "districtId": "636",
+    "name": "Bawuran"
+  },
+  {
+    "id": "4491",
+    "districtId": "636",
+    "name": "Pleret"
+  },
+  {
+    "id": "4506",
+    "districtId": "636",
+    "name": "Segoroyoso"
+  },
+  {
+    "id": "4568",
+    "districtId": "636",
+    "name": "Wonokromo"
+  },
+  {
+    "id": "4569",
+    "districtId": "636",
+    "name": "Wonolelo"
+  },
+  {
+    "id": "4391",
+    "districtId": "643",
+    "name": "Canden"
+  },
+  {
+    "id": "4484",
+    "districtId": "643",
+    "name": "Patalan"
+  },
+  {
+    "id": "4530",
+    "districtId": "643",
+    "name": "Sumberagung"
+  },
+  {
+    "id": "4555",
+    "districtId": "643",
+    "name": "Trimulyo"
+  },
+  {
+    "id": "4392",
+    "districtId": "644",
+    "name": "Caturharjo"
+  },
+  {
+    "id": "4407",
+    "districtId": "644",
+    "name": "Gilangharjo"
+  },
+  {
+    "id": "4554",
+    "districtId": "644",
+    "name": "Triharjo"
+  },
+  {
+    "id": "4564",
+    "districtId": "644",
+    "name": "Wijirejo"
+  },
+  {
+    "id": "4399",
+    "districtId": "646",
+    "name": "Dlingo"
+  },
+  {
+    "id": "4428",
+    "districtId": "646",
+    "name": "Jatimulyo"
+  },
+  {
+    "id": "4458",
+    "districtId": "646",
+    "name": "Mangunan"
+  },
+  {
+    "id": "4463",
+    "districtId": "646",
+    "name": "Muntuk"
+  },
+  {
+    "id": "4544",
+    "districtId": "646",
+    "name": "Temuwuh"
+  },
+  {
+    "id": "4546",
+    "districtId": "646",
+    "name": "Terong"
+  },
+  {
+    "id": "4401",
+    "districtId": "647",
+    "name": "Donotirto"
+  },
+  {
+    "id": "4483",
+    "districtId": "647",
+    "name": "Parangtritis"
+  },
+  {
+    "id": "4548",
+    "districtId": "647",
+    "name": "Tirtohargo"
+  },
+  {
+    "id": "4549",
+    "districtId": "647",
+    "name": "Tirtomulyo"
+  },
+  {
+    "id": "4552",
+    "districtId": "647",
+    "name": "Tirtosari"
+  },
+  {
+    "id": "4402",
+    "districtId": "648",
+    "name": "Gadingharjo"
+  },
+  {
+    "id": "4403",
+    "districtId": "648",
+    "name": "Gadingsari"
+  },
+  {
+    "id": "4464",
+    "districtId": "648",
+    "name": "Murtigading"
+  },
+  {
+    "id": "4523",
+    "districtId": "648",
+    "name": "Srigading"
+  },
+  {
+    "id": "4410",
+    "districtId": "651",
+    "name": "Girirejo"
+  },
+  {
+    "id": "4422",
+    "districtId": "651",
+    "name": "Imogiri"
+  },
+  {
+    "id": "4439",
+    "districtId": "651",
+    "name": "Karangtalun"
+  },
+  {
+    "id": "4440",
+    "districtId": "651",
+    "name": "Karangtengah"
+  },
+  {
+    "id": "4444",
+    "districtId": "651",
+    "name": "Kebonagung"
+  },
+  {
+    "id": "4508",
+    "districtId": "651",
+    "name": "Selopamioro"
+  },
+  {
+    "id": "4525",
+    "districtId": "651",
+    "name": "Sriharjo"
+  },
+  {
+    "id": "4570",
+    "districtId": "651",
+    "name": "Wukirsari"
+  },
+  {
+    "id": "4417",
+    "districtId": "654",
+    "name": "Guwosari"
+  },
+  {
+    "id": "4511",
+    "districtId": "654",
+    "name": "Sendangsari"
+  },
+  {
+    "id": "4558",
+    "districtId": "654",
+    "name": "Triwidadi"
+  },
+  {
+    "id": "4462",
+    "districtId": "658",
+    "name": "Mulyodadi"
+  },
+  {
+    "id": "4515",
+    "districtId": "658",
+    "name": "Sidomulyo"
+  },
+  {
+    "id": "4531",
+    "districtId": "658",
+    "name": "Sumbermulyo"
+  },
+  {
+    "id": "4481",
+    "districtId": "662",
+    "name": "Panjangrejo"
+  },
+  {
+    "id": "4507",
+    "districtId": "662",
+    "name": "Seloharjo"
+  },
+  {
+    "id": "4524",
+    "districtId": "662",
+    "name": "Srihardono"
+  },
+  {
+    "id": "4493",
+    "districtId": "663",
+    "name": "Poncosari"
+  },
+  {
+    "id": "4556",
+    "districtId": "663",
+    "name": "Trimurti"
+  },
+  {
+    "id": "4519",
+    "districtId": "666",
+    "name": "Sitimulyo"
+  },
+  {
+    "id": "4527",
+    "districtId": "666",
+    "name": "Srimartani"
+  },
+  {
+    "id": "4528",
+    "districtId": "666",
+    "name": "Srimulyo"
+  },
+  {
+    "id": "4367",
+    "districtId": "625",
+    "name": "Kelurahan Baciro"
+  },
+  {
+    "id": "4395",
+    "districtId": "625",
+    "name": "Kelurahan Demangan"
+  },
+  {
+    "id": "4451",
+    "districtId": "625",
+    "name": "Kelurahan Klitren"
+  },
+  {
+    "id": "4452",
+    "districtId": "625",
+    "name": "Kelurahan Kotabaru"
+  },
+  {
+    "id": "4545",
+    "districtId": "625",
+    "name": "Kelurahan Terban"
+  },
+  {
+    "id": "4381",
+    "districtId": "635",
+    "name": "Kelurahan Bausasran"
+  },
+  {
+    "id": "4532",
+    "districtId": "635",
+    "name": "Kelurahan Suryatmajan"
+  },
+  {
+    "id": "4540",
+    "districtId": "635",
+    "name": "Kelurahan Tegalpanggung"
+  },
+  {
+    "id": "4384",
+    "districtId": "638",
+    "name": "Kelurahan Bener"
+  },
+  {
+    "id": "4441",
+    "districtId": "638",
+    "name": "Kelurahan Karangwaru"
+  },
+  {
+    "id": "4455",
+    "districtId": "638",
+    "name": "Kelurahan Kricak"
+  },
+  {
+    "id": "4541",
+    "districtId": "638",
+    "name": "Kelurahan Tegalrejo"
+  },
+  {
+    "id": "4386",
+    "districtId": "640",
+    "name": "Kelurahan Brontokusuman"
+  },
+  {
+    "id": "4450",
+    "districtId": "640",
+    "name": "Kelurahan Keparakan"
+  },
+  {
+    "id": "4566",
+    "districtId": "640",
+    "name": "Kelurahan Wirogunan"
+  },
+  {
+    "id": "4389",
+    "districtId": "641",
+    "name": "Kelurahan Bumijo"
+  },
+  {
+    "id": "4394",
+    "districtId": "641",
+    "name": "Kelurahan Cokrodiningratan"
+  },
+  {
+    "id": "4414",
+    "districtId": "641",
+    "name": "Kelurahan Gowongan"
+  },
+  {
+    "id": "4405",
+    "districtId": "649",
+    "name": "Kelurahan Gedongkiwo"
+  },
+  {
+    "id": "4459",
+    "districtId": "649",
+    "name": "Kelurahan Mantrijeron"
+  },
+  {
+    "id": "4533",
+    "districtId": "649",
+    "name": "Kelurahan Suryodiningratan"
+  },
+  {
+    "id": "4411",
+    "districtId": "652",
+    "name": "Kelurahan Giwangan"
+  },
+  {
+    "id": "4461",
+    "districtId": "652",
+    "name": "Kelurahan Muja Muju"
+  },
+  {
+    "id": "4477",
+    "districtId": "652",
+    "name": "Kelurahan Pandeyan"
+  },
+  {
+    "id": "4509",
+    "districtId": "652",
+    "name": "Kelurahan Semaki"
+  },
+  {
+    "id": "4521",
+    "districtId": "652",
+    "name": "Kelurahan Sorosutan"
+  },
+  {
+    "id": "4534",
+    "districtId": "652",
+    "name": "Kelurahan Tahunan"
+  },
+  {
+    "id": "4561",
+    "districtId": "652",
+    "name": "Kelurahan Warungboto"
+  },
+  {
+    "id": "4416",
+    "districtId": "653",
+    "name": "Kelurahan Gunungketur"
+  },
+  {
+    "id": "4500",
+    "districtId": "653",
+    "name": "Kelurahan Purwokinanti"
+  },
+  {
+    "id": "4431",
+    "districtId": "656",
+    "name": "Kelurahan Kadipaten"
+  },
+  {
+    "id": "4479",
+    "districtId": "656",
+    "name": "Kelurahan Panembahan"
+  },
+  {
+    "id": "4486",
+    "districtId": "656",
+    "name": "Kelurahan Patehan"
+  },
+  {
+    "id": "4465",
+    "districtId": "659",
+    "name": "Kelurahan Ngampilan"
+  },
+  {
+    "id": "4472",
+    "districtId": "659",
+    "name": "Kelurahan Notoprajan"
+  },
+  {
+    "id": "4470",
+    "districtId": "660",
+    "name": "Kelurahan Ngupasan"
+  },
+  {
+    "id": "4495",
+    "districtId": "660",
+    "name": "Kelurahan Prawirodirjan"
+  },
+  {
+    "id": "4474",
+    "districtId": "661",
+    "name": "Kelurahan Pakuncen"
+  },
+  {
+    "id": "4485",
+    "districtId": "661",
+    "name": "Kelurahan Patangpuluhan"
+  },
+  {
+    "id": "4565",
+    "districtId": "661",
+    "name": "Kelurahan Wirobrajan"
+  },
+  {
+    "id": "4496",
+    "districtId": "664",
+    "name": "Kelurahan Prenggan"
+  },
+  {
+    "id": "4498",
+    "districtId": "664",
+    "name": "Kelurahan Purbayan"
+  },
+  {
+    "id": "4502",
+    "districtId": "664",
+    "name": "Kelurahan Rejowinangun"
+  },
+  {
+    "id": "4497",
+    "districtId": "665",
+    "name": "Kelurahan Pringgokusuman"
+  },
+  {
+    "id": "4522",
+    "districtId": "665",
+    "name": "Kelurahan Sosromenduran"
+  },
+  {
+    "id": "4368",
+    "districtId": "626",
+    "name": "Banaran"
+  },
+  {
+    "id": "4387",
+    "districtId": "626",
+    "name": "Brosot"
+  },
+  {
+    "id": "4438",
+    "districtId": "626",
+    "name": "Karangsewu"
+  },
+  {
+    "id": "4453",
+    "districtId": "626",
+    "name": "Kranggan"
+  },
+  {
+    "id": "4471",
+    "districtId": "626",
+    "name": "Nomporejo"
+  },
+  {
+    "id": "4478",
+    "districtId": "626",
+    "name": "Pandowan"
+  },
+  {
+    "id": "4551",
+    "districtId": "626",
+    "name": "Tirtorahayu"
+  },
+  {
+    "id": "4369",
+    "districtId": "627",
+    "name": "Banguncipto"
+  },
+  {
+    "id": "4396",
+    "districtId": "627",
+    "name": "Demangrejo"
+  },
+  {
+    "id": "4432",
+    "districtId": "627",
+    "name": "Kaliagung"
+  },
+  {
+    "id": "4505",
+    "districtId": "627",
+    "name": "Salamrejo"
+  },
+  {
+    "id": "4512",
+    "districtId": "627",
+    "name": "Sentolo"
+  },
+  {
+    "id": "4526",
+    "districtId": "627",
+    "name": "Srikayangan"
+  },
+  {
+    "id": "4529",
+    "districtId": "627",
+    "name": "Sukoreno"
+  },
+  {
+    "id": "4559",
+    "districtId": "627",
+    "name": "Tuksono"
+  },
+  {
+    "id": "4373",
+    "districtId": "631",
+    "name": "Banjararum"
+  },
+  {
+    "id": "4374",
+    "districtId": "631",
+    "name": "Banjarasri"
+  },
+  {
+    "id": "4375",
+    "districtId": "631",
+    "name": "Banjarharjo"
+  },
+  {
+    "id": "4376",
+    "districtId": "631",
+    "name": "Banjaroyo"
+  },
+  {
+    "id": "4377",
+    "districtId": "632",
+    "name": "Banjarsari"
+  },
+  {
+    "id": "4406",
+    "districtId": "632",
+    "name": "Gerbosari"
+  },
+  {
+    "id": "4445",
+    "districtId": "632",
+    "name": "Kebonharjo"
+  },
+  {
+    "id": "4466",
+    "districtId": "632",
+    "name": "Ngargosari"
+  },
+  {
+    "id": "4473",
+    "districtId": "632",
+    "name": "Pagerharjo"
+  },
+  {
+    "id": "4499",
+    "districtId": "632",
+    "name": "Purwoharjo"
+  },
+  {
+    "id": "4513",
+    "districtId": "632",
+    "name": "Sidoharjo"
+  },
+  {
+    "id": "4379",
+    "districtId": "634",
+    "name": "Banyuroto"
+  },
+  {
+    "id": "4400",
+    "districtId": "634",
+    "name": "Donomulyo"
+  },
+  {
+    "id": "4430",
+    "districtId": "634",
+    "name": "Jatisarono"
+  },
+  {
+    "id": "4449",
+    "districtId": "634",
+    "name": "Kembang"
+  },
+  {
+    "id": "4537",
+    "districtId": "634",
+    "name": "Tanjungharjo"
+  },
+  {
+    "id": "4563",
+    "districtId": "634",
+    "name": "Wijimulyo"
+  },
+  {
+    "id": "4383",
+    "districtId": "637",
+    "name": "Bendungan"
+  },
+  {
+    "id": "4408",
+    "districtId": "637",
+    "name": "Giripeni"
+  },
+  {
+    "id": "4443",
+    "districtId": "637",
+    "name": "Karangwuni"
+  },
+  {
+    "id": "4457",
+    "districtId": "637",
+    "name": "Kulwaru"
+  },
+  {
+    "id": "4468",
+    "districtId": "637",
+    "name": "Ngestiharjo"
+  },
+  {
+    "id": "4520",
+    "districtId": "637",
+    "name": "Sogan"
+  },
+  {
+    "id": "4553",
+    "districtId": "637",
+    "name": "Triharjo"
+  },
+  {
+    "id": "4562",
+    "districtId": "637",
+    "name": "Kelurahan Wates"
+  },
+  {
+    "id": "4385",
+    "districtId": "639",
+    "name": "Bojong"
+  },
+  {
+    "id": "4388",
+    "districtId": "639",
+    "name": "Bugel"
+  },
+  {
+    "id": "4393",
+    "districtId": "639",
+    "name": "Cerme"
+  },
+  {
+    "id": "4398",
+    "districtId": "639",
+    "name": "Depok"
+  },
+  {
+    "id": "4404",
+    "districtId": "639",
+    "name": "Garongan"
+  },
+  {
+    "id": "4413",
+    "districtId": "639",
+    "name": "Gotakan"
+  },
+  {
+    "id": "4436",
+    "districtId": "639",
+    "name": "Kanoman"
+  },
+  {
+    "id": "4454",
+    "districtId": "639",
+    "name": "Krembangan"
+  },
+  {
+    "id": "4482",
+    "districtId": "639",
+    "name": "Panjatan"
+  },
+  {
+    "id": "4490",
+    "districtId": "639",
+    "name": "Pleret"
+  },
+  {
+    "id": "4539",
+    "districtId": "639",
+    "name": "Tayuban"
+  },
+  {
+    "id": "4390",
+    "districtId": "642",
+    "name": "Bumirejo"
+  },
+  {
+    "id": "4415",
+    "districtId": "642",
+    "name": "Gulurejo"
+  },
+  {
+    "id": "4429",
+    "districtId": "642",
+    "name": "Jatirejo"
+  },
+  {
+    "id": "4467",
+    "districtId": "642",
+    "name": "Ngentakrejo"
+  },
+  {
+    "id": "4516",
+    "districtId": "642",
+    "name": "Sidorejo"
+  },
+  {
+    "id": "4560",
+    "districtId": "642",
+    "name": "Wahyuharjo"
+  },
+  {
+    "id": "4397",
+    "districtId": "645",
+    "name": "Demen"
+  },
+  {
+    "id": "4412",
+    "districtId": "645",
+    "name": "Glagah"
+  },
+  {
+    "id": "4425",
+    "districtId": "645",
+    "name": "Jangkaran"
+  },
+  {
+    "id": "4426",
+    "districtId": "645",
+    "name": "Janten"
+  },
+  {
+    "id": "4433",
+    "districtId": "645",
+    "name": "Kalidengen"
+  },
+  {
+    "id": "4434",
+    "districtId": "645",
+    "name": "Kaligintung"
+  },
+  {
+    "id": "4442",
+    "districtId": "645",
+    "name": "Karangwuluh"
+  },
+  {
+    "id": "4446",
+    "districtId": "645",
+    "name": "Kebonrejo"
+  },
+  {
+    "id": "4447",
+    "districtId": "645",
+    "name": "Kedundang"
+  },
+  {
+    "id": "4456",
+    "districtId": "645",
+    "name": "Kulur"
+  },
+  {
+    "id": "4476",
+    "districtId": "645",
+    "name": "Palihan"
+  },
+  {
+    "id": "4492",
+    "districtId": "645",
+    "name": "Plumbon"
+  },
+  {
+    "id": "4517",
+    "districtId": "645",
+    "name": "Sindutan"
+  },
+  {
+    "id": "4542",
+    "districtId": "645",
+    "name": "Temon Kulon"
+  },
+  {
+    "id": "4543",
+    "districtId": "645",
+    "name": "Temon Wetan"
+  },
+  {
+    "id": "4409",
+    "districtId": "650",
+    "name": "Giripurwo"
+  },
+  {
+    "id": "4427",
+    "districtId": "650",
+    "name": "Jatimulyo"
+  },
+  {
+    "id": "4488",
+    "districtId": "650",
+    "name": "Pendoworejo"
+  },
+  {
+    "id": "4501",
+    "districtId": "650",
+    "name": "Purwosari"
+  },
+  {
+    "id": "4418",
+    "districtId": "655",
+    "name": "Hargomulyo"
+  },
+  {
+    "id": "4419",
+    "districtId": "655",
+    "name": "Hargorejo"
+  },
+  {
+    "id": "4420",
+    "districtId": "655",
+    "name": "Hargotirto"
+  },
+  {
+    "id": "4421",
+    "districtId": "655",
+    "name": "Hargowilis"
+  },
+  {
+    "id": "4435",
+    "districtId": "655",
+    "name": "Kalirejo"
+  },
+  {
+    "id": "4437",
+    "districtId": "657",
+    "name": "Karangsari"
+  },
+  {
+    "id": "4448",
+    "districtId": "657",
+    "name": "Kedungsari"
+  },
+  {
+    "id": "4460",
+    "districtId": "657",
+    "name": "Margosari"
+  },
+  {
+    "id": "4489",
+    "districtId": "657",
+    "name": "Pengasih"
+  },
+  {
+    "id": "4510",
+    "districtId": "657",
+    "name": "Sendangsari"
+  },
+  {
+    "id": "4514",
+    "districtId": "657",
+    "name": "Sidomulyo"
+  },
+  {
+    "id": "4538",
+    "districtId": "657",
+    "name": "Tawangsari"
+  },
+  {
+    "id": "4571",
+    "districtId": "667",
+    "name": "Ambarketawang"
+  },
+  {
+    "id": "4573",
+    "districtId": "667",
+    "name": "Balecatur"
+  },
+  {
+    "id": "4579",
+    "districtId": "667",
+    "name": "Banyuraden"
+  },
+  {
+    "id": "4664",
+    "districtId": "667",
+    "name": "Nogotirto"
+  },
+  {
+    "id": "4731",
+    "districtId": "667",
+    "name": "Trihanggo"
+  },
+  {
+    "id": "4572",
+    "districtId": "668",
+    "name": "Argomulyo"
+  },
+  {
+    "id": "4613",
+    "districtId": "668",
+    "name": "Glagaharjo"
+  },
+  {
+    "id": "4633",
+    "districtId": "668",
+    "name": "Kepuharjo"
+  },
+  {
+    "id": "4734",
+    "districtId": "668",
+    "name": "Umbulharjo"
+  },
+  {
+    "id": "4744",
+    "districtId": "668",
+    "name": "Wukirsari"
+  },
+  {
+    "id": "4577",
+    "districtId": "671",
+    "name": "Bangunkerto"
+  },
+  {
+    "id": "4595",
+    "districtId": "671",
+    "name": "Donokerto"
+  },
+  {
+    "id": "4605",
+    "districtId": "671",
+    "name": "Girikerto"
+  },
+  {
+    "id": "4741",
+    "districtId": "671",
+    "name": "Wonokerto"
+  },
+  {
+    "id": "4580",
+    "districtId": "673",
+    "name": "Banyurejo"
+  },
+  {
+    "id": "4636",
+    "districtId": "673",
+    "name": "Lumbungrejo"
+  },
+  {
+    "id": "4644",
+    "districtId": "673",
+    "name": "Margorejo"
+  },
+  {
+    "id": "4645",
+    "districtId": "673",
+    "name": "Merdikorejo"
+  },
+  {
+    "id": "4649",
+    "districtId": "673",
+    "name": "Mororejo"
+  },
+  {
+    "id": "4677",
+    "districtId": "673",
+    "name": "Pondokrejo"
+  },
+  {
+    "id": "4718",
+    "districtId": "673",
+    "name": "Sumberrejo"
+  },
+  {
+    "id": "4722",
+    "districtId": "673",
+    "name": "Tambakrejo"
+  },
+  {
+    "id": "4585",
+    "districtId": "676",
+    "name": "Bimomartani"
+  },
+  {
+    "id": "4709",
+    "districtId": "676",
+    "name": "Sindumartani"
+  },
+  {
+    "id": "4735",
+    "districtId": "676",
+    "name": "Umbulmartani"
+  },
+  {
+    "id": "4738",
+    "districtId": "676",
+    "name": "Wedomartani"
+  },
+  {
+    "id": "4739",
+    "districtId": "676",
+    "name": "Widodomartani"
+  },
+  {
+    "id": "4587",
+    "districtId": "677",
+    "name": "Bokoharjo"
+  },
+  {
+    "id": "4599",
+    "districtId": "677",
+    "name": "Gayamharjo"
+  },
+  {
+    "id": "4637",
+    "districtId": "677",
+    "name": "Madurejo"
+  },
+  {
+    "id": "4683",
+    "districtId": "677",
+    "name": "Sambirejo"
+  },
+  {
+    "id": "4716",
+    "districtId": "677",
+    "name": "Sumberharjo"
+  },
+  {
+    "id": "4743",
+    "districtId": "677",
+    "name": "Wukirharjo"
+  },
+  {
+    "id": "4589",
+    "districtId": "678",
+    "name": "Candibinangun"
+  },
+  {
+    "id": "4615",
+    "districtId": "678",
+    "name": "Hargobinangun"
+  },
+  {
+    "id": "4618",
+    "districtId": "678",
+    "name": "Harjobinangun"
+  },
+  {
+    "id": "4666",
+    "districtId": "678",
+    "name": "Pakembinangun"
+  },
+  {
+    "id": "4679",
+    "districtId": "678",
+    "name": "Purwobinangun"
+  },
+  {
+    "id": "4590",
+    "districtId": "679",
+    "name": "Caturharjo"
+  },
+  {
+    "id": "4668",
+    "districtId": "679",
+    "name": "Pandowoharjo"
+  },
+  {
+    "id": "4730",
+    "districtId": "679",
+    "name": "Tridadi"
+  },
+  {
+    "id": "4732",
+    "districtId": "679",
+    "name": "Triharjo"
+  },
+  {
+    "id": "4733",
+    "districtId": "679",
+    "name": "Trimulyo"
+  },
+  {
+    "id": "4591",
+    "districtId": "680",
+    "name": "Caturtunggal"
+  },
+  {
+    "id": "4592",
+    "districtId": "680",
+    "name": "Condongcatur"
+  },
+  {
+    "id": "4638",
+    "districtId": "680",
+    "name": "Maguwoharjo"
+  },
+  {
+    "id": "4594",
+    "districtId": "681",
+    "name": "Donoharjo"
+  },
+  {
+    "id": "4647",
+    "districtId": "681",
+    "name": "Minomartani"
+  },
+  {
+    "id": "4685",
+    "districtId": "681",
+    "name": "Sardonoharjo"
+  },
+  {
+    "id": "4686",
+    "districtId": "681",
+    "name": "Sariharjo"
+  },
+  {
+    "id": "4708",
+    "districtId": "681",
+    "name": "Sinduharjo"
+  },
+  {
+    "id": "4712",
+    "districtId": "681",
+    "name": "Sukoharjo"
+  },
+  {
+    "id": "4620",
+    "districtId": "687",
+    "name": "Jogotirto"
+  },
+  {
+    "id": "4621",
+    "districtId": "687",
+    "name": "Kalitirto"
+  },
+  {
+    "id": "4697",
+    "districtId": "687",
+    "name": "Sendangtirto"
+  },
+  {
+    "id": "4724",
+    "districtId": "687",
+    "name": "Tegaltirto"
+  },
+  {
+    "id": "4639",
+    "districtId": "689",
+    "name": "Margoagung"
+  },
+  {
+    "id": "4640",
+    "districtId": "689",
+    "name": "Margodadi"
+  },
+  {
+    "id": "4641",
+    "districtId": "689",
+    "name": "Margokaton"
+  },
+  {
+    "id": "4642",
+    "districtId": "689",
+    "name": "Margoluwih"
+  },
+  {
+    "id": "4643",
+    "districtId": "689",
+    "name": "Margomulyo"
+  },
+  {
+    "id": "4680",
+    "districtId": "691",
+    "name": "Purwomartani"
+  },
+  {
+    "id": "4688",
+    "districtId": "691",
+    "name": "Selomartani"
+  },
+  {
+    "id": "4721",
+    "districtId": "691",
+    "name": "Tamanmartani"
+  },
+  {
+    "id": "4728",
+    "districtId": "691",
+    "name": "Tirtomartani"
+  },
+  {
+    "id": "4691",
+    "districtId": "692",
+    "name": "Sendangadi"
+  },
+  {
+    "id": "4707",
+    "districtId": "692",
+    "name": "Sinduadi"
+  },
+  {
+    "id": "4713",
+    "districtId": "692",
+    "name": "Sumberadi"
+  },
+  {
+    "id": "4727",
+    "districtId": "692",
+    "name": "Tirtoadi"
+  },
+  {
+    "id": "4729",
+    "districtId": "692",
+    "name": "Tlogoadi"
+  },
+  {
+    "id": "4692",
+    "districtId": "693",
+    "name": "Sendangagung"
+  },
+  {
+    "id": "4693",
+    "districtId": "693",
+    "name": "Sendangarum"
+  },
+  {
+    "id": "4694",
+    "districtId": "693",
+    "name": "Sendangmulyo"
+  },
+  {
+    "id": "4695",
+    "districtId": "693",
+    "name": "Sendangrejo"
+  },
+  {
+    "id": "4696",
+    "districtId": "693",
+    "name": "Sendangsari"
+  },
+  {
+    "id": "4699",
+    "districtId": "694",
+    "name": "Sidoagung"
+  },
+  {
+    "id": "4700",
+    "districtId": "694",
+    "name": "Sidoarum"
+  },
+  {
+    "id": "4702",
+    "districtId": "694",
+    "name": "Sidokarto"
+  },
+  {
+    "id": "4703",
+    "districtId": "694",
+    "name": "Sidoluhur"
+  },
+  {
+    "id": "4704",
+    "districtId": "694",
+    "name": "Sidomoyo"
+  },
+  {
+    "id": "4705",
+    "districtId": "694",
+    "name": "Sidomulyo"
+  },
+  {
+    "id": "4706",
+    "districtId": "694",
+    "name": "Sidorejo"
+  },
+  {
+    "id": "4714",
+    "districtId": "696",
+    "name": "Sumberagung"
+  },
+  {
+    "id": "4715",
+    "districtId": "696",
+    "name": "Sumberarum"
+  },
+  {
+    "id": "4717",
+    "districtId": "696",
+    "name": "Sumberrahayu"
+  },
+  {
+    "id": "4719",
+    "districtId": "696",
+    "name": "Sumbersari"
+  },
+  {
+    "id": "4574",
+    "districtId": "669",
+    "name": "Baleharjo"
+  },
+  {
+    "id": "4596",
+    "districtId": "669",
+    "name": "Duwet"
+  },
+  {
+    "id": "4598",
+    "districtId": "669",
+    "name": "Gari"
+  },
+  {
+    "id": "4625",
+    "districtId": "669",
+    "name": "Karangrejek"
+  },
+  {
+    "id": "4626",
+    "districtId": "669",
+    "name": "Karangtengah"
+  },
+  {
+    "id": "4631",
+    "districtId": "669",
+    "name": "Kepek"
+  },
+  {
+    "id": "4650",
+    "districtId": "669",
+    "name": "Mulo"
+  },
+  {
+    "id": "4673",
+    "districtId": "669",
+    "name": "Piyaman"
+  },
+  {
+    "id": "4678",
+    "districtId": "669",
+    "name": "Pulutan"
+  },
+  {
+    "id": "4687",
+    "districtId": "669",
+    "name": "Selang"
+  },
+  {
+    "id": "4710",
+    "districtId": "669",
+    "name": "Siraman"
+  },
+  {
+    "id": "4736",
+    "districtId": "669",
+    "name": "Wareng"
+  },
+  {
+    "id": "4742",
+    "districtId": "669",
+    "name": "Wonosari"
+  },
+  {
+    "id": "4745",
+    "districtId": "669",
+    "name": "Wunung"
+  },
+  {
+    "id": "4575",
+    "districtId": "670",
+    "name": "Banaran"
+  },
+  {
+    "id": "4576",
+    "districtId": "670",
+    "name": "Bandung"
+  },
+  {
+    "id": "4581",
+    "districtId": "670",
+    "name": "Banyusoco"
+  },
+  {
+    "id": "4586",
+    "districtId": "670",
+    "name": "Bleberan"
+  },
+  {
+    "id": "4593",
+    "districtId": "670",
+    "name": "Dengok"
+  },
+  {
+    "id": "4597",
+    "districtId": "670",
+    "name": "Gading"
+  },
+  {
+    "id": "4600",
+    "districtId": "670",
+    "name": "Getas"
+  },
+  {
+    "id": "4635",
+    "districtId": "670",
+    "name": "Logandeng"
+  },
+  {
+    "id": "4655",
+    "districtId": "670",
+    "name": "Ngawu"
+  },
+  {
+    "id": "4659",
+    "districtId": "670",
+    "name": "Ngleri"
+  },
+  {
+    "id": "4663",
+    "districtId": "670",
+    "name": "Ngunut"
+  },
+  {
+    "id": "4675",
+    "districtId": "670",
+    "name": "Playen"
+  },
+  {
+    "id": "4676",
+    "districtId": "670",
+    "name": "Plembutan"
+  },
+  {
+    "id": "4578",
+    "districtId": "672",
+    "name": "Banjarejo"
+  },
+  {
+    "id": "4617",
+    "districtId": "672",
+    "name": "Hargosari"
+  },
+  {
+    "id": "4629",
+    "districtId": "672",
+    "name": "Kemadang"
+  },
+  {
+    "id": "4630",
+    "districtId": "672",
+    "name": "Kemiri"
+  },
+  {
+    "id": "4656",
+    "districtId": "672",
+    "name": "Ngestirejo"
+  },
+  {
+    "id": "4582",
+    "districtId": "674",
+    "name": "Beji"
+  },
+  {
+    "id": "4588",
+    "districtId": "674",
+    "name": "Bunder"
+  },
+  {
+    "id": "4657",
+    "districtId": "674",
+    "name": "Nglanggeran"
+  },
+  {
+    "id": "4658",
+    "districtId": "674",
+    "name": "Nglegi"
+  },
+  {
+    "id": "4662",
+    "districtId": "674",
+    "name": "Ngoro-Oro"
+  },
+  {
+    "id": "4669",
+    "districtId": "674",
+    "name": "Patuk"
+  },
+  {
+    "id": "4670",
+    "districtId": "674",
+    "name": "Pengkok"
+  },
+  {
+    "id": "4681",
+    "districtId": "674",
+    "name": "Putat"
+  },
+  {
+    "id": "4682",
+    "districtId": "674",
+    "name": "Salam"
+  },
+  {
+    "id": "4690",
+    "districtId": "674",
+    "name": "Semoyo"
+  },
+  {
+    "id": "4726",
+    "districtId": "674",
+    "name": "Terbah"
+  },
+  {
+    "id": "4583",
+    "districtId": "675",
+    "name": "Bejiharjo"
+  },
+  {
+    "id": "4584",
+    "districtId": "675",
+    "name": "Bendungan"
+  },
+  {
+    "id": "4628",
+    "districtId": "675",
+    "name": "Kelor"
+  },
+  {
+    "id": "4654",
+    "districtId": "675",
+    "name": "Ngawis"
+  },
+  {
+    "id": "4740",
+    "districtId": "675",
+    "name": "Wiladeg"
+  },
+  {
+    "id": "17054",
+    "districtId": "675",
+    "name": "Gedangrejo"
+  },
+  {
+    "id": "17057",
+    "districtId": "675",
+    "name": "Jatiayu"
+  },
+  {
+    "id": "17060",
+    "districtId": "675",
+    "name": "Karangmojo"
+  },
+  {
+    "id": "17064",
+    "districtId": "675",
+    "name": "Ngipak"
+  },
+  {
+    "id": "4601",
+    "districtId": "682",
+    "name": "Giriasih"
+  },
+  {
+    "id": "4602",
+    "districtId": "682",
+    "name": "Giricahyo"
+  },
+  {
+    "id": "4608",
+    "districtId": "682",
+    "name": "Giripurwo"
+  },
+  {
+    "id": "4611",
+    "districtId": "682",
+    "name": "Giritirto"
+  },
+  {
+    "id": "4746",
+    "districtId": "682",
+    "name": "Girijati"
+  },
+  {
+    "id": "4603",
+    "districtId": "683",
+    "name": "Giriharjo"
+  },
+  {
+    "id": "4604",
+    "districtId": "683",
+    "name": "Girikarto"
+  },
+  {
+    "id": "4606",
+    "districtId": "683",
+    "name": "Girimulyo"
+  },
+  {
+    "id": "4609",
+    "districtId": "683",
+    "name": "Girisekar"
+  },
+  {
+    "id": "4610",
+    "districtId": "683",
+    "name": "Girisuko"
+  },
+  {
+    "id": "4612",
+    "districtId": "683",
+    "name": "Giriwungu"
+  },
+  {
+    "id": "4607",
+    "districtId": "684",
+    "name": "Giring"
+  },
+  {
+    "id": "4614",
+    "districtId": "684",
+    "name": "Grogol"
+  },
+  {
+    "id": "4623",
+    "districtId": "684",
+    "name": "Karangasem"
+  },
+  {
+    "id": "4624",
+    "districtId": "684",
+    "name": "Karangduwet"
+  },
+  {
+    "id": "4651",
+    "districtId": "684",
+    "name": "Mulusan"
+  },
+  {
+    "id": "4667",
+    "districtId": "684",
+    "name": "Pampang"
+  },
+  {
+    "id": "4711",
+    "districtId": "684",
+    "name": "Sodo"
+  },
+  {
+    "id": "4616",
+    "districtId": "685",
+    "name": "Hargomulyo"
+  },
+  {
+    "id": "4646",
+    "districtId": "685",
+    "name": "Mertelu"
+  },
+  {
+    "id": "4653",
+    "districtId": "685",
+    "name": "Ngalang"
+  },
+  {
+    "id": "4684",
+    "districtId": "685",
+    "name": "Sampang"
+  },
+  {
+    "id": "4698",
+    "districtId": "685",
+    "name": "Serut"
+  },
+  {
+    "id": "4723",
+    "districtId": "685",
+    "name": "Tegalrejo"
+  },
+  {
+    "id": "4737",
+    "districtId": "685",
+    "name": "Watugajah"
+  },
+  {
+    "id": "4619",
+    "districtId": "686",
+    "name": "Jetis"
+  },
+  {
+    "id": "4622",
+    "districtId": "686",
+    "name": "Kanigoro"
+  },
+  {
+    "id": "4632",
+    "districtId": "686",
+    "name": "Kepek"
+  },
+  {
+    "id": "4634",
+    "districtId": "686",
+    "name": "Krambilsawit"
+  },
+  {
+    "id": "4648",
+    "districtId": "686",
+    "name": "Monggol"
+  },
+  {
+    "id": "4661",
+    "districtId": "686",
+    "name": "Ngloro"
+  },
+  {
+    "id": "4674",
+    "districtId": "686",
+    "name": "Planjan"
+  },
+  {
+    "id": "4627",
+    "districtId": "688",
+    "name": "Kedungkeris"
+  },
+  {
+    "id": "4652",
+    "districtId": "688",
+    "name": "Natah"
+  },
+  {
+    "id": "4660",
+    "districtId": "688",
+    "name": "Nglipar"
+  },
+  {
+    "id": "4671",
+    "districtId": "688",
+    "name": "Pengkol"
+  },
+  {
+    "id": "4672",
+    "districtId": "688",
+    "name": "Pilangrejo"
+  },
+  {
+    "id": "17061",
+    "districtId": "688",
+    "name": "Katongan"
+  },
+  {
+    "id": "17062",
+    "districtId": "688",
+    "name": "Kedungpoh"
+  },
+  {
+    "id": "4665",
+    "districtId": "690",
+    "name": "Pacarejo"
+  },
+  {
+    "id": "4689",
+    "districtId": "690",
+    "name": "Semanu"
+  },
+  {
+    "id": "17052",
+    "districtId": "690",
+    "name": "Candirejo"
+  },
+  {
+    "id": "17053",
+    "districtId": "690",
+    "name": "Dadapayu"
+  },
+  {
+    "id": "17063",
+    "districtId": "690",
+    "name": "Ngeposari"
+  },
+  {
+    "id": "4701",
+    "districtId": "695",
+    "name": "Sidoharjo"
+  },
+  {
+    "id": "4720",
+    "districtId": "695",
+    "name": "Sumberwungu"
+  },
+  {
+    "id": "4725",
+    "districtId": "695",
+    "name": "Tepus"
+  },
+  {
+    "id": "17055",
+    "districtId": "695",
+    "name": "Giripanggung"
+  },
+  {
+    "id": "17065",
+    "districtId": "695",
+    "name": "Purwodadi"
+  },
+  {
+    "id": "7362",
+    "districtId": "777",
+    "name": "Balong"
+  },
+  {
+    "id": "7370",
+    "districtId": "777",
+    "name": "Jepitu"
+  },
+  {
+    "id": "7371",
+    "districtId": "777",
+    "name": "Jerukwudel"
+  },
+  {
+    "id": "7374",
+    "districtId": "777",
+    "name": "Karangawen"
+  },
+  {
+    "id": "7380",
+    "districtId": "777",
+    "name": "Nglindur"
+  },
+  {
+    "id": "7385",
+    "districtId": "777",
+    "name": "Pucung"
+  },
+  {
+    "id": "7392",
+    "districtId": "777",
+    "name": "Songbanyu"
+  },
+  {
+    "id": "7396",
+    "districtId": "777",
+    "name": "Tileng"
+  },
+  {
+    "id": "7363",
+    "districtId": "778",
+    "name": "Bedoyo"
+  },
+  {
+    "id": "7369",
+    "districtId": "778",
+    "name": "Genjahan"
+  },
+  {
+    "id": "7373",
+    "districtId": "778",
+    "name": "Karangasem"
+  },
+  {
+    "id": "7378",
+    "districtId": "778",
+    "name": "Kenteng"
+  },
+  {
+    "id": "7382",
+    "districtId": "778",
+    "name": "Ponjong"
+  },
+  {
+    "id": "7389",
+    "districtId": "778",
+    "name": "Sawahan"
+  },
+  {
+    "id": "7394",
+    "districtId": "778",
+    "name": "Sumbergiri"
+  },
+  {
+    "id": "7395",
+    "districtId": "778",
+    "name": "Tambakromo"
+  },
+  {
+    "id": "7397",
+    "districtId": "778",
+    "name": "Umbulrejo"
+  },
+  {
+    "id": "17056",
+    "districtId": "778",
+    "name": "Gombang"
+  },
+  {
+    "id": "17066",
+    "districtId": "778",
+    "name": "Sidorejo"
+  },
+  {
+    "id": "7364",
+    "districtId": "779",
+    "name": "Bendung"
+  },
+  {
+    "id": "7367",
+    "districtId": "779",
+    "name": "Bulurejo"
+  },
+  {
+    "id": "7368",
+    "districtId": "779",
+    "name": "Candirejo"
+  },
+  {
+    "id": "7372",
+    "districtId": "779",
+    "name": "Kalitekuk"
+  },
+  {
+    "id": "7375",
+    "districtId": "779",
+    "name": "Karangsari"
+  },
+  {
+    "id": "7377",
+    "districtId": "779",
+    "name": "Kemejing"
+  },
+  {
+    "id": "7386",
+    "districtId": "779",
+    "name": "Pundungsari"
+  },
+  {
+    "id": "7387",
+    "districtId": "779",
+    "name": "Rejosari"
+  },
+  {
+    "id": "7390",
+    "districtId": "779",
+    "name": "Semin"
+  },
+  {
+    "id": "7393",
+    "districtId": "779",
+    "name": "Sumberejo"
+  },
+  {
+    "id": "7365",
+    "districtId": "780",
+    "name": "Bohol"
+  },
+  {
+    "id": "7366",
+    "districtId": "780",
+    "name": "Botodayaan"
+  },
+  {
+    "id": "7376",
+    "districtId": "780",
+    "name": "Karangwuni"
+  },
+  {
+    "id": "7379",
+    "districtId": "780",
+    "name": "Melikan"
+  },
+  {
+    "id": "7381",
+    "districtId": "780",
+    "name": "Petir"
+  },
+  {
+    "id": "7383",
+    "districtId": "780",
+    "name": "Pringombo"
+  },
+  {
+    "id": "7384",
+    "districtId": "780",
+    "name": "Pucanganom"
+  },
+  {
+    "id": "7391",
+    "districtId": "780",
+    "name": "Semugih"
+  },
+  {
+    "id": "7388",
+    "districtId": "781",
+    "name": "Sambirejo"
+  },
+  {
+    "id": "17051",
+    "districtId": "781",
+    "name": "Beji"
+  },
+  {
+    "id": "17058",
+    "districtId": "781",
+    "name": "Jurangjero"
+  },
+  {
+    "id": "17059",
+    "districtId": "781",
+    "name": "Kampung"
+  },
+  {
+    "id": "17067",
+    "districtId": "781",
+    "name": "Tancep"
+  },
+  {
+    "id": "17068",
+    "districtId": "781",
+    "name": "Watusigar"
+  }
+]

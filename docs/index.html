@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Wilayah Indonesia API Demo</title>
+  <link href="https://cdn.jsdelivr.net/npm/tom-select@2.2.2/dist/css/tom-select.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/tom-select@2.2.2/dist/js/tom-select.complete.min.js"></script>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: #f5f5f5;
+      color: #333;
+      margin: 0;
+      padding: 20px;
+      display: flex;
+      justify-content: center;
+      min-height: 100vh;
+    }
+    .container {
+      background: white;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      width: 100%;
+      max-width: 600px;
+    }
+    h1 { margin-top: 0; color: #2c3e50; text-align: center; }
+    p { color: #666; text-align: center; margin-bottom: 2rem; }
+    
+    .form-group { margin-bottom: 1.5rem; }
+    label { display: block; margin-bottom: 0.5rem; font-weight: 600; font-size: 0.9rem; }
+    select {
+      width: 100%;
+      padding: 0.75rem;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 1rem;
+      background-color: white;
+    }
+    select:disabled { background-color: #f9f9f9; cursor: not-allowed; }
+    
+    .result {
+      margin-top: 2rem;
+      padding: 1rem;
+      background: #f8f9fa;
+      border-radius: 4px;
+      border: 1px solid #e9ecef;
+      font-family: monospace;
+      white-space: pre-wrap;
+      font-size: 0.85rem;
+      display: none;
+    }
+    .result.visible { display: block; }
+    
+    footer { margin-top: 2rem; text-align: center; font-size: 0.8rem; color: #999; }
+    a { color: #0366d6; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Wilayah Indonesia</h1>
+  <p>Demo API statis data wilayah administrasi Indonesia.</p>
+
+  <div class="form-group">
+    <label for="province">Provinsi:</label>
+    <select id="province">
+      <option value="">Pilih Provinsi...</option>
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label for="regency">Kabupaten/Kota:</label>
+    <select id="regency" disabled>
+      <option value="">Pilih Kabupaten/Kota...</option>
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label for="district">Kecamatan:</label>
+    <select id="district" disabled>
+      <option value="">Pilih Kecamatan...</option>
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label for="village">Desa/Kelurahan:</label>
+    <select id="village" disabled>
+      <option value="">Pilih Desa/Kelurahan...</option>
+    </select>
+  </div>
+
+  <div id="result" class="result"></div>
+
+  <footer>
+    <p>Data source: <a href="https://github.com/izzulabadi/api-wilayah-indonesia-2026">izzulabadi/api-wilayah-indonesia-2026</a></p>
+  </footer>
+</div>
+
+<script>
+  // Base URL - relative to index.html
+  const API_BASE = 'api'; 
+  
+  async function fetchJson(path) {
+    const res = await fetch(`${API_BASE}${path}`);
+    if (!res.ok) throw new Error(`Failed to fetch ${path}`);
+    return res.json();
+  }
+
+  // Initialize Tom Select
+  const tsConfig = {
+    create: false,
+    sortField: { field: "text", direction: "asc" },
+    placeholder: "Cari..."
+  };
+
+  const selects = {
+    province: new TomSelect('#province', { ...tsConfig, placeholder: "Pilih Provinsi..." }),
+    regency: new TomSelect('#regency', { ...tsConfig, placeholder: "Pilih Kabupaten/Kota..." }),
+    district: new TomSelect('#district', { ...tsConfig, placeholder: "Pilih Kecamatan..." }),
+    village: new TomSelect('#village', { ...tsConfig, placeholder: "Pilih Desa/Kelurahan..." })
+  };
+
+  // Disable downstream selects initially
+  selects.regency.disable();
+  selects.district.disable();
+  selects.village.disable();
+
+  // Cache for data
+  const cache = {
+    regencies: null,
+    districts: null,
+    villages: {} // cache per province
+  };
+
+  async function loadProvinces() {
+    try {
+      const data = await fetchJson('/provinces.json');
+      populateSelect('province', data);
+    } catch (e) {
+      console.error(e);
+      document.getElementById('result').textContent = 'Error loading provinces. Check console.';
+      document.getElementById('result').classList.add('visible');
+    }
+  }
+
+  async function loadRegencies(provinceId) {
+    if (!cache.regencies) {
+      cache.regencies = await fetchJson('/regencies.json');
+    }
+    return cache.regencies.filter(r => r.provinceId === provinceId);
+  }
+
+  async function loadDistricts(regencyId) {
+    if (!cache.districts) {
+      cache.districts = await fetchJson('/districts.json');
+    }
+    return cache.districts.filter(d => d.cityId === regencyId);
+  }
+
+  async function loadVillages(provinceId, districtId) {
+    if (!cache.villages[provinceId]) {
+      cache.villages[provinceId] = await fetchJson(`/villages/${provinceId}.json`);
+    }
+    return cache.villages[provinceId].filter(v => v.districtId === districtId);
+  }
+
+  function populateSelect(key, items) {
+    const select = selects[key];
+    select.clear();
+    select.clearOptions();
+    
+    const options = items.map(item => ({value: item.id, text: item.name}));
+    select.addOption(options);
+    select.enable();
+  }
+
+  function resetSelects(fromLevel) {
+    if (fromLevel === 'province') {
+      selects.regency.clear();
+      selects.regency.clearOptions();
+      selects.regency.disable();
+    }
+    if (fromLevel === 'province' || fromLevel === 'regency') {
+      selects.district.clear();
+      selects.district.clearOptions();
+      selects.district.disable();
+    }
+    if (fromLevel === 'province' || fromLevel === 'regency' || fromLevel === 'district') {
+      selects.village.clear();
+      selects.village.clearOptions();
+      selects.village.disable();
+    }
+    document.getElementById('result').classList.remove('visible');
+  }
+
+  // Event Listeners (Tom Select triggers 'change' on the original element, but we can also listen to the instance)
+  // Using instance.on('change') is safer.
+
+  selects.province.on('change', async (id) => {
+    resetSelects('province');
+    if (!id) return;
+    const regencies = await loadRegencies(id);
+    populateSelect('regency', regencies);
+  });
+
+  selects.regency.on('change', async (id) => {
+    resetSelects('regency');
+    if (!id) return;
+    const districts = await loadDistricts(id);
+    populateSelect('district', districts);
+  });
+
+  selects.district.on('change', async (id) => {
+    // We need province ID to fetch villages (optimized path)
+    const provId = selects.province.getValue();
+    resetSelects('district');
+    if (!id) return;
+    const villages = await loadVillages(provId, id);
+    populateSelect('village', villages);
+  });
+
+  selects.village.on('change', (id) => {
+    if (!id) return;
+    
+    // Get text from Tom Select items
+    const getLabel = (inst) => inst.getItem(inst.getValue()).textContent;
+
+    const selected = {
+      province: getLabel(selects.province),
+      regency: getLabel(selects.regency),
+      district: getLabel(selects.district),
+      village: getLabel(selects.village),
+      villageId: id
+    };
+    
+    const resEl = document.getElementById('result');
+    resEl.textContent = JSON.stringify(selected, null, 2);
+    resEl.classList.add('visible');
+  });
+
+  // Init
+  loadProvinces();
+
+</script>
+</body>
+</html>
