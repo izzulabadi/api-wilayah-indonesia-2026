@@ -1,0 +1,777 @@
+[
+  {
+    "id": "2180",
+    "cityId": "153",
+    "name": "Pagelaran"
+  },
+  {
+    "id": "2181",
+    "cityId": "153",
+    "name": "Angsana"
+  },
+  {
+    "id": "2182",
+    "cityId": "153",
+    "name": "Jiput"
+  },
+  {
+    "id": "2183",
+    "cityId": "153",
+    "name": "Patia"
+  },
+  {
+    "id": "2184",
+    "cityId": "153",
+    "name": "Cikedal"
+  },
+  {
+    "id": "2185",
+    "cityId": "153",
+    "name": "Carita"
+  },
+  {
+    "id": "2186",
+    "cityId": "153",
+    "name": "Cigeulis"
+  },
+  {
+    "id": "2187",
+    "cityId": "153",
+    "name": "Labuan"
+  },
+  {
+    "id": "2188",
+    "cityId": "153",
+    "name": "Cimanggu"
+  },
+  {
+    "id": "2189",
+    "cityId": "153",
+    "name": "Sobang"
+  },
+  {
+    "id": "2190",
+    "cityId": "153",
+    "name": "Cibaliung"
+  },
+  {
+    "id": "2191",
+    "cityId": "153",
+    "name": "Munjul"
+  },
+  {
+    "id": "2192",
+    "cityId": "153",
+    "name": "Sukaresmi"
+  },
+  {
+    "id": "2193",
+    "cityId": "153",
+    "name": "Sumur"
+  },
+  {
+    "id": "2194",
+    "cityId": "153",
+    "name": "Cibitung"
+  },
+  {
+    "id": "2195",
+    "cityId": "153",
+    "name": "Cikeusik"
+  },
+  {
+    "id": "2196",
+    "cityId": "153",
+    "name": "Panimbang"
+  },
+  {
+    "id": "2197",
+    "cityId": "153",
+    "name": "Sindangresmi"
+  },
+  {
+    "id": "2288",
+    "cityId": "153",
+    "name": "Koroncong"
+  },
+  {
+    "id": "2292",
+    "cityId": "153",
+    "name": "Pandeglang"
+  },
+  {
+    "id": "2298",
+    "cityId": "153",
+    "name": "Banjar"
+  },
+  {
+    "id": "2301",
+    "cityId": "153",
+    "name": "Pulosari"
+  },
+  {
+    "id": "2302",
+    "cityId": "153",
+    "name": "Kaduhejo"
+  },
+  {
+    "id": "2305",
+    "cityId": "153",
+    "name": "Bojong"
+  },
+  {
+    "id": "2306",
+    "cityId": "153",
+    "name": "Cimanuk"
+  },
+  {
+    "id": "2307",
+    "cityId": "153",
+    "name": "Cipeucang"
+  },
+  {
+    "id": "2319",
+    "cityId": "153",
+    "name": "Picung"
+  },
+  {
+    "id": "2320",
+    "cityId": "153",
+    "name": "Cadasari"
+  },
+  {
+    "id": "2323",
+    "cityId": "153",
+    "name": "Saketi"
+  },
+  {
+    "id": "2324",
+    "cityId": "153",
+    "name": "Cisata"
+  },
+  {
+    "id": "2328",
+    "cityId": "153",
+    "name": "Karang Tanjung"
+  },
+  {
+    "id": "2329",
+    "cityId": "153",
+    "name": "Menes"
+  },
+  {
+    "id": "2334",
+    "cityId": "153",
+    "name": "Mandalawangi"
+  },
+  {
+    "id": "2335",
+    "cityId": "153",
+    "name": "Majasari"
+  },
+  {
+    "id": "2349",
+    "cityId": "153",
+    "name": "Mekarjaya"
+  },
+  {
+    "id": "2198",
+    "cityId": "154",
+    "name": "Cinangka"
+  },
+  {
+    "id": "2199",
+    "cityId": "154",
+    "name": "Anyar"
+  },
+  {
+    "id": "2471",
+    "cityId": "154",
+    "name": "Kopo"
+  },
+  {
+    "id": "2472",
+    "cityId": "154",
+    "name": "Jawilan"
+  },
+  {
+    "id": "2473",
+    "cityId": "154",
+    "name": "Pamarayan"
+  },
+  {
+    "id": "2474",
+    "cityId": "154",
+    "name": "Tunjung Teja"
+  },
+  {
+    "id": "2475",
+    "cityId": "154",
+    "name": "Petir"
+  },
+  {
+    "id": "2476",
+    "cityId": "154",
+    "name": "Ciomas"
+  },
+  {
+    "id": "2477",
+    "cityId": "154",
+    "name": "Baros"
+  },
+  {
+    "id": "2478",
+    "cityId": "154",
+    "name": "Cikeusal"
+  },
+  {
+    "id": "2479",
+    "cityId": "154",
+    "name": "Bandung"
+  },
+  {
+    "id": "2480",
+    "cityId": "154",
+    "name": "Padarincang"
+  },
+  {
+    "id": "2481",
+    "cityId": "154",
+    "name": "Cikande"
+  },
+  {
+    "id": "2482",
+    "cityId": "154",
+    "name": "Pabuaran"
+  },
+  {
+    "id": "2483",
+    "cityId": "154",
+    "name": "Kibin"
+  },
+  {
+    "id": "2484",
+    "cityId": "154",
+    "name": "Kragilan"
+  },
+  {
+    "id": "2485",
+    "cityId": "154",
+    "name": "Gunung Sari"
+  },
+  {
+    "id": "2486",
+    "cityId": "154",
+    "name": "Binuang"
+  },
+  {
+    "id": "2487",
+    "cityId": "154",
+    "name": "Mancak"
+  },
+  {
+    "id": "2488",
+    "cityId": "154",
+    "name": "Ciruas"
+  },
+  {
+    "id": "2489",
+    "cityId": "154",
+    "name": "Waringinkurung"
+  },
+  {
+    "id": "2490",
+    "cityId": "154",
+    "name": "Carenang"
+  },
+  {
+    "id": "2491",
+    "cityId": "154",
+    "name": "Lebak Wangi"
+  },
+  {
+    "id": "2492",
+    "cityId": "154",
+    "name": "Kramatwatu"
+  },
+  {
+    "id": "2493",
+    "cityId": "154",
+    "name": "Pontang"
+  },
+  {
+    "id": "2494",
+    "cityId": "154",
+    "name": "Tanara"
+  },
+  {
+    "id": "2495",
+    "cityId": "154",
+    "name": "Tirtayasa"
+  },
+  {
+    "id": "2496",
+    "cityId": "154",
+    "name": "Bojonegara"
+  },
+  {
+    "id": "2497",
+    "cityId": "154",
+    "name": "Pulo Ampel"
+  },
+  {
+    "id": "2200",
+    "cityId": "155",
+    "name": "Wanasalam"
+  },
+  {
+    "id": "2223",
+    "cityId": "155",
+    "name": "Cilograng"
+  },
+  {
+    "id": "2224",
+    "cityId": "155",
+    "name": "Bayah"
+  },
+  {
+    "id": "2287",
+    "cityId": "155",
+    "name": "Cikulur"
+  },
+  {
+    "id": "2498",
+    "cityId": "155",
+    "name": "Cihara"
+  },
+  {
+    "id": "2499",
+    "cityId": "155",
+    "name": "Cibeber"
+  },
+  {
+    "id": "2500",
+    "cityId": "155",
+    "name": "Panggarangan"
+  },
+  {
+    "id": "2501",
+    "cityId": "155",
+    "name": "Malingping"
+  },
+  {
+    "id": "2502",
+    "cityId": "155",
+    "name": "Cigemlong"
+  },
+  {
+    "id": "2503",
+    "cityId": "155",
+    "name": "Cijaku"
+  },
+  {
+    "id": "2504",
+    "cityId": "155",
+    "name": "Banjarsari"
+  },
+  {
+    "id": "2505",
+    "cityId": "155",
+    "name": "Cirinten"
+  },
+  {
+    "id": "2506",
+    "cityId": "155",
+    "name": "Sobang"
+  },
+  {
+    "id": "2507",
+    "cityId": "155",
+    "name": "Gunungkencana"
+  },
+  {
+    "id": "2508",
+    "cityId": "155",
+    "name": "Bojongmanik"
+  },
+  {
+    "id": "2509",
+    "cityId": "155",
+    "name": "Lebakgedong"
+  },
+  {
+    "id": "2510",
+    "cityId": "155",
+    "name": "Leuwidamar"
+  },
+  {
+    "id": "2511",
+    "cityId": "155",
+    "name": "Muncang"
+  },
+  {
+    "id": "2512",
+    "cityId": "155",
+    "name": "Cipanas"
+  },
+  {
+    "id": "2513",
+    "cityId": "155",
+    "name": "Sajira"
+  },
+  {
+    "id": "2514",
+    "cityId": "155",
+    "name": "Cileles"
+  },
+  {
+    "id": "2515",
+    "cityId": "155",
+    "name": "Curug Bitung"
+  },
+  {
+    "id": "2516",
+    "cityId": "155",
+    "name": "Cimarga"
+  },
+  {
+    "id": "2517",
+    "cityId": "155",
+    "name": "Rangkasbitung"
+  },
+  {
+    "id": "2518",
+    "cityId": "155",
+    "name": "Kalanganyar"
+  },
+  {
+    "id": "2519",
+    "cityId": "155",
+    "name": "Maja"
+  },
+  {
+    "id": "2520",
+    "cityId": "155",
+    "name": "Cibadak"
+  },
+  {
+    "id": "2521",
+    "cityId": "155",
+    "name": "Warunggunung"
+  },
+  {
+    "id": "2286",
+    "cityId": "160",
+    "name": "Jambe"
+  },
+  {
+    "id": "2289",
+    "cityId": "160",
+    "name": "Legok"
+  },
+  {
+    "id": "2291",
+    "cityId": "160",
+    "name": "Teluknaga"
+  },
+  {
+    "id": "2293",
+    "cityId": "160",
+    "name": "Sindang Jaya"
+  },
+  {
+    "id": "2295",
+    "cityId": "160",
+    "name": "Kronjo"
+  },
+  {
+    "id": "2296",
+    "cityId": "160",
+    "name": "Balaraja"
+  },
+  {
+    "id": "2303",
+    "cityId": "160",
+    "name": "Tigaraksa"
+  },
+  {
+    "id": "2304",
+    "cityId": "160",
+    "name": "Mauk"
+  },
+  {
+    "id": "2308",
+    "cityId": "160",
+    "name": "Kosambi"
+  },
+  {
+    "id": "2309",
+    "cityId": "160",
+    "name": "Kelapa Dua"
+  },
+  {
+    "id": "2310",
+    "cityId": "160",
+    "name": "Sukamulya"
+  },
+  {
+    "id": "2312",
+    "cityId": "160",
+    "name": "Curug"
+  },
+  {
+    "id": "2313",
+    "cityId": "160",
+    "name": "Cikupa"
+  },
+  {
+    "id": "2314",
+    "cityId": "160",
+    "name": "Cisoka"
+  },
+  {
+    "id": "2315",
+    "cityId": "160",
+    "name": "Pakuhaji"
+  },
+  {
+    "id": "2317",
+    "cityId": "160",
+    "name": "Sukadiri"
+  },
+  {
+    "id": "2322",
+    "cityId": "160",
+    "name": "Panongan"
+  },
+  {
+    "id": "2325",
+    "cityId": "160",
+    "name": "Gunung Kaler"
+  },
+  {
+    "id": "2326",
+    "cityId": "160",
+    "name": "Cisauk"
+  },
+  {
+    "id": "2327",
+    "cityId": "160",
+    "name": "Pagedangan"
+  },
+  {
+    "id": "2331",
+    "cityId": "160",
+    "name": "Mekar Baru"
+  },
+  {
+    "id": "2332",
+    "cityId": "160",
+    "name": "Jayanti"
+  },
+  {
+    "id": "2333",
+    "cityId": "160",
+    "name": "Solear"
+  },
+  {
+    "id": "2341",
+    "cityId": "160",
+    "name": "Rajeg"
+  },
+  {
+    "id": "2343",
+    "cityId": "160",
+    "name": "Pasar Kemis"
+  },
+  {
+    "id": "2344",
+    "cityId": "160",
+    "name": "Sepatan Timur"
+  },
+  {
+    "id": "2347",
+    "cityId": "160",
+    "name": "Kresek"
+  },
+  {
+    "id": "2467",
+    "cityId": "160",
+    "name": "Kemiri"
+  },
+  {
+    "id": "2468",
+    "cityId": "160",
+    "name": "Sepatan"
+  },
+  {
+    "id": "2290",
+    "cityId": "161",
+    "name": "Setu"
+  },
+  {
+    "id": "2297",
+    "cityId": "161",
+    "name": "Pamulang"
+  },
+  {
+    "id": "2316",
+    "cityId": "161",
+    "name": "Serpong"
+  },
+  {
+    "id": "2321",
+    "cityId": "161",
+    "name": "Ciputat Timur"
+  },
+  {
+    "id": "2339",
+    "cityId": "161",
+    "name": "Ciputat"
+  },
+  {
+    "id": "2346",
+    "cityId": "161",
+    "name": "Serpong Utara"
+  },
+  {
+    "id": "2348",
+    "cityId": "161",
+    "name": "Pondok Aren"
+  },
+  {
+    "id": "2294",
+    "cityId": "162",
+    "name": "Cilegon"
+  },
+  {
+    "id": "2300",
+    "cityId": "162",
+    "name": "Ciwandan"
+  },
+  {
+    "id": "2318",
+    "cityId": "162",
+    "name": "Cibeber"
+  },
+  {
+    "id": "2340",
+    "cityId": "162",
+    "name": "Citangkil"
+  },
+  {
+    "id": "2342",
+    "cityId": "162",
+    "name": "Jombang"
+  },
+  {
+    "id": "2345",
+    "cityId": "162",
+    "name": "Gerogol"
+  },
+  {
+    "id": "2469",
+    "cityId": "162",
+    "name": "Purwakarta"
+  },
+  {
+    "id": "2470",
+    "cityId": "162",
+    "name": "Pulomerak"
+  },
+  {
+    "id": "2299",
+    "cityId": "163",
+    "name": "Cipocok Jaya"
+  },
+  {
+    "id": "2311",
+    "cityId": "163",
+    "name": "Kasemen"
+  },
+  {
+    "id": "2330",
+    "cityId": "163",
+    "name": "Walantaka"
+  },
+  {
+    "id": "2336",
+    "cityId": "163",
+    "name": "Curug"
+  },
+  {
+    "id": "2337",
+    "cityId": "163",
+    "name": "Taktakan"
+  },
+  {
+    "id": "2338",
+    "cityId": "163",
+    "name": "Serang"
+  },
+  {
+    "id": "6848",
+    "cityId": "494",
+    "name": "Tangerang"
+  },
+  {
+    "id": "6849",
+    "cityId": "494",
+    "name": "Jatiuwung"
+  },
+  {
+    "id": "6850",
+    "cityId": "494",
+    "name": "Batuceper"
+  },
+  {
+    "id": "6851",
+    "cityId": "494",
+    "name": "Benda"
+  },
+  {
+    "id": "6861",
+    "cityId": "494",
+    "name": "Cipondoh"
+  },
+  {
+    "id": "6862",
+    "cityId": "494",
+    "name": "Ciledug"
+  },
+  {
+    "id": "6863",
+    "cityId": "494",
+    "name": "Karawaci"
+  },
+  {
+    "id": "6864",
+    "cityId": "494",
+    "name": "Periuk"
+  },
+  {
+    "id": "6865",
+    "cityId": "494",
+    "name": "Cibodas"
+  },
+  {
+    "id": "6866",
+    "cityId": "494",
+    "name": "Neglasari"
+  },
+  {
+    "id": "6867",
+    "cityId": "494",
+    "name": "Pinang"
+  },
+  {
+    "id": "6868",
+    "cityId": "494",
+    "name": "Karang Tengah"
+  },
+  {
+    "id": "6869",
+    "cityId": "494",
+    "name": "Larangan"
+  }
+]

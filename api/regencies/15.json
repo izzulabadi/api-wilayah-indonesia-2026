@@ -1,0 +1,32 @@
+[
+  {
+    "id": "176",
+    "provinceId": "15",
+    "name": "Kota Administrasi Jakarta Utara"
+  },
+  {
+    "id": "177",
+    "provinceId": "15",
+    "name": "Kota Administrasi Jakarta Barat"
+  },
+  {
+    "id": "178",
+    "provinceId": "15",
+    "name": "Kota Administrasi Jakarta Timur"
+  },
+  {
+    "id": "179",
+    "provinceId": "15",
+    "name": "Kota Administrasi Jakarta Selatan"
+  },
+  {
+    "id": "180",
+    "provinceId": "15",
+    "name": "Kota Administrasi Jakarta Pusat"
+  },
+  {
+    "id": "181",
+    "provinceId": "15",
+    "name": "Administrasi Kepulauan Seribu"
+  }
+]

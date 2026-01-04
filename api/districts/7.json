@@ -1,0 +1,1557 @@
+[
+  {
+    "id": "1579",
+    "cityId": "107",
+    "name": "Liukang Tangaya"
+  },
+  {
+    "id": "3308",
+    "cityId": "107",
+    "name": "Liukang Kalmas"
+  },
+  {
+    "id": "3447",
+    "cityId": "107",
+    "name": "Segeri"
+  },
+  {
+    "id": "3470",
+    "cityId": "107",
+    "name": "Labakkang"
+  },
+  {
+    "id": "3489",
+    "cityId": "107",
+    "name": "Mandalle"
+  },
+  {
+    "id": "3509",
+    "cityId": "107",
+    "name": "Bungoro"
+  },
+  {
+    "id": "3527",
+    "cityId": "107",
+    "name": "Tondong Tallasa"
+  },
+  {
+    "id": "3594",
+    "cityId": "107",
+    "name": "Minasa Tene"
+  },
+  {
+    "id": "3606",
+    "cityId": "107",
+    "name": "Pangkajene"
+  },
+  {
+    "id": "3609",
+    "cityId": "107",
+    "name": "Marang"
+  },
+  {
+    "id": "3616",
+    "cityId": "107",
+    "name": "Balocci"
+  },
+  {
+    "id": "3646",
+    "cityId": "107",
+    "name": "Liukang Tupabbiring"
+  },
+  {
+    "id": "3656",
+    "cityId": "107",
+    "name": "Liukang Tupabbiring Utara"
+  },
+  {
+    "id": "3440",
+    "cityId": "232",
+    "name": "Lanrisang"
+  },
+  {
+    "id": "3461",
+    "cityId": "232",
+    "name": "Duampanua"
+  },
+  {
+    "id": "3465",
+    "cityId": "232",
+    "name": "Lembang"
+  },
+  {
+    "id": "3474",
+    "cityId": "232",
+    "name": "Batu Lappa"
+  },
+  {
+    "id": "3565",
+    "cityId": "232",
+    "name": "Mattiro Bulu"
+  },
+  {
+    "id": "3626",
+    "cityId": "232",
+    "name": "Patampanua"
+  },
+  {
+    "id": "3627",
+    "cityId": "232",
+    "name": "Paleteang"
+  },
+  {
+    "id": "3629",
+    "cityId": "232",
+    "name": "Watang Sawito"
+  },
+  {
+    "id": "3639",
+    "cityId": "232",
+    "name": "Cempa"
+  },
+  {
+    "id": "3644",
+    "cityId": "232",
+    "name": "Matirro Sompe"
+  },
+  {
+    "id": "3645",
+    "cityId": "232",
+    "name": "Tiroang"
+  },
+  {
+    "id": "3648",
+    "cityId": "232",
+    "name": "Suppa"
+  },
+  {
+    "id": "3441",
+    "cityId": "233",
+    "name": "Sajoanging"
+  },
+  {
+    "id": "3471",
+    "cityId": "233",
+    "name": "Pitumpanua"
+  },
+  {
+    "id": "3490",
+    "cityId": "233",
+    "name": "Penrang"
+  },
+  {
+    "id": "3495",
+    "cityId": "233",
+    "name": "Sabangparu"
+  },
+  {
+    "id": "3515",
+    "cityId": "233",
+    "name": "Bola"
+  },
+  {
+    "id": "3555",
+    "cityId": "233",
+    "name": "Takkalalla"
+  },
+  {
+    "id": "3556",
+    "cityId": "233",
+    "name": "Majauleng"
+  },
+  {
+    "id": "3583",
+    "cityId": "233",
+    "name": "Keera"
+  },
+  {
+    "id": "3592",
+    "cityId": "233",
+    "name": "Tanasitolo"
+  },
+  {
+    "id": "3595",
+    "cityId": "233",
+    "name": "Maniangpajo"
+  },
+  {
+    "id": "3599",
+    "cityId": "233",
+    "name": "Pammana"
+  },
+  {
+    "id": "3608",
+    "cityId": "233",
+    "name": "Tempe"
+  },
+  {
+    "id": "3624",
+    "cityId": "233",
+    "name": "Belawa"
+  },
+  {
+    "id": "3641",
+    "cityId": "233",
+    "name": "Gilireng"
+  },
+  {
+    "id": "3442",
+    "cityId": "234",
+    "name": "Galesong Selatan"
+  },
+  {
+    "id": "3463",
+    "cityId": "234",
+    "name": "Polombangkeng Utara"
+  },
+  {
+    "id": "3513",
+    "cityId": "234",
+    "name": "Galesong"
+  },
+  {
+    "id": "3543",
+    "cityId": "234",
+    "name": "Galesong Utara"
+  },
+  {
+    "id": "3548",
+    "cityId": "234",
+    "name": "Mangarabombang"
+  },
+  {
+    "id": "3577",
+    "cityId": "234",
+    "name": "Polombangkeng Selatan"
+  },
+  {
+    "id": "3610",
+    "cityId": "234",
+    "name": "Pattallassang"
+  },
+  {
+    "id": "3647",
+    "cityId": "234",
+    "name": "Mappakasunggu"
+  },
+  {
+    "id": "3653",
+    "cityId": "234",
+    "name": "Kepulauan Tanakeke"
+  },
+  {
+    "id": "3658",
+    "cityId": "234",
+    "name": "Sanrobone"
+  },
+  {
+    "id": "3443",
+    "cityId": "235",
+    "name": "Sinjai Barat"
+  },
+  {
+    "id": "3453",
+    "cityId": "235",
+    "name": "Sinjai Tengah"
+  },
+  {
+    "id": "3472",
+    "cityId": "235",
+    "name": "Sinjai Borong"
+  },
+  {
+    "id": "3511",
+    "cityId": "235",
+    "name": "Sinjai Timur"
+  },
+  {
+    "id": "3557",
+    "cityId": "235",
+    "name": "Tellu Limpoe"
+  },
+  {
+    "id": "3561",
+    "cityId": "235",
+    "name": "Sinjai Selatan"
+  },
+  {
+    "id": "3562",
+    "cityId": "235",
+    "name": "Bulupoddo"
+  },
+  {
+    "id": "3604",
+    "cityId": "235",
+    "name": "Sinjai Utara"
+  },
+  {
+    "id": "3659",
+    "cityId": "235",
+    "name": "Pulau Sembilan"
+  },
+  {
+    "id": "3444",
+    "cityId": "236",
+    "name": "Bontomatene"
+  },
+  {
+    "id": "3462",
+    "cityId": "236",
+    "name": "Bontomanai"
+  },
+  {
+    "id": "3467",
+    "cityId": "236",
+    "name": "Taka Bonerate"
+  },
+  {
+    "id": "3506",
+    "cityId": "236",
+    "name": "Bontosikuyu"
+  },
+  {
+    "id": "3539",
+    "cityId": "236",
+    "name": "Bontoharu"
+  },
+  {
+    "id": "3545",
+    "cityId": "236",
+    "name": "Buki"
+  },
+  {
+    "id": "3625",
+    "cityId": "236",
+    "name": "Benteng"
+  },
+  {
+    "id": "3678",
+    "cityId": "236",
+    "name": "Pasimarannu"
+  },
+  {
+    "id": "3679",
+    "cityId": "236",
+    "name": "Pasimasunggu Timur"
+  },
+  {
+    "id": "3680",
+    "cityId": "236",
+    "name": "Pasimasunggu"
+  },
+  {
+    "id": "3681",
+    "cityId": "236",
+    "name": "Pasilambena"
+  },
+  {
+    "id": "3445",
+    "cityId": "237",
+    "name": "Bontoramba"
+  },
+  {
+    "id": "3498",
+    "cityId": "237",
+    "name": "Bangkala Barat"
+  },
+  {
+    "id": "3533",
+    "cityId": "237",
+    "name": "Turatea"
+  },
+  {
+    "id": "3537",
+    "cityId": "237",
+    "name": "Tarowang"
+  },
+  {
+    "id": "3541",
+    "cityId": "237",
+    "name": "Rumbia"
+  },
+  {
+    "id": "3542",
+    "cityId": "237",
+    "name": "Tamalatea"
+  },
+  {
+    "id": "3544",
+    "cityId": "237",
+    "name": "Kelara"
+  },
+  {
+    "id": "3547",
+    "cityId": "237",
+    "name": "Bangkala"
+  },
+  {
+    "id": "3553",
+    "cityId": "237",
+    "name": "Arungkeke"
+  },
+  {
+    "id": "3567",
+    "cityId": "237",
+    "name": "Batang"
+  },
+  {
+    "id": "3613",
+    "cityId": "237",
+    "name": "Binamu"
+  },
+  {
+    "id": "3446",
+    "cityId": "238",
+    "name": "Bontonompo"
+  },
+  {
+    "id": "3478",
+    "cityId": "238",
+    "name": "Biringbulu"
+  },
+  {
+    "id": "3485",
+    "cityId": "238",
+    "name": "Parangloe"
+  },
+  {
+    "id": "3503",
+    "cityId": "238",
+    "name": "Manuju"
+  },
+  {
+    "id": "3504",
+    "cityId": "238",
+    "name": "Parigi"
+  },
+  {
+    "id": "3505",
+    "cityId": "238",
+    "name": "Bontomarannu"
+  },
+  {
+    "id": "3510",
+    "cityId": "238",
+    "name": "Barombong"
+  },
+  {
+    "id": "3512",
+    "cityId": "238",
+    "name": "Bungaya"
+  },
+  {
+    "id": "3517",
+    "cityId": "238",
+    "name": "Tombolopao"
+  },
+  {
+    "id": "3519",
+    "cityId": "238",
+    "name": "Bajeng"
+  },
+  {
+    "id": "3538",
+    "cityId": "238",
+    "name": "Palangga"
+  },
+  {
+    "id": "3540",
+    "cityId": "238",
+    "name": "Tompobullu"
+  },
+  {
+    "id": "3546",
+    "cityId": "238",
+    "name": "Bontolempangang"
+  },
+  {
+    "id": "3549",
+    "cityId": "238",
+    "name": "Bajeng Barat"
+  },
+  {
+    "id": "3550",
+    "cityId": "238",
+    "name": "Bontonompo Selatan"
+  },
+  {
+    "id": "3554",
+    "cityId": "238",
+    "name": "Pattalasang"
+  },
+  {
+    "id": "3623",
+    "cityId": "238",
+    "name": "Somba Opu"
+  },
+  {
+    "id": "3632",
+    "cityId": "238",
+    "name": "Tinggimoncong"
+  },
+  {
+    "id": "3448",
+    "cityId": "239",
+    "name": "Lilirilau"
+  },
+  {
+    "id": "3487",
+    "cityId": "239",
+    "name": "Ganra"
+  },
+  {
+    "id": "3563",
+    "cityId": "239",
+    "name": "Marioriawa"
+  },
+  {
+    "id": "3584",
+    "cityId": "239",
+    "name": "Citta"
+  },
+  {
+    "id": "3585",
+    "cityId": "239",
+    "name": "Marioriwawo"
+  },
+  {
+    "id": "3589",
+    "cityId": "239",
+    "name": "Donri Donri"
+  },
+  {
+    "id": "3593",
+    "cityId": "239",
+    "name": "Liliraja"
+  },
+  {
+    "id": "3630",
+    "cityId": "239",
+    "name": "Lalabata"
+  },
+  {
+    "id": "3449",
+    "cityId": "240",
+    "name": "Maiwa"
+  },
+  {
+    "id": "3450",
+    "cityId": "240",
+    "name": "Baroko"
+  },
+  {
+    "id": "3464",
+    "cityId": "240",
+    "name": "Bungin"
+  },
+  {
+    "id": "3473",
+    "cityId": "240",
+    "name": "Masalle"
+  },
+  {
+    "id": "3480",
+    "cityId": "240",
+    "name": "Anggeraja"
+  },
+  {
+    "id": "3516",
+    "cityId": "240",
+    "name": "Alla"
+  },
+  {
+    "id": "3520",
+    "cityId": "240",
+    "name": "Baraka"
+  },
+  {
+    "id": "3524",
+    "cityId": "240",
+    "name": "Malua"
+  },
+  {
+    "id": "3569",
+    "cityId": "240",
+    "name": "Curio"
+  },
+  {
+    "id": "3573",
+    "cityId": "240",
+    "name": "Buntu Batu"
+  },
+  {
+    "id": "3576",
+    "cityId": "240",
+    "name": "Enrekang"
+  },
+  {
+    "id": "3578",
+    "cityId": "240",
+    "name": "Cendana"
+  },
+  {
+    "id": "3451",
+    "cityId": "241",
+    "name": "Gantorang"
+  },
+  {
+    "id": "3459",
+    "cityId": "241",
+    "name": "Bulukumpa"
+  },
+  {
+    "id": "3468",
+    "cityId": "241",
+    "name": "Bonto Tiro"
+  },
+  {
+    "id": "3477",
+    "cityId": "241",
+    "name": "Rilauale"
+  },
+  {
+    "id": "3479",
+    "cityId": "241",
+    "name": "Kajang"
+  },
+  {
+    "id": "3496",
+    "cityId": "241",
+    "name": "Kindang"
+  },
+  {
+    "id": "3500",
+    "cityId": "241",
+    "name": "Ujungloe"
+  },
+  {
+    "id": "3508",
+    "cityId": "241",
+    "name": "Bonto Bahari"
+  },
+  {
+    "id": "3552",
+    "cityId": "241",
+    "name": "Herlang"
+  },
+  {
+    "id": "3628",
+    "cityId": "241",
+    "name": "Ujung Bulu"
+  },
+  {
+    "id": "3452",
+    "cityId": "242",
+    "name": "Bua"
+  },
+  {
+    "id": "3466",
+    "cityId": "242",
+    "name": "Ponrang Selatan"
+  },
+  {
+    "id": "3518",
+    "cityId": "242",
+    "name": "Basse Sangtempe"
+  },
+  {
+    "id": "3521",
+    "cityId": "242",
+    "name": "Bajo Barat"
+  },
+  {
+    "id": "3522",
+    "cityId": "242",
+    "name": "Latimojong"
+  },
+  {
+    "id": "3523",
+    "cityId": "242",
+    "name": "Basse Sangtempe Utara"
+  },
+  {
+    "id": "3568",
+    "cityId": "242",
+    "name": "Bajo"
+  },
+  {
+    "id": "3570",
+    "cityId": "242",
+    "name": "Suli Barat"
+  },
+  {
+    "id": "3571",
+    "cityId": "242",
+    "name": "Bua Ponrang"
+  },
+  {
+    "id": "3572",
+    "cityId": "242",
+    "name": "Ponrang"
+  },
+  {
+    "id": "4138",
+    "cityId": "242",
+    "name": "Lamasi"
+  },
+  {
+    "id": "4139",
+    "cityId": "242",
+    "name": "Larompong Selatan"
+  },
+  {
+    "id": "4140",
+    "cityId": "242",
+    "name": "Belopa"
+  },
+  {
+    "id": "4141",
+    "cityId": "242",
+    "name": "Walenrang"
+  },
+  {
+    "id": "4142",
+    "cityId": "242",
+    "name": "Walenrang Utara"
+  },
+  {
+    "id": "4143",
+    "cityId": "242",
+    "name": "Larompong"
+  },
+  {
+    "id": "4144",
+    "cityId": "242",
+    "name": "Suli"
+  },
+  {
+    "id": "4145",
+    "cityId": "242",
+    "name": "Lamasi Timur"
+  },
+  {
+    "id": "4146",
+    "cityId": "242",
+    "name": "Kamanre"
+  },
+  {
+    "id": "4147",
+    "cityId": "242",
+    "name": "Walenrang Barat"
+  },
+  {
+    "id": "4148",
+    "cityId": "242",
+    "name": "Walenrang Timur"
+  },
+  {
+    "id": "4149",
+    "cityId": "242",
+    "name": "Belopa Utara"
+  },
+  {
+    "id": "3454",
+    "cityId": "243",
+    "name": "Eremerasa"
+  },
+  {
+    "id": "3455",
+    "cityId": "243",
+    "name": "Pajukukang"
+  },
+  {
+    "id": "3525",
+    "cityId": "243",
+    "name": "Tompo Bulu"
+  },
+  {
+    "id": "3528",
+    "cityId": "243",
+    "name": "Sinoa"
+  },
+  {
+    "id": "3530",
+    "cityId": "243",
+    "name": "Bissappu"
+  },
+  {
+    "id": "3531",
+    "cityId": "243",
+    "name": "Uluere"
+  },
+  {
+    "id": "3596",
+    "cityId": "243",
+    "name": "Gantarang Keke"
+  },
+  {
+    "id": "3602",
+    "cityId": "243",
+    "name": "Bantaeng"
+  },
+  {
+    "id": "3456",
+    "cityId": "244",
+    "name": "Bantimurung"
+  },
+  {
+    "id": "3460",
+    "cityId": "244",
+    "name": "Malllawa"
+  },
+  {
+    "id": "3488",
+    "cityId": "244",
+    "name": "Camba"
+  },
+  {
+    "id": "3494",
+    "cityId": "244",
+    "name": "Tompobulu"
+  },
+  {
+    "id": "3526",
+    "cityId": "244",
+    "name": "Bontoa"
+  },
+  {
+    "id": "3529",
+    "cityId": "244",
+    "name": "Moncong Loe"
+  },
+  {
+    "id": "3532",
+    "cityId": "244",
+    "name": "Lau"
+  },
+  {
+    "id": "3534",
+    "cityId": "244",
+    "name": "Mandai"
+  },
+  {
+    "id": "3535",
+    "cityId": "244",
+    "name": "Marusu"
+  },
+  {
+    "id": "3536",
+    "cityId": "244",
+    "name": "Simbang"
+  },
+  {
+    "id": "3551",
+    "cityId": "244",
+    "name": "Maros Baru"
+  },
+  {
+    "id": "3582",
+    "cityId": "244",
+    "name": "Cenrana"
+  },
+  {
+    "id": "3587",
+    "cityId": "244",
+    "name": "Tanralili"
+  },
+  {
+    "id": "3603",
+    "cityId": "244",
+    "name": "Turikale"
+  },
+  {
+    "id": "3457",
+    "cityId": "245",
+    "name": "Towuti"
+  },
+  {
+    "id": "3458",
+    "cityId": "245",
+    "name": "Malili"
+  },
+  {
+    "id": "3483",
+    "cityId": "245",
+    "name": "Wotu"
+  },
+  {
+    "id": "3484",
+    "cityId": "245",
+    "name": "Tomoni"
+  },
+  {
+    "id": "3492",
+    "cityId": "245",
+    "name": "Burau"
+  },
+  {
+    "id": "3579",
+    "cityId": "245",
+    "name": "Tomoni Timur"
+  },
+  {
+    "id": "3650",
+    "cityId": "245",
+    "name": "Angkona"
+  },
+  {
+    "id": "3651",
+    "cityId": "245",
+    "name": "Wasuponda"
+  },
+  {
+    "id": "3655",
+    "cityId": "245",
+    "name": "Mangkutana"
+  },
+  {
+    "id": "3657",
+    "cityId": "245",
+    "name": "Nuha"
+  },
+  {
+    "id": "3660",
+    "cityId": "245",
+    "name": "Kalaena"
+  },
+  {
+    "id": "3469",
+    "cityId": "246",
+    "name": "Bone Bone"
+  },
+  {
+    "id": "3476",
+    "cityId": "246",
+    "name": "Sabbang Selatan"
+  },
+  {
+    "id": "3491",
+    "cityId": "246",
+    "name": "Malangke"
+  },
+  {
+    "id": "3493",
+    "cityId": "246",
+    "name": "Mappedeceng"
+  },
+  {
+    "id": "3497",
+    "cityId": "246",
+    "name": "Baebunta Selatan"
+  },
+  {
+    "id": "3564",
+    "cityId": "246",
+    "name": "Baebunta"
+  },
+  {
+    "id": "3566",
+    "cityId": "246",
+    "name": "Tana Lili"
+  },
+  {
+    "id": "3574",
+    "cityId": "246",
+    "name": "Sabbang"
+  },
+  {
+    "id": "3580",
+    "cityId": "246",
+    "name": "Malangke Barat"
+  },
+  {
+    "id": "3597",
+    "cityId": "246",
+    "name": "Sukamaju"
+  },
+  {
+    "id": "3598",
+    "cityId": "246",
+    "name": "Masamba"
+  },
+  {
+    "id": "3649",
+    "cityId": "246",
+    "name": "Limbong"
+  },
+  {
+    "id": "3652",
+    "cityId": "246",
+    "name": "Sukamaju Selatan"
+  },
+  {
+    "id": "6831",
+    "cityId": "246",
+    "name": "Seko"
+  },
+  {
+    "id": "7211",
+    "cityId": "246",
+    "name": "Rampi"
+  },
+  {
+    "id": "3475",
+    "cityId": "247",
+    "name": "Saluputi"
+  },
+  {
+    "id": "3482",
+    "cityId": "247",
+    "name": "Bittuang"
+  },
+  {
+    "id": "3486",
+    "cityId": "247",
+    "name": "Masanda"
+  },
+  {
+    "id": "3575",
+    "cityId": "247",
+    "name": "Mappak"
+  },
+  {
+    "id": "3617",
+    "cityId": "247",
+    "name": "Kurra"
+  },
+  {
+    "id": "3654",
+    "cityId": "247",
+    "name": "Simbuang"
+  },
+  {
+    "id": "3670",
+    "cityId": "247",
+    "name": "Bonggakaradeng"
+  },
+  {
+    "id": "3671",
+    "cityId": "247",
+    "name": "Gandangbatu Sillanan"
+  },
+  {
+    "id": "3672",
+    "cityId": "247",
+    "name": "Mengkendek"
+  },
+  {
+    "id": "3673",
+    "cityId": "247",
+    "name": "Rano"
+  },
+  {
+    "id": "3674",
+    "cityId": "247",
+    "name": "Makale Selatan"
+  },
+  {
+    "id": "3675",
+    "cityId": "247",
+    "name": "Sangalla Selatan"
+  },
+  {
+    "id": "3676",
+    "cityId": "247",
+    "name": "Rembon"
+  },
+  {
+    "id": "3677",
+    "cityId": "247",
+    "name": "Makale"
+  },
+  {
+    "id": "4133",
+    "cityId": "247",
+    "name": "Sangalla"
+  },
+  {
+    "id": "4134",
+    "cityId": "247",
+    "name": "Sangalla Utara"
+  },
+  {
+    "id": "4135",
+    "cityId": "247",
+    "name": "Malimbong Balepe"
+  },
+  {
+    "id": "4136",
+    "cityId": "247",
+    "name": "Makale Utara"
+  },
+  {
+    "id": "4137",
+    "cityId": "247",
+    "name": "Rantetayo"
+  },
+  {
+    "id": "3481",
+    "cityId": "248",
+    "name": "Soppeng Riaja"
+  },
+  {
+    "id": "3507",
+    "cityId": "248",
+    "name": "Balusu"
+  },
+  {
+    "id": "3514",
+    "cityId": "248",
+    "name": "Mallusetasi"
+  },
+  {
+    "id": "3560",
+    "cityId": "248",
+    "name": "Pujananting"
+  },
+  {
+    "id": "3586",
+    "cityId": "248",
+    "name": "Tanete Rilau"
+  },
+  {
+    "id": "3590",
+    "cityId": "248",
+    "name": "Barru"
+  },
+  {
+    "id": "3591",
+    "cityId": "248",
+    "name": "Tanete Riaja"
+  },
+  {
+    "id": "3499",
+    "cityId": "249",
+    "name": "Pitu Riawa"
+  },
+  {
+    "id": "3501",
+    "cityId": "249",
+    "name": "Dua Pitue"
+  },
+  {
+    "id": "3502",
+    "cityId": "249",
+    "name": "Pitu Riase"
+  },
+  {
+    "id": "3558",
+    "cityId": "249",
+    "name": "Watang Pulu"
+  },
+  {
+    "id": "3559",
+    "cityId": "249",
+    "name": "Panca Rijang"
+  },
+  {
+    "id": "3581",
+    "cityId": "249",
+    "name": "Panca Lautang"
+  },
+  {
+    "id": "3588",
+    "cityId": "249",
+    "name": "Watang Sidenreng"
+  },
+  {
+    "id": "3600",
+    "cityId": "249",
+    "name": "Kulo"
+  },
+  {
+    "id": "3601",
+    "cityId": "249",
+    "name": "Maritengngae"
+  },
+  {
+    "id": "3605",
+    "cityId": "249",
+    "name": "Tellu Limpoe"
+  },
+  {
+    "id": "3619",
+    "cityId": "249",
+    "name": "Baranti"
+  },
+  {
+    "id": "3607",
+    "cityId": "250",
+    "name": "Manggala"
+  },
+  {
+    "id": "3611",
+    "cityId": "250",
+    "name": "Mamajang"
+  },
+  {
+    "id": "3612",
+    "cityId": "250",
+    "name": "Biringkanaya"
+  },
+  {
+    "id": "3614",
+    "cityId": "250",
+    "name": "Tamalate"
+  },
+  {
+    "id": "3615",
+    "cityId": "250",
+    "name": "Rappocini"
+  },
+  {
+    "id": "3618",
+    "cityId": "250",
+    "name": "Makassar"
+  },
+  {
+    "id": "3620",
+    "cityId": "250",
+    "name": "Bontoala"
+  },
+  {
+    "id": "3621",
+    "cityId": "250",
+    "name": "Kepulauan Sangkarrang"
+  },
+  {
+    "id": "3622",
+    "cityId": "250",
+    "name": "Ujung Pandang"
+  },
+  {
+    "id": "3631",
+    "cityId": "250",
+    "name": "Tamalanrea"
+  },
+  {
+    "id": "3633",
+    "cityId": "250",
+    "name": "Mariso"
+  },
+  {
+    "id": "3635",
+    "cityId": "250",
+    "name": "Tallo"
+  },
+  {
+    "id": "3637",
+    "cityId": "250",
+    "name": "Wajo"
+  },
+  {
+    "id": "3638",
+    "cityId": "250",
+    "name": "Ujung Tanah"
+  },
+  {
+    "id": "3642",
+    "cityId": "250",
+    "name": "Panakkukang"
+  },
+  {
+    "id": "3634",
+    "cityId": "251",
+    "name": "Soreang"
+  },
+  {
+    "id": "3636",
+    "cityId": "251",
+    "name": "Bacukiki Barat"
+  },
+  {
+    "id": "3640",
+    "cityId": "251",
+    "name": "Bacukiki"
+  },
+  {
+    "id": "3643",
+    "cityId": "251",
+    "name": "Ujung"
+  },
+  {
+    "id": "3661",
+    "cityId": "252",
+    "name": "Sendana"
+  },
+  {
+    "id": "3662",
+    "cityId": "252",
+    "name": "Wara Selatan"
+  },
+  {
+    "id": "3663",
+    "cityId": "252",
+    "name": "Mungkajang"
+  },
+  {
+    "id": "3664",
+    "cityId": "252",
+    "name": "Wara"
+  },
+  {
+    "id": "3665",
+    "cityId": "252",
+    "name": "Wara Timur"
+  },
+  {
+    "id": "3666",
+    "cityId": "252",
+    "name": "Wara Barat"
+  },
+  {
+    "id": "3667",
+    "cityId": "252",
+    "name": "Wara Utara"
+  },
+  {
+    "id": "3668",
+    "cityId": "252",
+    "name": "Bara"
+  },
+  {
+    "id": "3669",
+    "cityId": "252",
+    "name": "Telluwanua"
+  },
+  {
+    "id": "4150",
+    "cityId": "293",
+    "name": "Rantebua"
+  },
+  {
+    "id": "4151",
+    "cityId": "293",
+    "name": "Buntao"
+  },
+  {
+    "id": "4152",
+    "cityId": "293",
+    "name": "Sanggalangi"
+  },
+  {
+    "id": "4153",
+    "cityId": "293",
+    "name": "Sopai"
+  },
+  {
+    "id": "4154",
+    "cityId": "293",
+    "name": "Kesu"
+  },
+  {
+    "id": "4155",
+    "cityId": "293",
+    "name": "Dende' Piongan Napo"
+  },
+  {
+    "id": "4156",
+    "cityId": "293",
+    "name": "Nanggala"
+  },
+  {
+    "id": "4157",
+    "cityId": "293",
+    "name": "Rantepao"
+  },
+  {
+    "id": "4158",
+    "cityId": "293",
+    "name": "Tallunglipu"
+  },
+  {
+    "id": "4159",
+    "cityId": "293",
+    "name": "Tondon"
+  },
+  {
+    "id": "4160",
+    "cityId": "293",
+    "name": "Kapala Pitu"
+  },
+  {
+    "id": "4161",
+    "cityId": "293",
+    "name": "Tikala"
+  },
+  {
+    "id": "4162",
+    "cityId": "293",
+    "name": "Sesean"
+  },
+  {
+    "id": "4163",
+    "cityId": "293",
+    "name": "Awan Rante Karua"
+  },
+  {
+    "id": "4164",
+    "cityId": "293",
+    "name": "Balusu"
+  },
+  {
+    "id": "4165",
+    "cityId": "293",
+    "name": "Rindingallo"
+  },
+  {
+    "id": "4166",
+    "cityId": "293",
+    "name": "Sesean Suloara"
+  },
+  {
+    "id": "4167",
+    "cityId": "293",
+    "name": "Bangkelekila"
+  },
+  {
+    "id": "4168",
+    "cityId": "293",
+    "name": "Sa'Dan"
+  },
+  {
+    "id": "4169",
+    "cityId": "293",
+    "name": "Buntu Pepasan"
+  },
+  {
+    "id": "4170",
+    "cityId": "293",
+    "name": "Baruppu"
+  },
+  {
+    "id": "4171",
+    "cityId": "294",
+    "name": "Awangpone"
+  },
+  {
+    "id": "4172",
+    "cityId": "294",
+    "name": "Kajuara"
+  },
+  {
+    "id": "4173",
+    "cityId": "294",
+    "name": "Cina"
+  },
+  {
+    "id": "4174",
+    "cityId": "294",
+    "name": "Cenrana"
+  },
+  {
+    "id": "4175",
+    "cityId": "294",
+    "name": "Sibulue"
+  },
+  {
+    "id": "4176",
+    "cityId": "294",
+    "name": "Amali"
+  },
+  {
+    "id": "4177",
+    "cityId": "294",
+    "name": "Tellu Siattinge"
+  },
+  {
+    "id": "4178",
+    "cityId": "294",
+    "name": "Ajangale"
+  },
+  {
+    "id": "4179",
+    "cityId": "294",
+    "name": "Kahu"
+  },
+  {
+    "id": "4180",
+    "cityId": "294",
+    "name": "Tonra"
+  },
+  {
+    "id": "4181",
+    "cityId": "294",
+    "name": "Barebbo"
+  },
+  {
+    "id": "4182",
+    "cityId": "294",
+    "name": "Palakka"
+  },
+  {
+    "id": "4183",
+    "cityId": "294",
+    "name": "Bontocani"
+  },
+  {
+    "id": "4184",
+    "cityId": "294",
+    "name": "Lamuru"
+  },
+  {
+    "id": "4185",
+    "cityId": "294",
+    "name": "Libureng"
+  },
+  {
+    "id": "4186",
+    "cityId": "294",
+    "name": "Mare"
+  },
+  {
+    "id": "4187",
+    "cityId": "294",
+    "name": "Patimpeng"
+  },
+  {
+    "id": "4188",
+    "cityId": "294",
+    "name": "Tellulimpoe"
+  },
+  {
+    "id": "4189",
+    "cityId": "294",
+    "name": "Salomekko"
+  },
+  {
+    "id": "4190",
+    "cityId": "294",
+    "name": "Bengo"
+  },
+  {
+    "id": "4191",
+    "cityId": "294",
+    "name": "Ponre"
+  },
+  {
+    "id": "4192",
+    "cityId": "294",
+    "name": "Dua Boccoe"
+  },
+  {
+    "id": "4193",
+    "cityId": "294",
+    "name": "Ulaweng"
+  },
+  {
+    "id": "4194",
+    "cityId": "294",
+    "name": "Tanete Riattang Timur"
+  },
+  {
+    "id": "4195",
+    "cityId": "294",
+    "name": "Tanete Riattang"
+  },
+  {
+    "id": "4196",
+    "cityId": "294",
+    "name": "Tanete Riattang Barat"
+  },
+  {
+    "id": "4197",
+    "cityId": "294",
+    "name": "Lappariaja"
+  }
+]

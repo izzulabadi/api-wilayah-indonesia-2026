@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "provinceId": "1",
+    "name": "Sukabumi"
+  },
+  {
+    "id": "2",
+    "provinceId": "1",
+    "name": "Garut"
+  },
+  {
+    "id": "3",
+    "provinceId": "1",
+    "name": "Tasikmalaya"
+  },
+  {
+    "id": "4",
+    "provinceId": "1",
+    "name": "Majalengka"
+  },
+  {
+    "id": "5",
+    "provinceId": "1",
+    "name": "Pangandaran"
+  },
+  {
+    "id": "6",
+    "provinceId": "1",
+    "name": "Kota Tasikmalaya"
+  },
+  {
+    "id": "7",
+    "provinceId": "1",
+    "name": "Bandung Barat"
+  },
+  {
+    "id": "8",
+    "provinceId": "1",
+    "name": "Sumedang"
+  },
+  {
+    "id": "9",
+    "provinceId": "1",
+    "name": "Kota Sukabumi"
+  },
+  {
+    "id": "10",
+    "provinceId": "1",
+    "name": "Kota Bandung"
+  },
+  {
+    "id": "11",
+    "provinceId": "1",
+    "name": "Kota Banjar"
+  },
+  {
+    "id": "50",
+    "provinceId": "1",
+    "name": "Kuningan"
+  },
+  {
+    "id": "51",
+    "provinceId": "1",
+    "name": "Cianjur"
+  },
+  {
+    "id": "52",
+    "provinceId": "1",
+    "name": "Bandung"
+  },
+  {
+    "id": "53",
+    "provinceId": "1",
+    "name": "Ciamis"
+  },
+  {
+    "id": "164",
+    "provinceId": "1",
+    "name": "Indramayu"
+  },
+  {
+    "id": "165",
+    "provinceId": "1",
+    "name": "Cirebon"
+  },
+  {
+    "id": "166",
+    "provinceId": "1",
+    "name": "Kota Cirebon"
+  },
+  {
+    "id": "167",
+    "provinceId": "1",
+    "name": "Kota Depok"
+  },
+  {
+    "id": "168",
+    "provinceId": "1",
+    "name": "Karawang"
+  },
+  {
+    "id": "169",
+    "provinceId": "1",
+    "name": "Purwakarta"
+  },
+  {
+    "id": "170",
+    "provinceId": "1",
+    "name": "Bogor"
+  },
+  {
+    "id": "171",
+    "provinceId": "1",
+    "name": "Kota Cimahi"
+  },
+  {
+    "id": "172",
+    "provinceId": "1",
+    "name": "Kota Bekasi"
+  },
+  {
+    "id": "173",
+    "provinceId": "1",
+    "name": "Kota Bogor"
+  },
+  {
+    "id": "174",
+    "provinceId": "1",
+    "name": "Subang"
+  },
+  {
+    "id": "175",
+    "provinceId": "1",
+    "name": "Bekasi"
+  }
+]

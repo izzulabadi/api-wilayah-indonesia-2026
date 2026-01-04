@@ -1,0 +1,647 @@
+[
+  {
+    "id": "2052",
+    "cityId": "143",
+    "name": "Teramang Jaya"
+  },
+  {
+    "id": "2086",
+    "cityId": "143",
+    "name": "Air Rami"
+  },
+  {
+    "id": "2089",
+    "cityId": "143",
+    "name": "Penarik"
+  },
+  {
+    "id": "2095",
+    "cityId": "143",
+    "name": "Pondok Suguh"
+  },
+  {
+    "id": "2124",
+    "cityId": "143",
+    "name": "Xiv Koto"
+  },
+  {
+    "id": "2125",
+    "cityId": "143",
+    "name": "Air Dikit"
+  },
+  {
+    "id": "2129",
+    "cityId": "143",
+    "name": "Sungai Rumbai"
+  },
+  {
+    "id": "2130",
+    "cityId": "143",
+    "name": "Malin Deman"
+  },
+  {
+    "id": "2155",
+    "cityId": "143",
+    "name": "Teras Terunjam"
+  },
+  {
+    "id": "2164",
+    "cityId": "143",
+    "name": "Air Majunto"
+  },
+  {
+    "id": "2165",
+    "cityId": "143",
+    "name": "Kota Mukomuko"
+  },
+  {
+    "id": "2173",
+    "cityId": "143",
+    "name": "Selagan Raya"
+  },
+  {
+    "id": "2176",
+    "cityId": "143",
+    "name": "Ipuh"
+  },
+  {
+    "id": "2178",
+    "cityId": "143",
+    "name": "V Koto"
+  },
+  {
+    "id": "5627",
+    "cityId": "143",
+    "name": "Lubuk Pinang"
+  },
+  {
+    "id": "2053",
+    "cityId": "144",
+    "name": "Curup Tengah"
+  },
+  {
+    "id": "2059",
+    "cityId": "144",
+    "name": "Curup Utara"
+  },
+  {
+    "id": "2063",
+    "cityId": "144",
+    "name": "Kota Padang"
+  },
+  {
+    "id": "2065",
+    "cityId": "144",
+    "name": "Sindang Kelingi"
+  },
+  {
+    "id": "2066",
+    "cityId": "144",
+    "name": "Padang Ulak Tanding"
+  },
+  {
+    "id": "2067",
+    "cityId": "144",
+    "name": "Sindang Dataran"
+  },
+  {
+    "id": "2101",
+    "cityId": "144",
+    "name": "Selupu Rejang"
+  },
+  {
+    "id": "2118",
+    "cityId": "144",
+    "name": "Bermani Ulu Raya"
+  },
+  {
+    "id": "2120",
+    "cityId": "144",
+    "name": "Curup Timur"
+  },
+  {
+    "id": "2127",
+    "cityId": "144",
+    "name": "Curup"
+  },
+  {
+    "id": "2147",
+    "cityId": "144",
+    "name": "Sindang Beliti Ulu"
+  },
+  {
+    "id": "2151",
+    "cityId": "144",
+    "name": "Binduriang"
+  },
+  {
+    "id": "2153",
+    "cityId": "144",
+    "name": "Bermani Ulu"
+  },
+  {
+    "id": "2169",
+    "cityId": "144",
+    "name": "Sindang Beliti Ilir"
+  },
+  {
+    "id": "2175",
+    "cityId": "144",
+    "name": "Curup Selatan"
+  },
+  {
+    "id": "2054",
+    "cityId": "145",
+    "name": "Muara Kemumu"
+  },
+  {
+    "id": "2062",
+    "cityId": "145",
+    "name": "Seberang Musi"
+  },
+  {
+    "id": "2081",
+    "cityId": "145",
+    "name": "Kepahiang"
+  },
+  {
+    "id": "2083",
+    "cityId": "145",
+    "name": "Merigi"
+  },
+  {
+    "id": "2090",
+    "cityId": "145",
+    "name": "Bermani Ilir"
+  },
+  {
+    "id": "2093",
+    "cityId": "145",
+    "name": "Kebawetan"
+  },
+  {
+    "id": "2096",
+    "cityId": "145",
+    "name": "Ujan Mas"
+  },
+  {
+    "id": "2156",
+    "cityId": "145",
+    "name": "Tebat Karai"
+  },
+  {
+    "id": "2055",
+    "cityId": "146",
+    "name": "Ulu Manna"
+  },
+  {
+    "id": "2056",
+    "cityId": "146",
+    "name": "Pasar Manna"
+  },
+  {
+    "id": "2072",
+    "cityId": "146",
+    "name": "Pino"
+  },
+  {
+    "id": "2074",
+    "cityId": "146",
+    "name": "Kedurang Ilir"
+  },
+  {
+    "id": "2094",
+    "cityId": "146",
+    "name": "Kedurang"
+  },
+  {
+    "id": "2103",
+    "cityId": "146",
+    "name": "Pino Raya"
+  },
+  {
+    "id": "2110",
+    "cityId": "146",
+    "name": "Seginim"
+  },
+  {
+    "id": "2137",
+    "cityId": "146",
+    "name": "Kota Manna"
+  },
+  {
+    "id": "2141",
+    "cityId": "146",
+    "name": "Bunga Mas"
+  },
+  {
+    "id": "2146",
+    "cityId": "146",
+    "name": "Manna"
+  },
+  {
+    "id": "2158",
+    "cityId": "146",
+    "name": "Air Nipis"
+  },
+  {
+    "id": "2057",
+    "cityId": "147",
+    "name": "Hulu Palik"
+  },
+  {
+    "id": "2077",
+    "cityId": "147",
+    "name": "Batik Nau"
+  },
+  {
+    "id": "2084",
+    "cityId": "147",
+    "name": "Ulok Kupai"
+  },
+  {
+    "id": "2085",
+    "cityId": "147",
+    "name": "Pinang Raya"
+  },
+  {
+    "id": "2087",
+    "cityId": "147",
+    "name": "Ketahun"
+  },
+  {
+    "id": "2104",
+    "cityId": "147",
+    "name": "Putri Hijau"
+  },
+  {
+    "id": "2112",
+    "cityId": "147",
+    "name": "Lais"
+  },
+  {
+    "id": "2115",
+    "cityId": "147",
+    "name": "Air Besi"
+  },
+  {
+    "id": "2117",
+    "cityId": "147",
+    "name": "Kota Arga Makmur"
+  },
+  {
+    "id": "2132",
+    "cityId": "147",
+    "name": "Arma Jaya"
+  },
+  {
+    "id": "2138",
+    "cityId": "147",
+    "name": "Napal Putih"
+  },
+  {
+    "id": "2142",
+    "cityId": "147",
+    "name": "Giri Mulya"
+  },
+  {
+    "id": "2150",
+    "cityId": "147",
+    "name": "Enggano"
+  },
+  {
+    "id": "2157",
+    "cityId": "147",
+    "name": "Marga Sakti Sebelat"
+  },
+  {
+    "id": "2160",
+    "cityId": "147",
+    "name": "Kerkap"
+  },
+  {
+    "id": "2162",
+    "cityId": "147",
+    "name": "Air Padang"
+  },
+  {
+    "id": "2163",
+    "cityId": "147",
+    "name": "Tanjung Agung Palik"
+  },
+  {
+    "id": "2168",
+    "cityId": "147",
+    "name": "Padang Jaya"
+  },
+  {
+    "id": "2174",
+    "cityId": "147",
+    "name": "Air Napal"
+  },
+  {
+    "id": "2058",
+    "cityId": "148",
+    "name": "Nasal"
+  },
+  {
+    "id": "2068",
+    "cityId": "148",
+    "name": "Maje"
+  },
+  {
+    "id": "2070",
+    "cityId": "148",
+    "name": "Luas"
+  },
+  {
+    "id": "2071",
+    "cityId": "148",
+    "name": "Tanjung Kemuning"
+  },
+  {
+    "id": "2088",
+    "cityId": "148",
+    "name": "Muara Sahung"
+  },
+  {
+    "id": "2098",
+    "cityId": "148",
+    "name": "Semidang Gumay"
+  },
+  {
+    "id": "2099",
+    "cityId": "148",
+    "name": "Padang Guci Hulu"
+  },
+  {
+    "id": "2105",
+    "cityId": "148",
+    "name": "Kaur Utara"
+  },
+  {
+    "id": "2106",
+    "cityId": "148",
+    "name": "Tetap"
+  },
+  {
+    "id": "2111",
+    "cityId": "148",
+    "name": "Kelam Tengah"
+  },
+  {
+    "id": "2113",
+    "cityId": "148",
+    "name": "Lungkang Kule"
+  },
+  {
+    "id": "2134",
+    "cityId": "148",
+    "name": "Kaur Selatan"
+  },
+  {
+    "id": "2135",
+    "cityId": "148",
+    "name": "Kinal"
+  },
+  {
+    "id": "2145",
+    "cityId": "148",
+    "name": "Padang Guci Hilir"
+  },
+  {
+    "id": "2161",
+    "cityId": "148",
+    "name": "Kaur Tengah"
+  },
+  {
+    "id": "2060",
+    "cityId": "149",
+    "name": "Pondok Kubang"
+  },
+  {
+    "id": "2076",
+    "cityId": "149",
+    "name": "Pondok Kelapa"
+  },
+  {
+    "id": "2082",
+    "cityId": "149",
+    "name": "Semidang Lagan"
+  },
+  {
+    "id": "2108",
+    "cityId": "149",
+    "name": "Merigi Sakti"
+  },
+  {
+    "id": "2114",
+    "cityId": "149",
+    "name": "Taba Penanjung"
+  },
+  {
+    "id": "2116",
+    "cityId": "149",
+    "name": "Pagar Jati"
+  },
+  {
+    "id": "2121",
+    "cityId": "149",
+    "name": "Karang Tinggi"
+  },
+  {
+    "id": "2139",
+    "cityId": "149",
+    "name": "Bang Haji"
+  },
+  {
+    "id": "2140",
+    "cityId": "149",
+    "name": "Pematang Tiga"
+  },
+  {
+    "id": "2148",
+    "cityId": "149",
+    "name": "Merigi Kelindang"
+  },
+  {
+    "id": "2149",
+    "cityId": "149",
+    "name": "Talang Empat"
+  },
+  {
+    "id": "2061",
+    "cityId": "150",
+    "name": "Talo"
+  },
+  {
+    "id": "2092",
+    "cityId": "150",
+    "name": "Sukaraja"
+  },
+  {
+    "id": "2097",
+    "cityId": "150",
+    "name": "Seluma Timur"
+  },
+  {
+    "id": "2100",
+    "cityId": "150",
+    "name": "Lubuk Sandi"
+  },
+  {
+    "id": "2107",
+    "cityId": "150",
+    "name": "Semidang Alas"
+  },
+  {
+    "id": "2119",
+    "cityId": "150",
+    "name": "Air Periukan"
+  },
+  {
+    "id": "2122",
+    "cityId": "150",
+    "name": "Seluma"
+  },
+  {
+    "id": "2123",
+    "cityId": "150",
+    "name": "Ilir Talo"
+  },
+  {
+    "id": "2136",
+    "cityId": "150",
+    "name": "Semidang Alas Maras"
+  },
+  {
+    "id": "2143",
+    "cityId": "150",
+    "name": "Ulu Talo"
+  },
+  {
+    "id": "2170",
+    "cityId": "150",
+    "name": "Seluma Barat"
+  },
+  {
+    "id": "2171",
+    "cityId": "150",
+    "name": "Talo Kecil"
+  },
+  {
+    "id": "2172",
+    "cityId": "150",
+    "name": "Seluma Utara"
+  },
+  {
+    "id": "2177",
+    "cityId": "150",
+    "name": "Seluma Selatan"
+  },
+  {
+    "id": "2064",
+    "cityId": "151",
+    "name": "Ratu Samban"
+  },
+  {
+    "id": "2069",
+    "cityId": "151",
+    "name": "Muara Bangka Hulu"
+  },
+  {
+    "id": "2073",
+    "cityId": "151",
+    "name": "Teluk Segara"
+  },
+  {
+    "id": "2075",
+    "cityId": "151",
+    "name": "Selebar"
+  },
+  {
+    "id": "2102",
+    "cityId": "151",
+    "name": "Gading Cempaka"
+  },
+  {
+    "id": "2126",
+    "cityId": "151",
+    "name": "Singaran Pati"
+  },
+  {
+    "id": "2152",
+    "cityId": "151",
+    "name": "Sungai Serut"
+  },
+  {
+    "id": "2154",
+    "cityId": "151",
+    "name": "Kampung Melayu"
+  },
+  {
+    "id": "2159",
+    "cityId": "151",
+    "name": "Ratu Agung"
+  },
+  {
+    "id": "2078",
+    "cityId": "152",
+    "name": "Pinang Belapis"
+  },
+  {
+    "id": "2079",
+    "cityId": "152",
+    "name": "Rimbo Pengadang"
+  },
+  {
+    "id": "2080",
+    "cityId": "152",
+    "name": "Lebong Atas"
+  },
+  {
+    "id": "2091",
+    "cityId": "152",
+    "name": "Bingin Kuning"
+  },
+  {
+    "id": "2109",
+    "cityId": "152",
+    "name": "Lebong Tengah"
+  },
+  {
+    "id": "2128",
+    "cityId": "152",
+    "name": "Uram Jaya"
+  },
+  {
+    "id": "2131",
+    "cityId": "152",
+    "name": "Lebong Utara"
+  },
+  {
+    "id": "2133",
+    "cityId": "152",
+    "name": "Amen"
+  },
+  {
+    "id": "2144",
+    "cityId": "152",
+    "name": "Tubei"
+  },
+  {
+    "id": "2166",
+    "cityId": "152",
+    "name": "Lebong Selatan"
+  },
+  {
+    "id": "2167",
+    "cityId": "152",
+    "name": "Lebong Sakti"
+  },
+  {
+    "id": "2179",
+    "cityId": "152",
+    "name": "Topos"
+  }
+]

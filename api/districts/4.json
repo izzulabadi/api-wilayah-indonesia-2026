@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "289",
+    "cityId": "30",
+    "name": "Kedungbanteng"
+  },
+  {
+    "id": "297",
+    "cityId": "30",
+    "name": "Rawalo"
+  },
+  {
+    "id": "312",
+    "cityId": "30",
+    "name": "Purwokerto Timur"
+  },
+  {
+    "id": "424",
+    "cityId": "30",
+    "name": "Patikraja"
+  },
+  {
+    "id": "426",
+    "cityId": "30",
+    "name": "Sumpiuh"
+  },
+  {
+    "id": "428",
+    "cityId": "30",
+    "name": "Kemranjen"
+  },
+  {
+    "id": "436",
+    "cityId": "30",
+    "name": "Purwokerto Utara"
+  },
+  {
+    "id": "454",
+    "cityId": "30",
+    "name": "Kalibagor"
+  },
+  {
+    "id": "463",
+    "cityId": "30",
+    "name": "Baturraden"
+  },
+  {
+    "id": "481",
+    "cityId": "30",
+    "name": "Banyumas"
+  },
+  {
+    "id": "486",
+    "cityId": "30",
+    "name": "Purwokerto Barat"
+  },
+  {
+    "id": "510",
+    "cityId": "30",
+    "name": "Tambak"
+  },
+  {
+    "id": "513",
+    "cityId": "30",
+    "name": "Somagede"
+  },
+  {
+    "id": "697",
+    "cityId": "30",
+    "name": "Kebasen"
+  },
+  {
+    "id": "703",
+    "cityId": "30",
+    "name": "Sumbang"
+  },
+  {
+    "id": "712",
+    "cityId": "30",
+    "name": "Purwokerto Selatan"
+  },
+  {
+    "id": "740",
+    "cityId": "30",
+    "name": "Jatilawang"
+  },
+  {
+    "id": "741",
+    "cityId": "30",
+    "name": "Ajibarang"
+  },
+  {
+    "id": "742",
+    "cityId": "30",
+    "name": "Karanglewas"
+  },
+  {
+    "id": "743",
+    "cityId": "30",
+    "name": "Pekuncen"
+  },
+  {
+    "id": "744",
+    "cityId": "30",
+    "name": "Sokaraja"
+  },
+  {
+    "id": "745",
+    "cityId": "30",
+    "name": "Kembaran"
+  },
+  {
+    "id": "746",
+    "cityId": "30",
+    "name": "Wangon"
+  },
+  {
+    "id": "747",
+    "cityId": "30",
+    "name": "Cilongok"
+  },
+  {
+    "id": "748",
+    "cityId": "30",
+    "name": "Lumbir"
+  },
+  {
+    "id": "749",
+    "cityId": "30",
+    "name": "Gumelar"
+  },
+  {
+    "id": "750",
+    "cityId": "30",
+    "name": "Purwojati"
+  },
+  {
+    "id": "290",
+    "cityId": "31",
+    "name": "Muntilan"
+  },
+  {
+    "id": "296",
+    "cityId": "31",
+    "name": "Mungkid"
+  },
+  {
+    "id": "302",
+    "cityId": "31",
+    "name": "Salaman"
+  },
+  {
+    "id": "313",
+    "cityId": "31",
+    "name": "Mertoyudan"
+  },
+  {
+    "id": "341",
+    "cityId": "31",
+    "name": "Srumbung"
+  },
+  {
+    "id": "368",
+    "cityId": "31",
+    "name": "Pakis"
+  },
+  {
+    "id": "370",
+    "cityId": "31",
+    "name": "Kaliangkrik"
+  },
+  {
+    "id": "380",
+    "cityId": "31",
+    "name": "Secang"
+  },
+  {
+    "id": "382",
+    "cityId": "31",
+    "name": "Ngablak"
+  },
+  {
+    "id": "384",
+    "cityId": "31",
+    "name": "Borobudur"
+  },
+  {
+    "id": "386",
+    "cityId": "31",
+    "name": "Dukun"
+  },
+  {
+    "id": "387",
+    "cityId": "31",
+    "name": "Tegalrejo"
+  },
+  {
+    "id": "400",
+    "cityId": "31",
+    "name": "Kajoran"
+  },
+  {
+    "id": "401",
+    "cityId": "31",
+    "name": "Grabag"
+  },
+  {
+    "id": "404",
+    "cityId": "31",
+    "name": "Windusari"
+  },
+  {
+    "id": "409",
+    "cityId": "31",
+    "name": "Bandongan"
+  },
+  {
+    "id": "417",
+    "cityId": "31",
+    "name": "Ngluwar"
+  },
+  {
+    "id": "704",
+    "cityId": "31",
+    "name": "Sawangan"
+  },
+  {
+    "id": "706",
+    "cityId": "31",
+    "name": "Candimulyo"
+  },
+  {
+    "id": "708",
+    "cityId": "31",
+    "name": "Salam"
+  },
+  {
+    "id": "709",
+    "cityId": "31",
+    "name": "Tempuran"
+  },
+  {
+    "id": "291",
+    "cityId": "32",
+    "name": "Sirampog"
+  },
+  {
+    "id": "376",
+    "cityId": "32",
+    "name": "Bumiayu"
+  },
+  {
+    "id": "378",
+    "cityId": "32",
+    "name": "Tonjong"
+  },
+  {
+    "id": "437",
+    "cityId": "32",
+    "name": "Salem"
+  },
+  {
+    "id": "450",
+    "cityId": "32",
+    "name": "Paguyangan"
+  },
+  {
+    "id": "462",
+    "cityId": "32",
+    "name": "Ketanggungan"
+  },
+  {
+    "id": "467",
+    "cityId": "32",
+    "name": "Larangan"
+  },
+  {
+    "id": "471",
+    "cityId": "32",
+    "name": "Bantarkawung"
+  },
+  {
+    "id": "483",
+    "cityId": "32",
+    "name": "Banjarharjo"
+  },
+  {
+    "id": "723",
+    "cityId": "32",
+    "name": "Songgom"
+  },
+  {
+    "id": "731",
+    "cityId": "32",
+    "name": "Jatibarang"
+  },
+  {
+    "id": "1318",
+    "cityId": "32",
+    "name": "Kersana"
+  },
+  {
+    "id": "2269",
+    "cityId": "32",
+    "name": "Losari"
+  },
+  {
+    "id": "2275",
+    "cityId": "32",
+    "name": "Tanjung"
+  },
+  {
+    "id": "2277",
+    "cityId": "32",
+    "name": "Wanasari"
+  },
+  {
+    "id": "2278",
+    "cityId": "32",
+    "name": "Bulakamba"
+  },
+  {
+    "id": "2842",
+    "cityId": "32",
+    "name": "Brebes"
+  },
+  {
+    "id": "292",
+    "cityId": "33",
+    "name": "Kebonarum"
+  },
+  {
+    "id": "306",
+    "cityId": "33",
+    "name": "Klaten Selatan"
+  },
+  {
+    "id": "320",
+    "cityId": "33",
+    "name": "Trucuk"
+  },
+  {
+    "id": "327",
+    "cityId": "33",
+    "name": "Gantiwarno"
+  },
+  {
+    "id": "328",
+    "cityId": "33",
+    "name": "Ceper"
+  },
+  {
+    "id": "332",
+    "cityId": "33",
+    "name": "Klaten Tengah"
+  },
+  {
+    "id": "342",
+    "cityId": "33",
+    "name": "Jatinom"
+  },
+  {
+    "id": "367",
+    "cityId": "33",
+    "name": "Tulung"
+  },
+  {
+    "id": "375",
+    "cityId": "33",
+    "name": "Manisrenggo"
+  },
+  {
+    "id": "379",
+    "cityId": "33",
+    "name": "Bayat"
+  },
+  {
+    "id": "381",
+    "cityId": "33",
+    "name": "Karanganom"
+  },
+  {
+    "id": "399",
+    "cityId": "33",
+    "name": "Polanharjo"
+  },
+  {
+    "id": "403",
+    "cityId": "33",
+    "name": "Ngawen"
+  },
+  {
+    "id": "405",
+    "cityId": "33",
+    "name": "Kalikotes"
+  },
+  {
+    "id": "406",
+    "cityId": "33",
+    "name": "Karangnongko"
+  },
+  {
+    "id": "410",
+    "cityId": "33",
+    "name": "Jogonalan"
+  },
+  {
+    "id": "438",
+    "cityId": "33",
+    "name": "Wedi"
+  },
+  {
+    "id": "472",
+    "cityId": "33",
+    "name": "Kemalang"
+  },
+  {
+    "id": "509",
+    "cityId": "33",
+    "name": "Prambanan"
+  },
+  {
+    "id": "705",
+    "cityId": "33",
+    "name": "Klaten Utara"
+  },
+  {
+    "id": "1462",
+    "cityId": "33",
+    "name": "Karangdowo"
+  },
+  {
+    "id": "1474",
+    "cityId": "33",
+    "name": "Cawas"
+  },
+  {
+    "id": "1502",
+    "cityId": "33",
+    "name": "Pedan"
+  },
+  {
+    "id": "1509",
+    "cityId": "33",
+    "name": "Wonosari"
+  },
+  {
+    "id": "1521",
+    "cityId": "33",
+    "name": "Juwiring"
+  },
+  {
+    "id": "1539",
+    "cityId": "33",
+    "name": "Delanggu"
+  },
+  {
+    "id": "293",
+    "cityId": "34",
+    "name": "Ngombol"
+  },
+  {
+    "id": "323",
+    "cityId": "34",
+    "name": "Gebang"
+  },
+  {
+    "id": "343",
+    "cityId": "34",
+    "name": "Purworejo"
+  },
+  {
+    "id": "351",
+    "cityId": "34",
+    "name": "Loano"
+  },
+  {
+    "id": "369",
+    "cityId": "34",
+    "name": "Grabag"
+  },
+  {
+    "id": "374",
+    "cityId": "34",
+    "name": "Purwodadi"
+  },
+  {
+    "id": "388",
+    "cityId": "34",
+    "name": "Kaligesing"
+  },
+  {
+    "id": "395",
+    "cityId": "34",
+    "name": "Pituruh"
+  },
+  {
+    "id": "402",
+    "cityId": "34",
+    "name": "Bener"
+  },
+  {
+    "id": "439",
+    "cityId": "34",
+    "name": "Kutoarjo"
+  },
+  {
+    "id": "453",
+    "cityId": "34",
+    "name": "Kemiri"
+  },
+  {
+    "id": "458",
+    "cityId": "34",
+    "name": "Bruno"
+  },
+  {
+    "id": "459",
+    "cityId": "34",
+    "name": "Banyuurip"
+  },
+  {
+    "id": "473",
+    "cityId": "34",
+    "name": "Butuh"
+  },
+  {
+    "id": "497",
+    "cityId": "34",
+    "name": "Bayan"
+  },
+  {
+    "id": "514",
+    "cityId": "34",
+    "name": "Bagelen"
+  },
+  {
+    "id": "294",
+    "cityId": "35",
+    "name": "Lebakbarang"
+  },
+  {
+    "id": "301",
+    "cityId": "35",
+    "name": "Bojong"
+  },
+  {
+    "id": "314",
+    "cityId": "35",
+    "name": "Talun"
+  },
+  {
+    "id": "345",
+    "cityId": "35",
+    "name": "Sragi"
+  },
+  {
+    "id": "360",
+    "cityId": "35",
+    "name": "Kesesi"
+  },
+  {
+    "id": "425",
+    "cityId": "35",
+    "name": "Paninggaran"
+  },
+  {
+    "id": "431",
+    "cityId": "35",
+    "name": "Kajen"
+  },
+  {
+    "id": "452",
+    "cityId": "35",
+    "name": "Karangdadap"
+  },
+  {
+    "id": "455",
+    "cityId": "35",
+    "name": "Kedungwuni"
+  },
+  {
+    "id": "491",
+    "cityId": "35",
+    "name": "Karanganyar"
+  },
+  {
+    "id": "503",
+    "cityId": "35",
+    "name": "Wonopringgo"
+  },
+  {
+    "id": "714",
+    "cityId": "35",
+    "name": "Doro"
+  },
+  {
+    "id": "716",
+    "cityId": "35",
+    "name": "Kandangserang"
+  },
+  {
+    "id": "724",
+    "cityId": "35",
+    "name": "Petungkriyono"
+  },
+  {
+    "id": "2262",
+    "cityId": "35",
+    "name": "Buaran"
+  },
+  {
+    "id": "2265",
+    "cityId": "35",
+    "name": "Wiradesa"
+  },
+  {
+    "id": "2276",
+    "cityId": "35",
+    "name": "Tirto"
+  },
+  {
+    "id": "2845",
+    "cityId": "35",
+    "name": "Siwalan"
+  },
+  {
+    "id": "3051",
+    "cityId": "35",
+    "name": "Wonokerto"
+  },
+  {
+    "id": "295",
+    "cityId": "36",
+    "name": "Sumowono"
+  },
+  {
+    "id": "329",
+    "cityId": "36",
+    "name": "Bandungan"
+  },
+  {
+    "id": "331",
+    "cityId": "36",
+    "name": "Ungaran Timur"
+  },
+  {
+    "id": "353",
+    "cityId": "36",
+    "name": "Kaliwungu"
+  },
+  {
+    "id": "365",
+    "cityId": "36",
+    "name": "Susukan"
+  },
+  {
+    "id": "366",
+    "cityId": "36",
+    "name": "Bergas"
+  },
+  {
+    "id": "392",
+    "cityId": "36",
+    "name": "Tuntang"
+  },
+  {
+    "id": "397",
+    "cityId": "36",
+    "name": "Ambarawa"
+  },
+  {
+    "id": "419",
+    "cityId": "36",
+    "name": "Banyubiru"
+  },
+  {
+    "id": "420",
+    "cityId": "36",
+    "name": "Getasan"
+  },
+  {
+    "id": "430",
+    "cityId": "36",
+    "name": "Tengaran"
+  },
+  {
+    "id": "432",
+    "cityId": "36",
+    "name": "Ungaran Barat"
+  },
+  {
+    "id": "433",
+    "cityId": "36",
+    "name": "Bringin"
+  },
+  {
+    "id": "435",
+    "cityId": "36",
+    "name": "Pabelan"
+  },
+  {
+    "id": "499",
+    "cityId": "36",
+    "name": "Pringapus"
+  },
+  {
+    "id": "519",
+    "cityId": "36",
+    "name": "Suruh"
+  },
+  {
+    "id": "520",
+    "cityId": "36",
+    "name": "Bancak"
+  },
+  {
+    "id": "699",
+    "cityId": "36",
+    "name": "Bawen"
+  },
+  {
+    "id": "710",
+    "cityId": "36",
+    "name": "Jambu"
+  },
+  {
+    "id": "298",
+    "cityId": "37",
+    "name": "Sruweng"
+  },
+  {
+    "id": "300",
+    "cityId": "37",
+    "name": "Kebumen"
+  },
+  {
+    "id": "308",
+    "cityId": "37",
+    "name": "Padureso"
+  },
+  {
+    "id": "310",
+    "cityId": "37",
+    "name": "Buayan"
+  },
+  {
+    "id": "321",
+    "cityId": "37",
+    "name": "Mirit"
+  },
+  {
+    "id": "344",
+    "cityId": "37",
+    "name": "Bonorowo"
+  },
+  {
+    "id": "346",
+    "cityId": "37",
+    "name": "Kutowinangun"
+  },
+  {
+    "id": "362",
+    "cityId": "37",
+    "name": "Prembun"
+  },
+  {
+    "id": "372",
+    "cityId": "37",
+    "name": "Petanahan"
+  },
+  {
+    "id": "434",
+    "cityId": "37",
+    "name": "Kuwarasan"
+  },
+  {
+    "id": "441",
+    "cityId": "37",
+    "name": "Karanggayam"
+  },
+  {
+    "id": "442",
+    "cityId": "37",
+    "name": "Ambal"
+  },
+  {
+    "id": "469",
+    "cityId": "37",
+    "name": "Klirong"
+  },
+  {
+    "id": "477",
+    "cityId": "37",
+    "name": "Gombong"
+  },
+  {
+    "id": "478",
+    "cityId": "37",
+    "name": "Karanganyar"
+  },
+  {
+    "id": "485",
+    "cityId": "37",
+    "name": "Ayah"
+  },
+  {
+    "id": "494",
+    "cityId": "37",
+    "name": "Pejagoan"
+  },
+  {
+    "id": "496",
+    "cityId": "37",
+    "name": "Sempor"
+  },
+  {
+    "id": "498",
+    "cityId": "37",
+    "name": "Adimulyo"
+  },
+  {
+    "id": "501",
+    "cityId": "37",
+    "name": "Karangsambung"
+  },
+  {
+    "id": "511",
+    "cityId": "37",
+    "name": "Puring"
+  },
+  {
+    "id": "698",
+    "cityId": "37",
+    "name": "Buluspesantren"
+  },
+  {
+    "id": "713",
+    "cityId": "37",
+    "name": "Poncowarno"
+  },
+  {
+    "id": "717",
+    "cityId": "37",
+    "name": "Alian"
+  },
+  {
+    "id": "720",
+    "cityId": "37",
+    "name": "Rowokele"
+  },
+  {
+    "id": "722",
+    "cityId": "37",
+    "name": "Sadang"
+  },
+  {
+    "id": "299",
+    "cityId": "38",
+    "name": "Tembarak"
+  },
+  {
+    "id": "303",
+    "cityId": "38",
+    "name": "Candiroto"
+  },
+  {
+    "id": "311",
+    "cityId": "38",
+    "name": "Kedu"
+  },
+  {
+    "id": "336",
+    "cityId": "38",
+    "name": "Bansari"
+  },
+  {
+    "id": "338",
+    "cityId": "38",
+    "name": "Bulu"
+  },
+  {
+    "id": "340",
+    "cityId": "38",
+    "name": "Jumo"
+  },
+  {
+    "id": "349",
+    "cityId": "38",
+    "name": "Temanggung"
+  },
+  {
+    "id": "364",
+    "cityId": "38",
+    "name": "Gemawang"
+  },
+  {
+    "id": "371",
+    "cityId": "38",
+    "name": "Ngadirejo"
+  },
+  {
+    "id": "390",
+    "cityId": "38",
+    "name": "Selopampang"
+  },
+  {
+    "id": "393",
+    "cityId": "38",
+    "name": "Bejen"
+  },
+  {
+    "id": "407",
+    "cityId": "38",
+    "name": "Kandangan"
+  },
+  {
+    "id": "414",
+    "cityId": "38",
+    "name": "Pringsurat"
+  },
+  {
+    "id": "415",
+    "cityId": "38",
+    "name": "Tretep"
+  },
+  {
+    "id": "416",
+    "cityId": "38",
+    "name": "Parakan"
+  },
+  {
+    "id": "421",
+    "cityId": "38",
+    "name": "Kranggan"
+  },
+  {
+    "id": "448",
+    "cityId": "38",
+    "name": "Tlogomulyo"
+  },
+  {
+    "id": "480",
+    "cityId": "38",
+    "name": "Kledung"
+  },
+  {
+    "id": "488",
+    "cityId": "38",
+    "name": "Wonoboyo"
+  },
+  {
+    "id": "726",
+    "cityId": "38",
+    "name": "Kaloran"
+  },
+  {
+    "id": "304",
+    "cityId": "39",
+    "name": "Mranggen"
+  },
+  {
+    "id": "464",
+    "cityId": "39",
+    "name": "Guntur"
+  },
+  {
+    "id": "718",
+    "cityId": "39",
+    "name": "Karangawen"
+  },
+  {
+    "id": "719",
+    "cityId": "39",
+    "name": "Sayung"
+  },
+  {
+    "id": "1463",
+    "cityId": "39",
+    "name": "Kebonagung"
+  },
+  {
+    "id": "1525",
+    "cityId": "39",
+    "name": "Dempet"
+  },
+  {
+    "id": "1578",
+    "cityId": "39",
+    "name": "Wonosalam"
+  },
+  {
+    "id": "2268",
+    "cityId": "39",
+    "name": "Karangtengah"
+  },
+  {
+    "id": "2793",
+    "cityId": "39",
+    "name": "Gajah"
+  },
+  {
+    "id": "2804",
+    "cityId": "39",
+    "name": "Demak"
+  },
+  {
+    "id": "2828",
+    "cityId": "39",
+    "name": "Mijen"
+  },
+  {
+    "id": "2834",
+    "cityId": "39",
+    "name": "Karanganyar"
+  },
+  {
+    "id": "3053",
+    "cityId": "39",
+    "name": "Wedung"
+  },
+  {
+    "id": "3057",
+    "cityId": "39",
+    "name": "Bonang"
+  },
+  {
+    "id": "305",
+    "cityId": "40",
+    "name": "Singorojo"
+  },
+  {
+    "id": "317",
+    "cityId": "40",
+    "name": "Boja"
+  },
+  {
+    "id": "325",
+    "cityId": "40",
+    "name": "Patean"
+  },
+  {
+    "id": "333",
+    "cityId": "40",
+    "name": "Ringinarum"
+  },
+  {
+    "id": "334",
+    "cityId": "40",
+    "name": "Plantungan"
+  },
+  {
+    "id": "339",
+    "cityId": "40",
+    "name": "Weleri"
+  },
+  {
+    "id": "361",
+    "cityId": "40",
+    "name": "Sukorejo"
+  },
+  {
+    "id": "396",
+    "cityId": "40",
+    "name": "Ngampel"
+  },
+  {
+    "id": "412",
+    "cityId": "40",
+    "name": "Limbangan"
+  },
+  {
+    "id": "423",
+    "cityId": "40",
+    "name": "Kaliwungu"
+  },
+  {
+    "id": "446",
+    "cityId": "40",
+    "name": "Pageruyung"
+  },
+  {
+    "id": "465",
+    "cityId": "40",
+    "name": "Gemuh"
+  },
+  {
+    "id": "492",
+    "cityId": "40",
+    "name": "Pegandon"
+  },
+  {
+    "id": "504",
+    "cityId": "40",
+    "name": "Brangsong"
+  },
+  {
+    "id": "517",
+    "cityId": "40",
+    "name": "Kaliwungu Selatan"
+  },
+  {
+    "id": "2263",
+    "cityId": "40",
+    "name": "Cepiring"
+  },
+  {
+    "id": "2270",
+    "cityId": "40",
+    "name": "Kendal"
+  },
+  {
+    "id": "2271",
+    "cityId": "40",
+    "name": "Kangkung"
+  },
+  {
+    "id": "2273",
+    "cityId": "40",
+    "name": "Rowosari"
+  },
+  {
+    "id": "2274",
+    "cityId": "40",
+    "name": "Patebon"
+  },
+  {
+    "id": "307",
+    "cityId": "41",
+    "name": "Purwanegara"
+  },
+  {
+    "id": "315",
+    "cityId": "41",
+    "name": "Pagentan"
+  },
+  {
+    "id": "326",
+    "cityId": "41",
+    "name": "Punggelan"
+  },
+  {
+    "id": "440",
+    "cityId": "41",
+    "name": "Purworeja Klampok"
+  },
+  {
+    "id": "443",
+    "cityId": "41",
+    "name": "Pagedongan"
+  },
+  {
+    "id": "444",
+    "cityId": "41",
+    "name": "Madukara"
+  },
+  {
+    "id": "445",
+    "cityId": "41",
+    "name": "Wanayasa"
+  },
+  {
+    "id": "447",
+    "cityId": "41",
+    "name": "Karangkobar"
+  },
+  {
+    "id": "468",
+    "cityId": "41",
+    "name": "Pandanarum"
+  },
+  {
+    "id": "474",
+    "cityId": "41",
+    "name": "Mandiraja"
+  },
+  {
+    "id": "482",
+    "cityId": "41",
+    "name": "Banjarnegara"
+  },
+  {
+    "id": "484",
+    "cityId": "41",
+    "name": "Banjarmangu"
+  },
+  {
+    "id": "487",
+    "cityId": "41",
+    "name": "Batur"
+  },
+  {
+    "id": "493",
+    "cityId": "41",
+    "name": "Pejawaran"
+  },
+  {
+    "id": "495",
+    "cityId": "41",
+    "name": "Susukan"
+  },
+  {
+    "id": "500",
+    "cityId": "41",
+    "name": "Sigaluh"
+  },
+  {
+    "id": "516",
+    "cityId": "41",
+    "name": "Rakit"
+  },
+  {
+    "id": "518",
+    "cityId": "41",
+    "name": "Kalibening"
+  },
+  {
+    "id": "700",
+    "cityId": "41",
+    "name": "Bawang"
+  },
+  {
+    "id": "730",
+    "cityId": "41",
+    "name": "Wanadadi"
+  },
+  {
+    "id": "309",
+    "cityId": "42",
+    "name": "Kroya"
+  },
+  {
+    "id": "356",
+    "cityId": "42",
+    "name": "Gandrungmangu"
+  },
+  {
+    "id": "357",
+    "cityId": "42",
+    "name": "Majenang"
+  },
+  {
+    "id": "358",
+    "cityId": "42",
+    "name": "Cipari"
+  },
+  {
+    "id": "377",
+    "cityId": "42",
+    "name": "Cimanggu"
+  },
+  {
+    "id": "427",
+    "cityId": "42",
+    "name": "Sampang"
+  },
+  {
+    "id": "429",
+    "cityId": "42",
+    "name": "Nusawungu"
+  },
+  {
+    "id": "451",
+    "cityId": "42",
+    "name": "Binangun"
+  },
+  {
+    "id": "461",
+    "cityId": "42",
+    "name": "Wanareja"
+  },
+  {
+    "id": "466",
+    "cityId": "42",
+    "name": "Karangpucung"
+  },
+  {
+    "id": "479",
+    "cityId": "42",
+    "name": "Dayeuhluhur"
+  },
+  {
+    "id": "489",
+    "cityId": "42",
+    "name": "Patimuan"
+  },
+  {
+    "id": "507",
+    "cityId": "42",
+    "name": "Sidareja"
+  },
+  {
+    "id": "702",
+    "cityId": "42",
+    "name": "Kedungreja"
+  },
+  {
+    "id": "1320",
+    "cityId": "42",
+    "name": "Cilacap Selatan"
+  },
+  {
+    "id": "1321",
+    "cityId": "42",
+    "name": "Kampung Laut"
+  },
+  {
+    "id": "1322",
+    "cityId": "42",
+    "name": "Cilacap Tengah"
+  },
+  {
+    "id": "1323",
+    "cityId": "42",
+    "name": "Cilacap Utara"
+  },
+  {
+    "id": "1324",
+    "cityId": "42",
+    "name": "Adipala"
+  },
+  {
+    "id": "1325",
+    "cityId": "42",
+    "name": "Bantarsari"
+  },
+  {
+    "id": "1326",
+    "cityId": "42",
+    "name": "Kesugihan"
+  },
+  {
+    "id": "1327",
+    "cityId": "42",
+    "name": "Kawunganten"
+  },
+  {
+    "id": "1328",
+    "cityId": "42",
+    "name": "Jeruklegi"
+  },
+  {
+    "id": "1329",
+    "cityId": "42",
+    "name": "Maos"
+  },
+  {
+    "id": "316",
+    "cityId": "43",
+    "name": "Tembalang"
+  },
+  {
+    "id": "319",
+    "cityId": "43",
+    "name": "Mijen"
+  },
+  {
+    "id": "322",
+    "cityId": "43",
+    "name": "Semarang Tengah"
+  },
+  {
+    "id": "324",
+    "cityId": "43",
+    "name": "Semarang Timur"
+  },
+  {
+    "id": "352",
+    "cityId": "43",
+    "name": "Semarang Selatan"
+  },
+  {
+    "id": "354",
+    "cityId": "43",
+    "name": "Pedurungan"
+  },
+  {
+    "id": "355",
+    "cityId": "43",
+    "name": "Genuk"
+  },
+  {
+    "id": "394",
+    "cityId": "43",
+    "name": "Ngaliyan"
+  },
+  {
+    "id": "408",
+    "cityId": "43",
+    "name": "Semarang Barat"
+  },
+  {
+    "id": "411",
+    "cityId": "43",
+    "name": "Banyumanik"
+  },
+  {
+    "id": "413",
+    "cityId": "43",
+    "name": "Gunungpati"
+  },
+  {
+    "id": "470",
+    "cityId": "43",
+    "name": "Gayamsari"
+  },
+  {
+    "id": "475",
+    "cityId": "43",
+    "name": "Semarang Utara"
+  },
+  {
+    "id": "512",
+    "cityId": "43",
+    "name": "Gajahmungkur"
+  },
+  {
+    "id": "721",
+    "cityId": "43",
+    "name": "Candisari"
+  },
+  {
+    "id": "732",
+    "cityId": "43",
+    "name": "Tugu"
+  },
+  {
+    "id": "318",
+    "cityId": "44",
+    "name": "Mojosongo"
+  },
+  {
+    "id": "330",
+    "cityId": "44",
+    "name": "Cepogo"
+  },
+  {
+    "id": "335",
+    "cityId": "44",
+    "name": "Teras"
+  },
+  {
+    "id": "348",
+    "cityId": "44",
+    "name": "Tamansari"
+  },
+  {
+    "id": "350",
+    "cityId": "44",
+    "name": "Boyolali"
+  },
+  {
+    "id": "373",
+    "cityId": "44",
+    "name": "Musuk"
+  },
+  {
+    "id": "383",
+    "cityId": "44",
+    "name": "Wonosamodro"
+  },
+  {
+    "id": "389",
+    "cityId": "44",
+    "name": "Gladagsari"
+  },
+  {
+    "id": "391",
+    "cityId": "44",
+    "name": "Sambi"
+  },
+  {
+    "id": "398",
+    "cityId": "44",
+    "name": "Ampel"
+  },
+  {
+    "id": "505",
+    "cityId": "44",
+    "name": "Simo"
+  },
+  {
+    "id": "515",
+    "cityId": "44",
+    "name": "Karanggede"
+  },
+  {
+    "id": "701",
+    "cityId": "44",
+    "name": "Wonosegoro"
+  },
+  {
+    "id": "711",
+    "cityId": "44",
+    "name": "Banyudono"
+  },
+  {
+    "id": "733",
+    "cityId": "44",
+    "name": "Selo"
+  },
+  {
+    "id": "1319",
+    "cityId": "44",
+    "name": "Sawit"
+  },
+  {
+    "id": "1457",
+    "cityId": "44",
+    "name": "Andong"
+  },
+  {
+    "id": "1465",
+    "cityId": "44",
+    "name": "Klego"
+  },
+  {
+    "id": "1499",
+    "cityId": "44",
+    "name": "Kemusu"
+  },
+  {
+    "id": "1506",
+    "cityId": "44",
+    "name": "Nogosari"
+  },
+  {
+    "id": "1544",
+    "cityId": "44",
+    "name": "Juwangi"
+  },
+  {
+    "id": "1550",
+    "cityId": "44",
+    "name": "Ngemplak"
+  },
+  {
+    "id": "337",
+    "cityId": "45",
+    "name": "Jatinegara"
+  },
+  {
+    "id": "359",
+    "cityId": "45",
+    "name": "Pagerbarang"
+  },
+  {
+    "id": "363",
+    "cityId": "45",
+    "name": "Bumijawa"
+  },
+  {
+    "id": "449",
+    "cityId": "45",
+    "name": "Balapulang"
+  },
+  {
+    "id": "456",
+    "cityId": "45",
+    "name": "Slawi"
+  },
+  {
+    "id": "457",
+    "cityId": "45",
+    "name": "Pangkah"
+  },
+  {
+    "id": "460",
+    "cityId": "45",
+    "name": "Margasari"
+  },
+  {
+    "id": "490",
+    "cityId": "45",
+    "name": "Dukuhwaru"
+  },
+  {
+    "id": "502",
+    "cityId": "45",
+    "name": "Lebaksiu"
+  },
+  {
+    "id": "506",
+    "cityId": "45",
+    "name": "Kedungbanteng"
+  },
+  {
+    "id": "707",
+    "cityId": "45",
+    "name": "Bojong"
+  },
+  {
+    "id": "2264",
+    "cityId": "45",
+    "name": "Tarub"
+  },
+  {
+    "id": "2266",
+    "cityId": "45",
+    "name": "Suradadi"
+  },
+  {
+    "id": "2267",
+    "cityId": "45",
+    "name": "Talang"
+  },
+  {
+    "id": "2272",
+    "cityId": "45",
+    "name": "Adiwerna"
+  },
+  {
+    "id": "2843",
+    "cityId": "45",
+    "name": "Dukuhturi"
+  },
+  {
+    "id": "2844",
+    "cityId": "45",
+    "name": "Warureja"
+  },
+  {
+    "id": "3052",
+    "cityId": "45",
+    "name": "Kramat"
+  },
+  {
+    "id": "347",
+    "cityId": "46",
+    "name": "Tanggungharjo"
+  },
+  {
+    "id": "418",
+    "cityId": "46",
+    "name": "Kedungjati"
+  },
+  {
+    "id": "508",
+    "cityId": "46",
+    "name": "Tegowanu"
+  },
+  {
+    "id": "729",
+    "cityId": "46",
+    "name": "Gubug"
+  },
+  {
+    "id": "1459",
+    "cityId": "46",
+    "name": "Godong"
+  },
+  {
+    "id": "1461",
+    "cityId": "46",
+    "name": "Geyer"
+  },
+  {
+    "id": "1466",
+    "cityId": "46",
+    "name": "Kradenan"
+  },
+  {
+    "id": "1487",
+    "cityId": "46",
+    "name": "Toroh"
+  },
+  {
+    "id": "1489",
+    "cityId": "46",
+    "name": "Ngaringan"
+  },
+  {
+    "id": "1492",
+    "cityId": "46",
+    "name": "Gabus"
+  },
+  {
+    "id": "1520",
+    "cityId": "46",
+    "name": "Penawangan"
+  },
+  {
+    "id": "1540",
+    "cityId": "46",
+    "name": "Purwodadi"
+  },
+  {
+    "id": "1542",
+    "cityId": "46",
+    "name": "Karangrayung"
+  },
+  {
+    "id": "1546",
+    "cityId": "46",
+    "name": "Wirosari"
+  },
+  {
+    "id": "1557",
+    "cityId": "46",
+    "name": "Grobogan"
+  },
+  {
+    "id": "1559",
+    "cityId": "46",
+    "name": "Tawangharjo"
+  },
+  {
+    "id": "1564",
+    "cityId": "46",
+    "name": "Pulokulon"
+  },
+  {
+    "id": "1565",
+    "cityId": "46",
+    "name": "Brati"
+  },
+  {
+    "id": "1569",
+    "cityId": "46",
+    "name": "Klambu"
+  },
+  {
+    "id": "385",
+    "cityId": "47",
+    "name": "Sapuran"
+  },
+  {
+    "id": "521",
+    "cityId": "47",
+    "name": "Wadaslintang"
+  },
+  {
+    "id": "728",
+    "cityId": "47",
+    "name": "Watumalang"
+  },
+  {
+    "id": "736",
+    "cityId": "47",
+    "name": "Mojotengah"
+  },
+  {
+    "id": "737",
+    "cityId": "47",
+    "name": "Kertek"
+  },
+  {
+    "id": "738",
+    "cityId": "47",
+    "name": "Garung"
+  },
+  {
+    "id": "739",
+    "cityId": "47",
+    "name": "Kejajar"
+  },
+  {
+    "id": "773",
+    "cityId": "47",
+    "name": "Selomerto"
+  },
+  {
+    "id": "774",
+    "cityId": "47",
+    "name": "Kaliwiro"
+  },
+  {
+    "id": "1317",
+    "cityId": "47",
+    "name": "Kepil"
+  },
+  {
+    "id": "1346",
+    "cityId": "47",
+    "name": "Kalibawang"
+  },
+  {
+    "id": "1347",
+    "cityId": "47",
+    "name": "Kalikajar"
+  },
+  {
+    "id": "1348",
+    "cityId": "47",
+    "name": "Leksono"
+  },
+  {
+    "id": "1349",
+    "cityId": "47",
+    "name": "Sukoharjo"
+  },
+  {
+    "id": "1350",
+    "cityId": "47",
+    "name": "Wonosobo"
+  },
+  {
+    "id": "422",
+    "cityId": "48",
+    "name": "Argomulyo"
+  },
+  {
+    "id": "715",
+    "cityId": "48",
+    "name": "Sidorejo"
+  },
+  {
+    "id": "725",
+    "cityId": "48",
+    "name": "Sidomukti"
+  },
+  {
+    "id": "727",
+    "cityId": "48",
+    "name": "Tingkir"
+  },
+  {
+    "id": "476",
+    "cityId": "49",
+    "name": "Magelang Tengah"
+  },
+  {
+    "id": "734",
+    "cityId": "49",
+    "name": "Magelang Selatan"
+  },
+  {
+    "id": "735",
+    "cityId": "49",
+    "name": "Magelang Utara"
+  },
+  {
+    "id": "751",
+    "cityId": "59",
+    "name": "Bawang"
+  },
+  {
+    "id": "752",
+    "cityId": "59",
+    "name": "Blado"
+  },
+  {
+    "id": "753",
+    "cityId": "59",
+    "name": "Reban"
+  },
+  {
+    "id": "754",
+    "cityId": "59",
+    "name": "Bandar"
+  },
+  {
+    "id": "755",
+    "cityId": "59",
+    "name": "Tersono"
+  },
+  {
+    "id": "756",
+    "cityId": "59",
+    "name": "Wonotunggal"
+  },
+  {
+    "id": "757",
+    "cityId": "59",
+    "name": "Limpung"
+  },
+  {
+    "id": "758",
+    "cityId": "59",
+    "name": "Pecalungan"
+  },
+  {
+    "id": "759",
+    "cityId": "59",
+    "name": "Gringsing"
+  },
+  {
+    "id": "760",
+    "cityId": "59",
+    "name": "Subah"
+  },
+  {
+    "id": "761",
+    "cityId": "59",
+    "name": "Banyuputih"
+  },
+  {
+    "id": "762",
+    "cityId": "59",
+    "name": "Tulis"
+  },
+  {
+    "id": "763",
+    "cityId": "59",
+    "name": "Warungasem"
+  },
+  {
+    "id": "2279",
+    "cityId": "59",
+    "name": "Kandeman"
+  },
+  {
+    "id": "2280",
+    "cityId": "59",
+    "name": "Batang"
+  },
+  {
+    "id": "764",
+    "cityId": "60",
+    "name": "Bodeh"
+  },
+  {
+    "id": "765",
+    "cityId": "60",
+    "name": "Belik"
+  },
+  {
+    "id": "766",
+    "cityId": "60",
+    "name": "Randudongkal"
+  },
+  {
+    "id": "767",
+    "cityId": "60",
+    "name": "Bantarbolang"
+  },
+  {
+    "id": "768",
+    "cityId": "60",
+    "name": "Moga"
+  },
+  {
+    "id": "769",
+    "cityId": "60",
+    "name": "Pulosari"
+  },
+  {
+    "id": "770",
+    "cityId": "60",
+    "name": "Watukumpul"
+  },
+  {
+    "id": "771",
+    "cityId": "60",
+    "name": "Warungpring"
+  },
+  {
+    "id": "772",
+    "cityId": "60",
+    "name": "Ampelgading"
+  },
+  {
+    "id": "2281",
+    "cityId": "60",
+    "name": "Taman"
+  },
+  {
+    "id": "2282",
+    "cityId": "60",
+    "name": "Pemalang"
+  },
+  {
+    "id": "2846",
+    "cityId": "60",
+    "name": "Petarukan"
+  },
+  {
+    "id": "2847",
+    "cityId": "60",
+    "name": "Comal"
+  },
+  {
+    "id": "3062",
+    "cityId": "60",
+    "name": "Ulujami"
+  },
+  {
+    "id": "775",
+    "cityId": "61",
+    "name": "Rembang"
+  },
+  {
+    "id": "776",
+    "cityId": "61",
+    "name": "Karangjambu"
+  },
+  {
+    "id": "1330",
+    "cityId": "61",
+    "name": "Kemangkon"
+  },
+  {
+    "id": "1331",
+    "cityId": "61",
+    "name": "Bukateja"
+  },
+  {
+    "id": "1332",
+    "cityId": "61",
+    "name": "Kalimanah"
+  },
+  {
+    "id": "1333",
+    "cityId": "61",
+    "name": "Kejobong"
+  },
+  {
+    "id": "1334",
+    "cityId": "61",
+    "name": "Purbalingga"
+  },
+  {
+    "id": "1335",
+    "cityId": "61",
+    "name": "Kaligondang"
+  },
+  {
+    "id": "1336",
+    "cityId": "61",
+    "name": "Padamara"
+  },
+  {
+    "id": "1337",
+    "cityId": "61",
+    "name": "Pengadegan"
+  },
+  {
+    "id": "1338",
+    "cityId": "61",
+    "name": "Bojongsari"
+  },
+  {
+    "id": "1339",
+    "cityId": "61",
+    "name": "Kutasari"
+  },
+  {
+    "id": "1340",
+    "cityId": "61",
+    "name": "Mrebet"
+  },
+  {
+    "id": "1341",
+    "cityId": "61",
+    "name": "Kertanegara"
+  },
+  {
+    "id": "1342",
+    "cityId": "61",
+    "name": "Karanganyar"
+  },
+  {
+    "id": "1343",
+    "cityId": "61",
+    "name": "Karangmoncol"
+  },
+  {
+    "id": "1344",
+    "cityId": "61",
+    "name": "Bobotsari"
+  },
+  {
+    "id": "1345",
+    "cityId": "61",
+    "name": "Karangreja"
+  },
+  {
+    "id": "1454",
+    "cityId": "100",
+    "name": "Tunjungan"
+  },
+  {
+    "id": "1458",
+    "cityId": "100",
+    "name": "Blora"
+  },
+  {
+    "id": "1464",
+    "cityId": "100",
+    "name": "Banjarejo"
+  },
+  {
+    "id": "1468",
+    "cityId": "100",
+    "name": "Kedungtuban"
+  },
+  {
+    "id": "1469",
+    "cityId": "100",
+    "name": "Kunduran"
+  },
+  {
+    "id": "1479",
+    "cityId": "100",
+    "name": "Jepon"
+  },
+  {
+    "id": "1480",
+    "cityId": "100",
+    "name": "Cepu"
+  },
+  {
+    "id": "1488",
+    "cityId": "100",
+    "name": "Ngawen"
+  },
+  {
+    "id": "1490",
+    "cityId": "100",
+    "name": "Jati"
+  },
+  {
+    "id": "1505",
+    "cityId": "100",
+    "name": "Randublatung"
+  },
+  {
+    "id": "1514",
+    "cityId": "100",
+    "name": "Sambong"
+  },
+  {
+    "id": "1516",
+    "cityId": "100",
+    "name": "Jiken"
+  },
+  {
+    "id": "1556",
+    "cityId": "100",
+    "name": "Kradenan"
+  },
+  {
+    "id": "1563",
+    "cityId": "100",
+    "name": "Japah"
+  },
+  {
+    "id": "1571",
+    "cityId": "100",
+    "name": "Todanan"
+  },
+  {
+    "id": "2859",
+    "cityId": "100",
+    "name": "Bogorejo"
+  },
+  {
+    "id": "1455",
+    "cityId": "101",
+    "name": "Weru"
+  },
+  {
+    "id": "1471",
+    "cityId": "101",
+    "name": "Polokarto"
+  },
+  {
+    "id": "1473",
+    "cityId": "101",
+    "name": "Baki"
+  },
+  {
+    "id": "1483",
+    "cityId": "101",
+    "name": "Grogol"
+  },
+  {
+    "id": "1493",
+    "cityId": "101",
+    "name": "Sukoharjo"
+  },
+  {
+    "id": "1496",
+    "cityId": "101",
+    "name": "Nguter"
+  },
+  {
+    "id": "1504",
+    "cityId": "101",
+    "name": "Mojolaban"
+  },
+  {
+    "id": "1507",
+    "cityId": "101",
+    "name": "Bendosari"
+  },
+  {
+    "id": "1518",
+    "cityId": "101",
+    "name": "Gatak"
+  },
+  {
+    "id": "1530",
+    "cityId": "101",
+    "name": "Bulu"
+  },
+  {
+    "id": "1545",
+    "cityId": "101",
+    "name": "Tawangsari"
+  },
+  {
+    "id": "1561",
+    "cityId": "101",
+    "name": "Kartasura"
+  },
+  {
+    "id": "1456",
+    "cityId": "102",
+    "name": "Kebakkramat"
+  },
+  {
+    "id": "1460",
+    "cityId": "102",
+    "name": "Jenawi"
+  },
+  {
+    "id": "1470",
+    "cityId": "102",
+    "name": "Jumapolo"
+  },
+  {
+    "id": "1485",
+    "cityId": "102",
+    "name": "Tawangmangu"
+  },
+  {
+    "id": "1491",
+    "cityId": "102",
+    "name": "Karangpandan"
+  },
+  {
+    "id": "1497",
+    "cityId": "102",
+    "name": "Colomadu"
+  },
+  {
+    "id": "1501",
+    "cityId": "102",
+    "name": "Karanganyar"
+  },
+  {
+    "id": "1511",
+    "cityId": "102",
+    "name": "Ngargoyoso"
+  },
+  {
+    "id": "1513",
+    "cityId": "102",
+    "name": "Jatiyoso"
+  },
+  {
+    "id": "1519",
+    "cityId": "102",
+    "name": "Jumantono"
+  },
+  {
+    "id": "1524",
+    "cityId": "102",
+    "name": "Kerjo"
+  },
+  {
+    "id": "1527",
+    "cityId": "102",
+    "name": "Jaten"
+  },
+  {
+    "id": "1532",
+    "cityId": "102",
+    "name": "Gondangrejo"
+  },
+  {
+    "id": "1537",
+    "cityId": "102",
+    "name": "Mojogedang"
+  },
+  {
+    "id": "1538",
+    "cityId": "102",
+    "name": "Tasikmadu"
+  },
+  {
+    "id": "1547",
+    "cityId": "102",
+    "name": "Matesih"
+  },
+  {
+    "id": "1566",
+    "cityId": "102",
+    "name": "Jatipuro"
+  },
+  {
+    "id": "1467",
+    "cityId": "103",
+    "name": "Miri"
+  },
+  {
+    "id": "1475",
+    "cityId": "103",
+    "name": "Sukodono"
+  },
+  {
+    "id": "1481",
+    "cityId": "103",
+    "name": "Kalijambe"
+  },
+  {
+    "id": "1482",
+    "cityId": "103",
+    "name": "Sambungmacan"
+  },
+  {
+    "id": "1486",
+    "cityId": "103",
+    "name": "Ngrampal"
+  },
+  {
+    "id": "1495",
+    "cityId": "103",
+    "name": "Jenar"
+  },
+  {
+    "id": "1508",
+    "cityId": "103",
+    "name": "Kedawung"
+  },
+  {
+    "id": "1510",
+    "cityId": "103",
+    "name": "Sidoharjo"
+  },
+  {
+    "id": "1515",
+    "cityId": "103",
+    "name": "Gesi"
+  },
+  {
+    "id": "1517",
+    "cityId": "103",
+    "name": "Sambirejo"
+  },
+  {
+    "id": "1522",
+    "cityId": "103",
+    "name": "Tanon"
+  },
+  {
+    "id": "1526",
+    "cityId": "103",
+    "name": "Gemolong"
+  },
+  {
+    "id": "1536",
+    "cityId": "103",
+    "name": "Gondang"
+  },
+  {
+    "id": "1541",
+    "cityId": "103",
+    "name": "Plupuh"
+  },
+  {
+    "id": "1543",
+    "cityId": "103",
+    "name": "Sumberlawang"
+  },
+  {
+    "id": "1548",
+    "cityId": "103",
+    "name": "Masaran"
+  },
+  {
+    "id": "1549",
+    "cityId": "103",
+    "name": "Tangen"
+  },
+  {
+    "id": "1552",
+    "cityId": "103",
+    "name": "Mondokan"
+  },
+  {
+    "id": "1562",
+    "cityId": "103",
+    "name": "Karangmalang"
+  },
+  {
+    "id": "1570",
+    "cityId": "103",
+    "name": "Sragen"
+  },
+  {
+    "id": "1472",
+    "cityId": "104",
+    "name": "Purwantoro"
+  },
+  {
+    "id": "1476",
+    "cityId": "104",
+    "name": "Eromoko"
+  },
+  {
+    "id": "1477",
+    "cityId": "104",
+    "name": "Baturetno"
+  },
+  {
+    "id": "1478",
+    "cityId": "104",
+    "name": "Jatipurno"
+  },
+  {
+    "id": "1484",
+    "cityId": "104",
+    "name": "Pracimantoro"
+  },
+  {
+    "id": "1494",
+    "cityId": "104",
+    "name": "Tirtomoyo"
+  },
+  {
+    "id": "1498",
+    "cityId": "104",
+    "name": "Batuwarno"
+  },
+  {
+    "id": "1500",
+    "cityId": "104",
+    "name": "Giritontro"
+  },
+  {
+    "id": "1503",
+    "cityId": "104",
+    "name": "Nguntoronadi"
+  },
+  {
+    "id": "1512",
+    "cityId": "104",
+    "name": "Manyaran"
+  },
+  {
+    "id": "1523",
+    "cityId": "104",
+    "name": "Jatiroto"
+  },
+  {
+    "id": "1528",
+    "cityId": "104",
+    "name": "Girimarto"
+  },
+  {
+    "id": "1529",
+    "cityId": "104",
+    "name": "Kismantoro"
+  },
+  {
+    "id": "1531",
+    "cityId": "104",
+    "name": "Bulukerto"
+  },
+  {
+    "id": "1533",
+    "cityId": "104",
+    "name": "Giriwoyo"
+  },
+  {
+    "id": "1534",
+    "cityId": "104",
+    "name": "Slogohimo"
+  },
+  {
+    "id": "1535",
+    "cityId": "104",
+    "name": "Wonogiri"
+  },
+  {
+    "id": "1551",
+    "cityId": "104",
+    "name": "Ngadirojo"
+  },
+  {
+    "id": "1553",
+    "cityId": "104",
+    "name": "Selogiri"
+  },
+  {
+    "id": "1554",
+    "cityId": "104",
+    "name": "Paranggupito"
+  },
+  {
+    "id": "1555",
+    "cityId": "104",
+    "name": "Wuryantoro"
+  },
+  {
+    "id": "1558",
+    "cityId": "104",
+    "name": "Puhpelem"
+  },
+  {
+    "id": "1560",
+    "cityId": "104",
+    "name": "Jatisrono"
+  },
+  {
+    "id": "1567",
+    "cityId": "104",
+    "name": "Sidoharjo"
+  },
+  {
+    "id": "1568",
+    "cityId": "104",
+    "name": "Karangtengah"
+  },
+  {
+    "id": "1572",
+    "cityId": "105",
+    "name": "Sukolilo"
+  },
+  {
+    "id": "2778",
+    "cityId": "105",
+    "name": "Trangkil"
+  },
+  {
+    "id": "2785",
+    "cityId": "105",
+    "name": "Kayen"
+  },
+  {
+    "id": "2786",
+    "cityId": "105",
+    "name": "Jaken"
+  },
+  {
+    "id": "2790",
+    "cityId": "105",
+    "name": "Gabus"
+  },
+  {
+    "id": "2791",
+    "cityId": "105",
+    "name": "Tlogowungu"
+  },
+  {
+    "id": "2794",
+    "cityId": "105",
+    "name": "Tayu"
+  },
+  {
+    "id": "2798",
+    "cityId": "105",
+    "name": "Gunungwungkal"
+  },
+  {
+    "id": "2801",
+    "cityId": "105",
+    "name": "Winong"
+  },
+  {
+    "id": "2802",
+    "cityId": "105",
+    "name": "Pati"
+  },
+  {
+    "id": "2805",
+    "cityId": "105",
+    "name": "Juwana"
+  },
+  {
+    "id": "2806",
+    "cityId": "105",
+    "name": "Margoyoso"
+  },
+  {
+    "id": "2808",
+    "cityId": "105",
+    "name": "Jakenan"
+  },
+  {
+    "id": "2809",
+    "cityId": "105",
+    "name": "Gembong"
+  },
+  {
+    "id": "2813",
+    "cityId": "105",
+    "name": "Cluwak"
+  },
+  {
+    "id": "2816",
+    "cityId": "105",
+    "name": "Wedarijaksa"
+  },
+  {
+    "id": "2818",
+    "cityId": "105",
+    "name": "Tambakromo"
+  },
+  {
+    "id": "2819",
+    "cityId": "105",
+    "name": "Pucakwangi"
+  },
+  {
+    "id": "2820",
+    "cityId": "105",
+    "name": "Margorejo"
+  },
+  {
+    "id": "2824",
+    "cityId": "105",
+    "name": "Batangan"
+  },
+  {
+    "id": "2830",
+    "cityId": "105",
+    "name": "Dukuhseti"
+  },
+  {
+    "id": "1573",
+    "cityId": "106",
+    "name": "Banjarsari"
+  },
+  {
+    "id": "1574",
+    "cityId": "106",
+    "name": "Pasar Kliwon"
+  },
+  {
+    "id": "1575",
+    "cityId": "106",
+    "name": "Laweyan"
+  },
+  {
+    "id": "1576",
+    "cityId": "106",
+    "name": "Serengan"
+  },
+  {
+    "id": "1577",
+    "cityId": "106",
+    "name": "Jebres"
+  },
+  {
+    "id": "2779",
+    "cityId": "182",
+    "name": "Dawe"
+  },
+  {
+    "id": "2781",
+    "cityId": "182",
+    "name": "Kota Kudus"
+  },
+  {
+    "id": "2789",
+    "cityId": "182",
+    "name": "Jekulo"
+  },
+  {
+    "id": "2796",
+    "cityId": "182",
+    "name": "Undaan"
+  },
+  {
+    "id": "2814",
+    "cityId": "182",
+    "name": "Kaliwungu"
+  },
+  {
+    "id": "2829",
+    "cityId": "182",
+    "name": "Jati"
+  },
+  {
+    "id": "2832",
+    "cityId": "182",
+    "name": "Mejobo"
+  },
+  {
+    "id": "3072",
+    "cityId": "182",
+    "name": "Bae"
+  },
+  {
+    "id": "3073",
+    "cityId": "182",
+    "name": "Gebog"
+  },
+  {
+    "id": "2780",
+    "cityId": "183",
+    "name": "Sale"
+  },
+  {
+    "id": "2783",
+    "cityId": "183",
+    "name": "Pamotan"
+  },
+  {
+    "id": "2787",
+    "cityId": "183",
+    "name": "Sumber"
+  },
+  {
+    "id": "2788",
+    "cityId": "183",
+    "name": "Sulang"
+  },
+  {
+    "id": "2792",
+    "cityId": "183",
+    "name": "Sedan"
+  },
+  {
+    "id": "2795",
+    "cityId": "183",
+    "name": "Kaliori"
+  },
+  {
+    "id": "2797",
+    "cityId": "183",
+    "name": "Gunem"
+  },
+  {
+    "id": "2799",
+    "cityId": "183",
+    "name": "Sarang"
+  },
+  {
+    "id": "2800",
+    "cityId": "183",
+    "name": "Sluke"
+  },
+  {
+    "id": "2803",
+    "cityId": "183",
+    "name": "Rembang"
+  },
+  {
+    "id": "2807",
+    "cityId": "183",
+    "name": "Lasem"
+  },
+  {
+    "id": "2810",
+    "cityId": "183",
+    "name": "Kragan"
+  },
+  {
+    "id": "2811",
+    "cityId": "183",
+    "name": "Bulu"
+  },
+  {
+    "id": "2817",
+    "cityId": "183",
+    "name": "Pancur"
+  },
+  {
+    "id": "2782",
+    "cityId": "184",
+    "name": "Pecangaan"
+  },
+  {
+    "id": "2784",
+    "cityId": "184",
+    "name": "Kalinyamatan"
+  },
+  {
+    "id": "2812",
+    "cityId": "184",
+    "name": "Mayong"
+  },
+  {
+    "id": "2815",
+    "cityId": "184",
+    "name": "Welahan"
+  },
+  {
+    "id": "2821",
+    "cityId": "184",
+    "name": "Batealit"
+  },
+  {
+    "id": "2822",
+    "cityId": "184",
+    "name": "Bangsri"
+  },
+  {
+    "id": "2823",
+    "cityId": "184",
+    "name": "Mlonggo"
+  },
+  {
+    "id": "2825",
+    "cityId": "184",
+    "name": "Kembang"
+  },
+  {
+    "id": "2826",
+    "cityId": "184",
+    "name": "Donorojo"
+  },
+  {
+    "id": "2827",
+    "cityId": "184",
+    "name": "Pakis Aji"
+  },
+  {
+    "id": "2831",
+    "cityId": "184",
+    "name": "Keling"
+  },
+  {
+    "id": "2833",
+    "cityId": "184",
+    "name": "Nalumsari"
+  },
+  {
+    "id": "2835",
+    "cityId": "184",
+    "name": "Jepara"
+  },
+  {
+    "id": "2865",
+    "cityId": "184",
+    "name": "Kedung"
+  },
+  {
+    "id": "2866",
+    "cityId": "184",
+    "name": "Tahunan"
+  },
+  {
+    "id": "3064",
+    "cityId": "184",
+    "name": "Karimunjawa"
+  },
+  {
+    "id": "2841",
+    "cityId": "185",
+    "name": "Pekalongan Selatan"
+  },
+  {
+    "id": "3054",
+    "cityId": "185",
+    "name": "Pekalongan Utara"
+  },
+  {
+    "id": "3056",
+    "cityId": "185",
+    "name": "Pekalongan Barat"
+  },
+  {
+    "id": "3060",
+    "cityId": "185",
+    "name": "Pekalongan Timur"
+  },
+  {
+    "id": "3055",
+    "cityId": "206",
+    "name": "Tegal Selatan"
+  },
+  {
+    "id": "3058",
+    "cityId": "206",
+    "name": "Margadana"
+  },
+  {
+    "id": "3059",
+    "cityId": "206",
+    "name": "Tegal Barat"
+  },
+  {
+    "id": "3061",
+    "cityId": "206",
+    "name": "Tegal Timur"
+  }
+]

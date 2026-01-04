@@ -1,0 +1,47 @@
+[
+  {
+    "id": "12",
+    "provinceId": "2",
+    "name": "Klungkung"
+  },
+  {
+    "id": "13",
+    "provinceId": "2",
+    "name": "Karangasem"
+  },
+  {
+    "id": "14",
+    "provinceId": "2",
+    "name": "Bangli"
+  },
+  {
+    "id": "15",
+    "provinceId": "2",
+    "name": "Tabanan"
+  },
+  {
+    "id": "16",
+    "provinceId": "2",
+    "name": "Badung"
+  },
+  {
+    "id": "17",
+    "provinceId": "2",
+    "name": "Gianyar"
+  },
+  {
+    "id": "18",
+    "provinceId": "2",
+    "name": "Jembrana"
+  },
+  {
+    "id": "19",
+    "provinceId": "2",
+    "name": "Buleleng"
+  },
+  {
+    "id": "20",
+    "provinceId": "2",
+    "name": "Kota Denpasar"
+  }
+]

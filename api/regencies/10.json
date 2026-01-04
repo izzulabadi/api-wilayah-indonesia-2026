@@ -1,0 +1,77 @@
+[
+  {
+    "id": "111",
+    "provinceId": "10",
+    "name": "Way Kanan"
+  },
+  {
+    "id": "112",
+    "provinceId": "10",
+    "name": "Kota Bandar Lampung"
+  },
+  {
+    "id": "113",
+    "provinceId": "10",
+    "name": "Pesisir Barat"
+  },
+  {
+    "id": "114",
+    "provinceId": "10",
+    "name": "Lampung Barat"
+  },
+  {
+    "id": "115",
+    "provinceId": "10",
+    "name": "Tanggamus"
+  },
+  {
+    "id": "116",
+    "provinceId": "10",
+    "name": "Mesuji"
+  },
+  {
+    "id": "117",
+    "provinceId": "10",
+    "name": "Kota Metro"
+  },
+  {
+    "id": "118",
+    "provinceId": "10",
+    "name": "Lampung Selatan"
+  },
+  {
+    "id": "119",
+    "provinceId": "10",
+    "name": "Lampung Tengah"
+  },
+  {
+    "id": "120",
+    "provinceId": "10",
+    "name": "Lampung Utara"
+  },
+  {
+    "id": "121",
+    "provinceId": "10",
+    "name": "Pesawaran"
+  },
+  {
+    "id": "122",
+    "provinceId": "10",
+    "name": "Tulang Bawang"
+  },
+  {
+    "id": "123",
+    "provinceId": "10",
+    "name": "Lampung Timur"
+  },
+  {
+    "id": "124",
+    "provinceId": "10",
+    "name": "Tulang Bawang Barat"
+  },
+  {
+    "id": "125",
+    "provinceId": "10",
+    "name": "Pringsewu"
+  }
+]

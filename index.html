@@ -130,8 +130,8 @@
 
   // Cache for data
   const cache = {
-    regencies: null,
-    districts: null,
+    regencies: {}, // cache per province
+    districts: {}, // cache per province
     villages: {} // cache per province
   };
 
@@ -147,17 +147,44 @@
   }
 
   async function loadRegencies(provinceId) {
-    if (!cache.regencies) {
-      cache.regencies = await fetchJson('/regencies.json');
+    if (!cache.regencies[provinceId]) {
+      try {
+        // Fetch regencies specific to this province
+        const data = await fetchJson(`/regencies/${provinceId}.json`);
+        cache.regencies[provinceId] = data;
+      } catch (e) {
+        console.error('Failed to load regencies:', e);
+        return;
+      }
     }
-    return cache.regencies.filter(r => r.provinceId === provinceId);
+    
+    // No need to filter manually anymore, the API returns only relevant items
+    populateSelect('regency', cache.regencies[provinceId]);
+    selects.regency.enable();
   }
 
   async function loadDistricts(regencyId) {
-    if (!cache.districts) {
-      cache.districts = await fetchJson('/districts.json');
+    // We need provinceId to fetch the correct district file.
+    // Since we don't store provinceId directly in the select value, we can look it up
+    // from the currently selected province.
+    const provinceId = selects.province.getValue();
+    
+    if (!cache.districts[provinceId]) {
+      try {
+        // Fetch districts specific to this province
+        const data = await fetchJson(`/districts/${provinceId}.json`);
+        cache.districts[provinceId] = data;
+      } catch (e) {
+        console.error('Failed to load districts:', e);
+        return;
+      }
     }
-    return cache.districts.filter(d => d.cityId === regencyId);
+
+    // Filter districts by regencyId (client-side filter is still needed here 
+    // because the file contains all districts in the PROVINCE, not just the regency)
+    const filtered = cache.districts[provinceId].filter(d => d.cityId === regencyId);
+    populateSelect('district', filtered);
+    selects.district.enable();
   }
 
   async function loadVillages(provinceId, districtId) {
@@ -202,15 +229,13 @@
   selects.province.on('change', async (id) => {
     resetSelects('province');
     if (!id) return;
-    const regencies = await loadRegencies(id);
-    populateSelect('regency', regencies);
+    await loadRegencies(id);
   });
 
   selects.regency.on('change', async (id) => {
     resetSelects('regency');
     if (!id) return;
-    const districts = await loadDistricts(id);
-    populateSelect('district', districts);
+    await loadDistricts(id);
   });
 
   selects.district.on('change', async (id) => {

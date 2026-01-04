@@ -1,0 +1,287 @@
+[
+  {
+    "id": "140",
+    "cityId": "12",
+    "name": "Banjarangkan"
+  },
+  {
+    "id": "149",
+    "cityId": "12",
+    "name": "Klungkung"
+  },
+  {
+    "id": "169",
+    "cityId": "12",
+    "name": "Nusa Penida"
+  },
+  {
+    "id": "181",
+    "cityId": "12",
+    "name": "Dawan"
+  },
+  {
+    "id": "141",
+    "cityId": "13",
+    "name": "Abang"
+  },
+  {
+    "id": "152",
+    "cityId": "13",
+    "name": "Selat"
+  },
+  {
+    "id": "156",
+    "cityId": "13",
+    "name": "Manggis"
+  },
+  {
+    "id": "160",
+    "cityId": "13",
+    "name": "Kubu"
+  },
+  {
+    "id": "172",
+    "cityId": "13",
+    "name": "Bebandem"
+  },
+  {
+    "id": "180",
+    "cityId": "13",
+    "name": "Rendang"
+  },
+  {
+    "id": "185",
+    "cityId": "13",
+    "name": "Karangasem"
+  },
+  {
+    "id": "194",
+    "cityId": "13",
+    "name": "Sidemen"
+  },
+  {
+    "id": "142",
+    "cityId": "14",
+    "name": "Kintamani"
+  },
+  {
+    "id": "147",
+    "cityId": "14",
+    "name": "Susut"
+  },
+  {
+    "id": "161",
+    "cityId": "14",
+    "name": "Tembuku"
+  },
+  {
+    "id": "171",
+    "cityId": "14",
+    "name": "Bangli"
+  },
+  {
+    "id": "143",
+    "cityId": "15",
+    "name": "Kediri"
+  },
+  {
+    "id": "153",
+    "cityId": "15",
+    "name": "Selemadeg Barat"
+  },
+  {
+    "id": "154",
+    "cityId": "15",
+    "name": "Baturiti"
+  },
+  {
+    "id": "155",
+    "cityId": "15",
+    "name": "Selemadeg"
+  },
+  {
+    "id": "158",
+    "cityId": "15",
+    "name": "Penebel"
+  },
+  {
+    "id": "164",
+    "cityId": "15",
+    "name": "Selemadeg Timur"
+  },
+  {
+    "id": "166",
+    "cityId": "15",
+    "name": "Marga"
+  },
+  {
+    "id": "167",
+    "cityId": "15",
+    "name": "Kerambitan"
+  },
+  {
+    "id": "170",
+    "cityId": "15",
+    "name": "Pupuan"
+  },
+  {
+    "id": "183",
+    "cityId": "15",
+    "name": "Tabanan"
+  },
+  {
+    "id": "144",
+    "cityId": "16",
+    "name": "Mengwi"
+  },
+  {
+    "id": "146",
+    "cityId": "16",
+    "name": "Abiansemal"
+  },
+  {
+    "id": "176",
+    "cityId": "16",
+    "name": "Petang"
+  },
+  {
+    "id": "179",
+    "cityId": "16",
+    "name": "Kuta Selatan"
+  },
+  {
+    "id": "186",
+    "cityId": "16",
+    "name": "Kuta Utara"
+  },
+  {
+    "id": "193",
+    "cityId": "16",
+    "name": "Kuta"
+  },
+  {
+    "id": "145",
+    "cityId": "17",
+    "name": "Gianyar"
+  },
+  {
+    "id": "168",
+    "cityId": "17",
+    "name": "Sukawati"
+  },
+  {
+    "id": "174",
+    "cityId": "17",
+    "name": "Blahbatuh"
+  },
+  {
+    "id": "184",
+    "cityId": "17",
+    "name": "Payangan"
+  },
+  {
+    "id": "191",
+    "cityId": "17",
+    "name": "Ubud"
+  },
+  {
+    "id": "192",
+    "cityId": "17",
+    "name": "Tegallalang"
+  },
+  {
+    "id": "195",
+    "cityId": "17",
+    "name": "Tampaksiring"
+  },
+  {
+    "id": "148",
+    "cityId": "18",
+    "name": "Jembrana"
+  },
+  {
+    "id": "157",
+    "cityId": "18",
+    "name": "Pekutatan"
+  },
+  {
+    "id": "159",
+    "cityId": "18",
+    "name": "Negara"
+  },
+  {
+    "id": "175",
+    "cityId": "18",
+    "name": "Melaya"
+  },
+  {
+    "id": "190",
+    "cityId": "18",
+    "name": "Mendoyo"
+  },
+  {
+    "id": "150",
+    "cityId": "19",
+    "name": "Buleleng"
+  },
+  {
+    "id": "151",
+    "cityId": "19",
+    "name": "Sukasada"
+  },
+  {
+    "id": "162",
+    "cityId": "19",
+    "name": "Banjar"
+  },
+  {
+    "id": "163",
+    "cityId": "19",
+    "name": "Seririt"
+  },
+  {
+    "id": "165",
+    "cityId": "19",
+    "name": "Gerokgak"
+  },
+  {
+    "id": "173",
+    "cityId": "19",
+    "name": "Sawan"
+  },
+  {
+    "id": "177",
+    "cityId": "19",
+    "name": "Kubutambahan"
+  },
+  {
+    "id": "178",
+    "cityId": "19",
+    "name": "Busungbiu"
+  },
+  {
+    "id": "182",
+    "cityId": "19",
+    "name": "Tejakula"
+  },
+  {
+    "id": "187",
+    "cityId": "20",
+    "name": "Denpasar Timur"
+  },
+  {
+    "id": "188",
+    "cityId": "20",
+    "name": "Denpasar Utara"
+  },
+  {
+    "id": "189",
+    "cityId": "20",
+    "name": "Denpasar Barat"
+  },
+  {
+    "id": "196",
+    "cityId": "20",
+    "name": "Denpasar Selatan"
+  }
+]
