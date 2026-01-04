@@ -7,10 +7,10 @@ const crypto = require('crypto')
 // containing file name, size and sha256 checksum.
 
 const root = path.resolve(__dirname, '..')
-const apiDir = path.join(root, 'docs', 'api')
+const apiDir = path.join(root, 'api')
 
 if (!fs.existsSync(apiDir)) {
-  console.error('docs/api/ folder not found. Please create docs/api/ and add provinces/regencies/districts/villages JSON files.')
+  console.error('api/ folder not found. Please create api/ and add provinces/regencies/districts/villages JSON files.')
   process.exit(1)
 }
 

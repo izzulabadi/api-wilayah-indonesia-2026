@@ -2,11 +2,11 @@ const fs = require('fs')
 const path = require('path')
 
 const root = path.resolve(__dirname, '..')
-const apiDir = path.join(root, 'docs', 'api')
+const apiDir = path.join(root, 'api')
 const villagesPath = path.join(apiDir, 'villages.json')
 
 if (!fs.existsSync(villagesPath)) {
-  console.error('docs/api/villages.json not found — cannot split')
+  console.error('api/villages.json not found — cannot split')
   process.exit(1)
 }
 
@@ -14,7 +14,7 @@ const districtsPath = path.join(apiDir, 'districts.json')
 const regenciesPath = path.join(apiDir, 'regencies.json')
 
 if (!fs.existsSync(districtsPath) || !fs.existsSync(regenciesPath)) {
-  console.error('docs/api/districts.json or docs/api/regencies.json missing — required to map village -> province')
+  console.error('api/districts.json or api/regencies.json missing — required to map village -> province')
   process.exit(1)
 }
 
