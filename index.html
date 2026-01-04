@@ -164,34 +164,33 @@
   }
 
   async function loadDistricts(regencyId) {
-    // We need provinceId to fetch the correct district file.
-    // Since we don't store provinceId directly in the select value, we can look it up
-    // from the currently selected province.
-    const provinceId = selects.province.getValue();
-    
-    if (!cache.districts[provinceId]) {
+    if (!cache.districts[regencyId]) {
       try {
-        // Fetch districts specific to this province
-        const data = await fetchJson(`/districts/${provinceId}.json`);
-        cache.districts[provinceId] = data;
+        // Fetch districts specific to this regency
+        const data = await fetchJson(`/districts/${regencyId}.json`);
+        cache.districts[regencyId] = data;
       } catch (e) {
         console.error('Failed to load districts:', e);
         return;
       }
     }
 
-    // Filter districts by regencyId (client-side filter is still needed here 
-    // because the file contains all districts in the PROVINCE, not just the regency)
-    const filtered = cache.districts[provinceId].filter(d => d.cityId === regencyId);
-    populateSelect('district', filtered);
+    populateSelect('district', cache.districts[regencyId]);
     selects.district.enable();
   }
 
-  async function loadVillages(provinceId, districtId) {
-    if (!cache.villages[provinceId]) {
-      cache.villages[provinceId] = await fetchJson(`/villages/${provinceId}.json`);
+  async function loadVillages(districtId) {
+    if (!cache.villages[districtId]) {
+      try {
+        // Fetch villages specific to this district
+        const data = await fetchJson(`/villages/${districtId}.json`);
+        cache.villages[districtId] = data;
+      } catch (e) {
+        console.error('Failed to load villages:', e);
+        return;
+      }
     }
-    return cache.villages[provinceId].filter(v => v.districtId === districtId);
+    return cache.villages[districtId];
   }
 
   function populateSelect(key, items) {
@@ -239,11 +238,9 @@
   });
 
   selects.district.on('change', async (id) => {
-    // We need province ID to fetch villages (optimized path)
-    const provId = selects.province.getValue();
     resetSelects('district');
     if (!id) return;
-    const villages = await loadVillages(provId, id);
+    const villages = await loadVillages(id);
     populateSelect('village', villages);
   });
 

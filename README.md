@@ -1,4 +1,4 @@
-# API Wilayah Indonesia
+# API Wilayah Indonesia Tahun 2026
 
 [![Validate API JSON](https://github.com/izzulabadi/api-wilayah-indonesia-2026/actions/workflows/validate.yml/badge.svg)](https://github.com/izzulabadi/api-wilayah-indonesia-2026/actions/workflows/validate.yml)
 [**Lihat Demo**](https://izzulabadi.github.io/api-wilayah-indonesia-2026/)
@@ -91,11 +91,11 @@ Anda dapat mengakses data langsung melalui URL berikut (ganti `<username>` dan `
 | **Semua Kabupaten** | `/regencies.json` | [Link](https://cdn.jsdelivr.net/gh/izzulabadi/api-wilayah-indonesia-2026@v1.0.0/api/regencies.json) |
 | **Kabupaten per Provinsi** | `/regencies/{provinceId}.json` | [Link](https://cdn.jsdelivr.net/gh/izzulabadi/api-wilayah-indonesia-2026@v1.0.0/api/regencies/11.json) |
 | **Semua Kecamatan** | `/districts.json` | [Link](https://cdn.jsdelivr.net/gh/izzulabadi/api-wilayah-indonesia-2026@v1.0.0/api/districts.json) |
-| **Kecamatan per Provinsi** | `/districts/{provinceId}.json` | [Link](https://cdn.jsdelivr.net/gh/izzulabadi/api-wilayah-indonesia-2026@v1.0.0/api/districts/11.json) |
+| **Kecamatan per Kabupaten** | `/districts/{regencyId}.json` | [Link](https://cdn.jsdelivr.net/gh/izzulabadi/api-wilayah-indonesia-2026@v1.0.0/api/districts/1101.json) |
 | **Semua Desa** (Besar!) | `/villages.json` | [Link](https://cdn.jsdelivr.net/gh/izzulabadi/api-wilayah-indonesia-2026@v1.0.0/api/villages.json) |
-| **Desa per Provinsi** | `/villages/{provinceId}.json` | [Link](https://cdn.jsdelivr.net/gh/izzulabadi/api-wilayah-indonesia-2026@v1.0.0/api/villages/11.json) |
+| **Desa per Kecamatan** | `/villages/{districtId}.json` | [Link](https://cdn.jsdelivr.net/gh/izzulabadi/api-wilayah-indonesia-2026@v1.0.0/api/villages/1101010.json) |
 
-> **Catatan:** Sangat disarankan menggunakan endpoint per-provinsi (`/regencies/{id}.json`, `/districts/{id}.json`, `/villages/{id}.json`) untuk performa aplikasi yang lebih baik.
+> **Catatan:** Sangat disarankan menggunakan endpoint granular (`/regencies/{provinceId}.json`, `/districts/{regencyId}.json`, `/villages/{districtId}.json`) untuk performa aplikasi yang maksimal.
 
 ## Cara Penggunaan
 
